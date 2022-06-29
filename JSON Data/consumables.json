@@ -1,0 +1,747 @@
+[
+	{
+		"Name": "Exalted Flesh",
+		"Link": "https://eldenring.wiki.fextralife.com/Exalted+Flesh",
+		"Lore": "A lump of animal flesh pickled in a medicinal solution mixed with fiery spices. \r\n Craftable item. \r\n \r\n Temporarily boosts physical attack. \r\n \r\n Considered a delicacy in the badlands, this invigorating repast was for the exclusive benefit of those who they deem heroes. "
+	},
+	{
+		"Name": "Golden Rune [5]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(5)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. \r\n Use to gain 1600 runes. \r\n Even now, runes are still imbued with the power of life itself. Do you see the Erdtree towering o'er?"
+	},
+	{
+		"Name": "Starlight Shards",
+		"Link": "https://eldenring.wiki.fextralife.com/Starlight+Shards",
+		"Lore": "An ephemeral sliver that gives off a pale blue glow. \r\n What remains of a passing flash of starlight. \r\n \r\n Use to gradually recover FP. \r\n \r\n A prized item that was once used in the Eternal City as an ingredient in intoxicating draughts. "
+	},
+	{
+		"Name": "Fire Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Fire+Grease",
+		"Lore": "Solidified grease made from a mixture of incendiary materials. Craftable item. \r\n  \r\n Coats armament, adding fire damage to attacks. \r\n The effect lasts only for a short time. "
+	},
+	{
+		"Name": "Frenzyflame Stone",
+		"Link": "https://eldenring.wiki.fextralife.com/Frenzyflame+Stone",
+		"Lore": "Ruin Fragment blessed with an incantation of the Three Fingers. \r\nCraftable item. \r\n Uses FP to generate warmth, continuously restoring the HP of those who host the frenzied flame. \r\n Confers madness upon those who have not adopted the flame. \r\nTake care not to mistake this for its gentler cousin. "
+	},
+	{
+		"Name": "Spellproof Dried Liver",
+		"Link": "https://eldenring.wiki.fextralife.com/Spellproof+Dried+Liver",
+		"Lore": "Cured animal liver, dried out after pickling in a blue medicinal solution. \r\n Craftable item. \r\n \r\n Temporarily boosts magic damage negation, improving damage mitigation against attacks imbued with magic. "
+	},
+	{
+		"Name": "Fan Daggers",
+		"Link": "https://eldenring.wiki.fextralife.com/Fan+Daggers",
+		"Lore": "A set of five throwing knives bundled together. \r\n A concealed weapon cherished by the raptor assassins. \r\n \r\n The thin knives fan out when thrown, dealing damage to the target. \r\n Each knife deals paltry damage, but the wide range makes it suitable for constraining enemies. "
+	},
+	{
+		"Name": "Numen's Rune",
+		"Link": "https://eldenring.wiki.fextralife.com/Numen's+Rune",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 12500 runes. \r\n The Numen are said to have come from outside the Lands Between, and are in fact of the same stock as Queen Marika herself. "
+	},
+	{
+		"Name": "Rowa Raisin",
+		"Link": "https://eldenring.wiki.fextralife.com/Rowa+Raisin",
+		"Lore": "Preparation of dried Rowa fruit. \r\n Craftable item. \r\n Feed to Torrent, the spectral steed, while riding to restore his HP. \r\n Humans are unable to digest Rowa fruit, but Torrent seems to have a taste for it. "
+	},
+	{
+		"Name": "Boiled Crab",
+		"Link": "https://eldenring.wiki.fextralife.com/Boiled+Crab",
+		"Lore": "Boiled�crab meat. \r\nA prime specimen of plump and moist meat. \r\nTrue connoisseurs know how to keep from over-salting. \r\n Greatly boosts physical damage negation for a certain duration, \r\n Unlike the \"prawn\" sold, this truly is crab. Not that it matters, it's delicious all the same. "
+	},
+	{
+		"Name": "Rancor Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Rancor+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n Enchanted by the ancient death hex. \r\n \r\nConsumes FP. Throw at enemies to spawn vengeful spirits that chase down foes. \r\n \r\nIn times of old, the dead were burned with ghostflame, and from those cinders arose vengeful spirits. "
+	},
+	{
+		"Name": "Shield Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Shield+Grease",
+		"Lore": "Solidified grease made from a mixture of magically resonant materials. Craftable item. \r\n Coats left-hand armament, boosting guarding ability and all forms of damage negations. \r\n Primarily used on shields. "
+	},
+	{
+		"Name": "Hero's Rune [4]",
+		"Link": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[4]",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 30000 runes. \r\n There were once heroes who walked the battlefields, abundantly blessed by the Erdtree itself, who upon earning their honor simply died. "
+	},
+	{
+		"Name": "Glowstone",
+		"Link": "https://eldenring.wiki.fextralife.com/Glowstone",
+		"Lore": "Polished Ruin Fragment that shines brighter than Rainbow Stone. \r\n Craftable item. \r\n \r\n Emits light from the location it is placed, illuminating surroundings. \r\n However, the effect is short-lived, and it lacks the diverse colors of rainbow stones. \r\n \r\n May serve some benefit in dark places, or at night. "
+	},
+	{
+		"Name": "Academy Magic Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Academy+Magic+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nEnchanted by Raya Lucaria sorceries. \r\nConsumes FP. Throw at enemies to inflict heavy magic damage. \r\nThis pot, considered a \"faux sorcery,\" was employed to protect the academy. "
+	},
+	{
+		"Name": "Holy Water Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Holy+Water+Grease",
+		"Lore": "Grease which holds the blessing of the Erdtree. \r\n Craftable item. \r\n \r\n Consumes FP when coated on weapon, allowing�it to deal magical damage and purify those who�have lived beyond death. \r\n \r\n There is no place in the Golden Order for those�who have exceeded life's bounds. These blemishes�must be hunted down by the Virtuous. "
+	},
+	{
+		"Name": "Festering Bloody Finger",
+		"Link": "https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger",
+		"Lore": "Item for online play. \r\n (Can also be used from the Multiplayer menu. )\r\n Consumed upon use. \r\n \r\n Attempts an invasion of another player's world. \r\n If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world. \r\n \r\n This furled finger is blackened with blood congestion. It seems to have been chopped off rather unceremoniously. "
+	},
+	{
+		"Name": "Holyproof Dried Liver",
+		"Link": "https://eldenring.wiki.fextralife.com/Holyproof+Dried+Liver",
+		"Lore": "Cured animal liver, dried out after pickling in a golden medicinal solution. \r\nCraftable item. \r\n \r\n Temporarily boosts holy damage negation, improving damage mitigation against attacks imbued with holiness. "
+	},
+	{
+		"Name": "Golden Rune [2]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(2)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. \r\n Use to gain 400 runes. \r\n Runes are nourishment for the development of any Tarnished. Provided a Finger Maiden can be found. . . "
+	},
+	{
+		"Name": "Drawstring Magic Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Magic+Grease",
+		"Lore": "Solidified grease made from a mixture of magically resonant materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting magic damage, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Golden Rune [6]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(6)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 2000 runes. \r\n Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. "
+	},
+	{
+		"Name": "Hero's Rune [5]",
+		"Link": "https://eldenring.wiki.fextralife.com/Hero's+Rune+(5)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 35000 runes. \r\n There were once heroes who walked the battlefields, abundantly blessed by the Erdtree itself, who upon earning their honor simply died. "
+	},
+	{
+		"Name": "Drawstring Blood Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Blood+Grease",
+		"Lore": "Blistered solid grease made from a mixture of blood-red materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting blood loss, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Throwing Dagger",
+		"Link": "https://eldenring.wiki.fextralife.com/Throwing+Dagger",
+		"Lore": "Short dagger for throwing. It has no handguard. \r\n The blade is polished, and its weight is expertly balanced. \r\n \r\n Throw at enemies to deal damage. \r\n \r\n This auxiliary weapon, used primarily to constrain an enemy's movements, can still be deadly in the right hands. "
+	},
+	{
+		"Name": "Invigorating White Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Invigorating+White+Cured+Meat",
+		"Lore": "A white sliced meat, dried out after pickling in a red medicinal solution. \r\nCraftable item. \r\n Temporarily boosts robustness. \r\n Lasts longer than traditional cured meat, but with reduced effectiveness. "
+	},
+	{
+		"Name": "Hero's Rune [3]",
+		"Link": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[3]",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 25000 runes. \r\n There were once heroes who walked the battlefields, abundantly blessed by the Erdtree itself, who upon earning their honor simply died. "
+	},
+	{
+		"Name": "Pickled Turtle Neck",
+		"Link": "https://eldenring.wiki.fextralife.com/Pickled+Turtle+Neck",
+		"Lore": "Turtle neck meat, pickled in a bitter medicinal solution. Craftable item. \r\n \r\n Temporarily boosts stamina recovery. \r\n \r\n The nutrients churn through the body, practically boiling out endless power. "
+	},
+	{
+		"Name": "Golden Rune [7]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(7)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 2500 runes. \r\n Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. "
+	},
+	{
+		"Name": "Roped Lightning Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Lightning+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of fulminating materials is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\n\r\nThrow at rearward enemies to inflict lightning damage. "
+	},
+	{
+		"Name": "Kukri",
+		"Link": "https://eldenring.wiki.fextralife.com/Kukri",
+		"Lore": "A large knife used for throwing. \r\n Its curved blade is sharp enough to slice flesh cleanly. \r\n \r\n Throw at enemies to inflict damage and build up onset of blood loss. \r\n \r\n This heavy throwing weapon is unsuitable for swift attacks, but is able to inflict heavy damage. "
+	},
+	{
+		"Name": "Magic Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Magic+Grease",
+		"Lore": "Solidified grease made from a mixture of magically resonant materials. Craftable item. \r\n  \r\n Coats armament, adding magic damage to attacks. \r\n The effect lasts only for a short time. "
+	},
+	{
+		"Name": "Clarifying Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Clarifying+Boluses",
+		"Lore": "Yellow boluses made of cave moss. \r\n Craftable item. \r\n \r\n Alleviates madness buildup. \r\n Madness accumulates slowly, inflicting heavy damage and reducing FP once the threshold is reached. �Take one of these in timely fashion to avoid such events. "
+	},
+	{
+		"Name": "Poison Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Poison+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n A cocktail of poisonous materials is sealed inside. \r\n \r\nThrow at enemies to cause buildup of poison. "
+	},
+	{
+		"Name": "Scriptstone",
+		"Link": "https://eldenring.wiki.fextralife.com/Scriptstone",
+		"Lore": "Ruin Fragment with a cipher inscription. \r\n Craftable item. \r\n \r\n Uses FP to reveal more messages from other worlds. \r\n \r\n Words are gregarious things, drawn to one another much as people are. "
+	},
+	{
+		"Name": "Soap",
+		"Link": "https://eldenring.wiki.fextralife.com/Soap",
+		"Lore": "A plant-based soap made from mushroom juice. \r\nCraftable item. \r\n Cleans off filth and other accumulations on the body while also slightly reducing poison buildup. \r\n Filth covering the exterior eventually seeps inside, soiling one's very spirit. "
+	},
+	{
+		"Name": "Dappled Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Dappled+Cured+Meat",
+		"Lore": "Cured strip of meat, dried out after pickling in a dappled medicinal solution. \r\nCraftable item. \r\n Temporarily boosts immunity, robustness, and focus. "
+	},
+	{
+		"Name": "Flask of Wondrous Physick",
+		"Link": "https://eldenring.wiki.fextralife.com/Flask+of+Wondrous+Physick",
+		"Lore": "A relic of the physick chemists, priests of the Erdtree. \r\n Harnesses the powers of crystal tears, which only form after the passage of many moons. \r\n \r\n Various special effects are bestowed upon the drinker, dependent on the specific mixture of crystal tears. \r\n Rest at a site of grace to replenish. \r\n \r\n Basins are placed at the feet of Minor Erdtrees throughout the Lands Between in order to collect their crystallized tears. "
+	},
+	{
+		"Name": "Lightningproof Dried Liver",
+		"Link": "https://eldenring.wiki.fextralife.com/Lightningproof+Dried+Liver",
+		"Lore": "Cured animal liver, dried out after pickling in an yellow medicinal solution. \r\n Craftable item. \r\n \r\n Temporarily boosts lightning damage negation, improving damage mitigation against attacks imbued with lightning. "
+	},
+	{
+		"Name": "Drawstring Freezing Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Freezing+Grease",
+		"Lore": "Solidified grease made using Rani's furtive arts. �Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats weapon, inflicting frostbite. \r\n The women of the Carian royal family look to the moon to guide their fates. \r\nRani's is a moon dark and blanketed with rime. "
+	},
+	{
+		"Name": "Bloodboil Aromatic",
+		"Link": "https://eldenring.wiki.fextralife.com/Bloodboil+Aromatic",
+		"Lore": "Forbidden art of depraved perfumers. \r\nCraftable with a perfume bottle. \r\n \r\n Uses FP to enter a temporary state of fervor, raising maximum attack power and stamina while also increasing damage received. \r\n \r\n \"Even upon the battlefield, do you fear being wounded? Take a good look. Your limbs are frozen stiff. \""
+	},
+	{
+		"Name": "Roped Fire Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Fire+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n A cocktail of incendiary materials is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\n \r\n Throw at rearward enemies to inflict fire damage. "
+	},
+	{
+		"Name": "Roped Holy Water Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Holy+Water+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nEnchanted by incantations�of the Golden Order, and a short rope that aids throwing has been secured around the pot. \r\n Consumes FP. Throw at rearward enemies to inflict holy damage. \r\n Highly effective against Thos Who Live in Death, even preventing them from rising again. \r\nThe Golden Order has no mercy for those who trespass beyond life's bounds. "
+	},
+	{
+		"Name": "Explosive Stone",
+		"Link": "https://eldenring.wiki.fextralife.com/Explosive+Stone",
+		"Lore": "A small stone with a smoldering core. \r\n Explodes when thrown at enemies, inflicting fire damage. \r\n Miners employ these stones as tools for rock blasting, but have long forgotten how to craft them. "
+	},
+	{
+		"Name": "Rot Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Rot+Grease",
+		"Lore": "Solidified grease made from a mixture of rotten materials. Craftable item. \r\n \r\n Coats armament, inflicting scarlet rot. \r\n The effect lasts only for a short time. "
+	},
+	{
+		"Name": "Grace Mimic",
+		"Link": "https://eldenring.wiki.fextralife.com/Grace+Mimic",
+		"Lore": "A fetish indicating the guidance of grace. \r\nCraftable item. \r\n Similar to grace, this fetish draws rays guiding the way, only�without any sense of order. \r\n Useful as a last resort for those who have lost their way, or for use�by those who believe that unrefined guidance will lead to truer�encounters. "
+	},
+	{
+		"Name": "Golden Rune [11]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(11)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 6250 runes. \r\n The grace of gold blessed those who were first to serve it with the most vivid coloration. "
+	},
+	{
+		"Name": "Dragonwound Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Dragonwound+Grease",
+		"Lore": "Solidified grease made from a mixture of gravels stones. Craftable item. \r\n Coats armament, granting anti-dragon effects. \r\nThis effect lasts only for a short time. \r\n When the dragons were born from their ancient kin, they lost their stone scales, which can now be used to cause them mortal harm. "
+	},
+	{
+		"Name": "Fetid Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Fetid+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of effluents is sealed inside. As the mixture ferments, toxins are produced alongside a putrid stench that seeps out once ripe. \r\n \r\nThrow at enemies to cause buildup of deadly poison. \r\n \r\nBeware though; those who carry these pots will slowly accumulate poison in their own bodies. \r\n \r\nPush someone in a privy; expect to get dung on your hands. "
+	},
+	{
+		"Name": "Roped Fly Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Fly+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n A cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\n \r\n Throw at rearward enemies to release a swarm of flies. Their fangs inflict countless painful lacerations on the victim while the grating sound of their wings assails their sanity. \r\n \r\n The maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived. "
+	},
+	{
+		"Name": "Gravity Stone Fan",
+		"Link": "https://eldenring.wiki.fextralife.com/Gravity+Stone+Fan",
+		"Lore": "Shard of rock found in the wake of a meteorite strike. \r\nIt is imbued with a particularly weighty magic. \r\n Uses FP to emit gravitational shockwave. \r\n The desperate ones which scavenge for these shards dub�themselves \"starcallers. \""
+	},
+	{
+		"Name": "Uplifting Aromatic",
+		"Link": "https://eldenring.wiki.fextralife.com/Uplifting+Aromatic",
+		"Lore": "Art of the perfumers who fought in the Shattering. \r\nCraftable with a perfume bottle. \r\n Uses FP to raise the attack power of the user and nearby allies while also reducing the damage from one incoming attack by half. \r\nThis aromatic has an extremely potent morale-raising effect that makes those accustomed to it fearless in the face of death. It was this influence that made the perfumers exceptional commanders. "
+	},
+	{
+		"Name": "Acid Spraymist",
+		"Link": "https://eldenring.wiki.fextralife.com/Acid+Spraymist",
+		"Lore": "Forbidden art of depraved perfumers. \r\nCraftable with a perfume bottle. \r\n Uses FP to release an acidic mist from user's mouth, damaging armaments and temporarily lowering attack power. \r\n Perfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said. "
+	},
+	{
+		"Name": "Albinauric Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Albinauric+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nEnchanted by sorceries of the Cuckoos. \r\n\r\nConsumes FP. Throw at enemies to impede recovery actions using a flask of tears for a certain duration. \r\n\r\nThe Knights of the Cuckoos do declare. Behold, thy defiled blood. \r\n Unlike any humor that flows in our grand realm. "
+	},
+	{
+		"Name": "Gold-Pickled Fowl Foot",
+		"Link": "https://eldenring.wiki.fextralife.com/Gold-Pickled+Fowl+Foot",
+		"Lore": "Four-toed foot of a fowl, pickled in a golden medicinal solution. \r\n Craftable item. \r\n \r\n Boosts the amount of runes obtained from defeating enemies for a certain duration. \r\n \r\n Since old times, the needy would scrape the meat clean even from a fowl's claw. "
+	},
+	{
+		"Name": "Invigorating Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Invigorating+Cured+Meat",
+		"Lore": "Cured strip of meat, dried out after pickling in a red medicinal solution. \r\nCraftable item. \r\n Temporarily boosts robustness. \r\n Higher robustness helps to mitigate the buildup of frost and blood loss. "
+	},
+	{
+		"Name": "Large Glintstone Scrap",
+		"Link": "https://eldenring.wiki.fextralife.com/Large+Glintstone+Scrap",
+		"Lore": "Large piece of glintstone tinged with unstable magic. Found in crystal tunnels. \r\n Break gem, using FP to produce a magic bolt. \r\n Poor quality and thereby easily broken, a sorcerer wouldn't give it a second look. "
+	},
+	{
+		"Name": "Rejuvenating Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Rejuvenating+Boluses",
+		"Lore": "Black boluses made of cave moss. \r\nCraftable item. \r\n Alleviates death blight buildup. \r\n Blight accumulates slowly, causing instant death once the threshold is reached. �Take one of these in timely fashion to avoid such an event. "
+	},
+	{
+		"Name": "Warming Stone",
+		"Link": "https://eldenring.wiki.fextralife.com/Warming+Stone",
+		"Lore": "Ruin Fragment blessed with an incantation of the Two Fingers. \r\nCraftable item. \r\n \r\n Uses FP to generate warmth, continuously restoring the HP of those nearby. \r\n \r\n It's said that the Erdtree was once as warm as the gentle sun, and would gradually heal all who bathed in its rays. "
+	},
+	{
+		"Name": "Glintstone Scrap",
+		"Link": "https://eldenring.wiki.fextralife.com/Glintstone+Scrap",
+		"Lore": "Piece of glintstone tinged with unstable magic. Found in crystal tunnels. \r\nBreak gem, using FP to produce a magic bolt. \r\nPoor quality and thereby easily broken, a sorcerer wouldn't give it a second look. "
+	},
+	{
+		"Name": "Beastlure Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Beastlure+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nEnchanted with assassin incantations. \r\n\r\nConsumes FP. Throw to create a red shadow. \r\n\r\nThe illusion lures in beasts into attacking it. This effect does not change even during combat. "
+	},
+	{
+		"Name": "Lord's Rune",
+		"Link": "https://eldenring.wiki.fextralife.com/Lord's+Rune",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; true vestiges of gold. \r\n Use to gain 50000 runes. \r\n Runes of one who was destined to become a Lord, but when the Elden Ring was shattered, all that remained was a distant duty. "
+	},
+	{
+		"Name": "Neutralizing Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Neutralizing+Boluses",
+		"Lore": "Green boluses made from cave moss. \r\n Craftable item. \r\n \r\n Alleviates poison buildup and cures poison ailment. \r\n \r\n Poison accumulates gradually, coming into effect once the threshold is reached. Poison ailment lowers HP in steady increments for a period. "
+	},
+	{
+		"Name": "Golden Rune [1]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(1)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. \r\n Use to gain 200 runes. \r\n Runes are nourishment for the development of any Tarnished. Provided a Finger Maiden can be found. . . "
+	},
+	{
+		"Name": "Bewitching Branch",
+		"Link": "https://eldenring.wiki.fextralife.com/Bewitching+Branch",
+		"Lore": "Tree branch blessed with an incantation of unalloyed gold. \r\n Craftable item. \r\n \r\n Pierce a foe, using FP to turn them into a temporary ally. \r\n \r\n The Empyrean Miquella is loved by many people. Indeed, he has learned very well how to compel such affection. "
+	},
+	{
+		"Name": "Golden Rune [12]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+[12]",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 7500 runes. \r\n The grace of gold blessed those who were first to serve it with the most vivid coloration. "
+	},
+	{
+		"Name": "Drawstring Fire Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Fire+Grease",
+		"Lore": "Solidified grease made from a mixture of incendiary materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting fire damage, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Cursed-Blood Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Cursed-Blood+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nDecorated with the crest of the Lord of Blood. \r\n \r\nThrow at enemies to douse them in accursed blood, causing summoned spirits to assail them with a rabid fervor. \r\n \r\nA childhood memory of the Lord of Blood. "
+	},
+	{
+		"Name": "Gravity Stone Chunk",
+		"Link": "https://eldenring.wiki.fextralife.com/Gravity+Stone+Chunk",
+		"Lore": "Shard of rock found in the wake of a meteorite strike. \r\nIt is imbued with a particularly weighty magic. \r\n Throw at enemies, using FP to cause a gravitational explosion. \r\n The desperate ones who scavenge for these shards dub themselves \"starcallers. \""
+	},
+	{
+		"Name": "Clarifying White Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Clarifying+White+Cured+Meat",
+		"Lore": "A white sliced meat, dried out after pickling in a purple medicinal solution. \r\nCraftable item. \r\n Temporarily boosts focus. \r\n Lasts longer than traditional cured meat, but with reduced effectiveness. "
+	},
+	{
+		"Name": "Poison Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Poison+Grease",
+		"Lore": "Solidified grease made from a mixture of poison-green materials. Craftable item. \r\n Coats armament, inflicting poison. \r\nThe effect lasts only for a short time. "
+	},
+	{
+		"Name": "Ironjar Aromatic",
+		"Link": "https://eldenring.wiki.fextralife.com/Ironjar+Aromatic",
+		"Lore": "Forbidden art of depraved perfumers. \r\nCraftable with a perfume bottle. \r\n Uses FP to temporarily turn body to steel, boosting poise, resistances and damage negation at the expense of mobility and vulnerability to lightning. \r\n An art that requires fragments of hunted noble jars. Depraved perfumers are plainly in league with jar poachers. "
+	},
+	{
+		"Name": "Rot Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Rot+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nDecorated with the crest of scarlet wings. \r\n \r\nThrow at enemies to cause buildup of scarlet rot. �\r\n\r\nThe rot bubbles up from the Swamp of Aeonia, and eats away at life like a vicious plague. "
+	},
+	{
+		"Name": "Immunizing White Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Immunizing+White+Cured+Meat",
+		"Lore": "A white sliced meat, dried out after pickling in a green medicinal solution. \r\nCraftable item. \r\n Temporarily boosts immunity. \r\n Lasts longer than traditional cured meat, but with reduced effectiveness. "
+	},
+	{
+		"Name": "Flask of Cerulean Tears",
+		"Link": "https://eldenring.wiki.fextralife.com/Flask+of+Cerulean+Tears",
+		"Lore": "A sacred flask modelled after a golden holy chalice that was once graced by a tear of life. \r\n \r\n Filled with cerulean tears, this flask restores FP with use. \r\n Rest at a site of grace to replenish. \r\n \r\n It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet. "
+	},
+	{
+		"Name": "Golden Rune [3]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(3)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. \r\n Use to gain 800 runes. \r\n Even now, runes are still imbued with the power of life itself. Do you see the Erdtree towering o'er?"
+	},
+	{
+		"Name": "Silver-Pickled Fowl Foot",
+		"Link": "https://eldenring.wiki.fextralife.com/Silver-Pickled+Fowl+Foot",
+		"Lore": "Four-toed foot of a fowl, pickled in a silvery medicinal solution. \r\n Craftable item. \r\n Temporarily boosts item discovery. \r\n Since old times, the needy would scrape the meat clean even from a fowl's claw. "
+	},
+	{
+		"Name": "Lands Between Rune",
+		"Link": "https://eldenring.wiki.fextralife.com/Lands+Between+Rune",
+		"Lore": "Grace said to have once dwelled in the eyes of the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 3000 runes. \r\n No grace resides in the eyes of the Tarnished; if it ever did, it is now lost. "
+	},
+	{
+		"Name": "Deathsbane White Jerky",
+		"Link": "https://eldenring.wiki.fextralife.com/Deathsbane+White+Jerky",
+		"Lore": "A black-gold colored cured liver, dried out after pickling in a medicinal solution. \r\n Craftable item. \r\n \r\n Boosts resistance to instant death for a short time. \r\n The blood has been properly drained, giving it a longer effect than traditional dried meat. "
+	},
+	{
+		"Name": "Golden Rune [10]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(10)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 5000 runes. \r\n The grace of gold blessed those who were first to serve it with the most vivid coloration. "
+	},
+	{
+		"Name": "Hero's Rune [1]",
+		"Link": "https://eldenring.wiki.fextralife.com/Hero's+Rune+(1)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 15000 runes. \r\n There were once heroes who walked the battlefields, abundantly blessed by the Erdtree itself, who upon earning their honor simply died. "
+	},
+	{
+		"Name": "Fireproof Dried Liver",
+		"Link": "https://eldenring.wiki.fextralife.com/Fireproof+Dried+Liver",
+		"Lore": "Cured animal liver, dried out after pickling in a red medicinal solution. \r\n Craftable item. \r\n \r\n Temporarily boosts fire damage negation, improving damage mitigation against attacks imbued with fire. "
+	},
+	{
+		"Name": "Poisoned Stone Clump",
+		"Link": "https://eldenring.wiki.fextralife.com/Poisoned+Stone+Clump",
+		"Lore": "A clump of small stones with poison cores. \r\n Throw together at enemies to cause buildup of poison. \r\n Miners employ these stones as tools for pest extermination, but have long forgotten how to craft them. "
+	},
+	{
+		"Name": "Deathsbane Jerky",
+		"Link": "https://eldenring.wiki.fextralife.com/Deathsbane+Jerky",
+		"Lore": "A grey colored cured liver, dried out�after pickling in a medicinal solution. \r\n Craftable item. \r\n \r\n Boosts instant death resistance�for a short time. "
+	},
+	{
+		"Name": "Golden Rune [4]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(4)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering trace of gold. \r\n Use to gain 1200 runes. \r\n Even now, runes are still imbued with the power of life itself. Do you see the Erdtree towering o'er?"
+	},
+	{
+		"Name": "Freezing Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Freezing+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nEngraved with the crest of the Carian Royals. \r\n\r\nThrow at enemies to cause buildup of frost. \r\n\r\nOriginates from the cold, dark moon of Ranni, the Carian princess. "
+	},
+	{
+		"Name": "Furlcalling Finger Remedy",
+		"Link": "https://eldenring.wiki.fextralife.com/Furlcalling+Finger+Remedy",
+		"Lore": "Item for online play. \r\n (Can also be used from the Multiplayer menu. )\r\n Craftable item. \r\n \r\n Reveals cooperative and competitive multiplayer signs. \r\n Co-op summoning signs will be shown in gold, while hostile summoning signs will be shown in red. \r\n \r\n Multiplayer begins when you summon a player from another world through their sign. "
+	},
+	{
+		"Name": "Flask of Crimson Tears",
+		"Link": "https://eldenring.wiki.fextralife.com/Flask+of+Crimson+Tears",
+		"Lore": "A sacred flask modelled after a golden holy chalice that was once graced by a tear of life. \r\n \r\n Filled with crimson tears, this flask restores HP with use. \r\n Rest at a site of grace to replenish. \r\n \r\n It is said that a Finger Maiden will bestow two such chalices upon the chosen Tarnished when they meet. "
+	},
+	{
+		"Name": "Fetid Flesh",
+		"Link": "https://eldenring.wiki.fextralife.com/Fetid+Flesh",
+		"Lore": "A lump of beast flesh pickled in egg wash. \r\n Craftable item. \r\n \r\n Beasts are highly attracted to its scent. \r\n The rancid scent prevents ingestion by any�ordinary human. "
+	},
+	{
+		"Name": "Giantsflame Fire Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Giantsflame+Fire+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\n Enchanted by incantations of the Giants' Flame. \r\n \r\n Consumes FP. Throw at enemies to inflict heavy fire damage. \r\n \r\n Damage scales with faith. "
+	},
+	{
+		"Name": "Volcano Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Volcano+Pot",
+		"Lore": "Powdered volcanic rock is sealed inside. \r\nThrow at enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration"
+	},
+	{
+		"Name": "Soporific Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Soporific+Grease",
+		"Lore": "Solidified grease made from a mixture of light-purple materials. Craftable item. \r\n Coats armament, inflicting sleep. \r\nThe effect lasts only for a short time. "
+	},
+	{
+		"Name": "Heavy Meteorite Fragment",
+		"Link": "https://eldenring.wiki.fextralife.com/Heavy+Meteorite+Fragment",
+		"Lore": "Shard of rock found in the wake of a meteorite strike. \r\nIt is imbued with a particularly weighty magic. \r\nConsumes FP. \r\nThrow at the ground to create a gravitational shockwave. \r\nThe desperate ones who scavenge for these shards dub themselves \"starcallers\". "
+	},
+	{
+		"Name": "Sweet Raisin",
+		"Link": "https://eldenring.wiki.fextralife.com/Sweet+Raisin",
+		"Lore": "Preparation of dried Golden Rowa fruit. \r\nCraftable item. \r\n Feed to Torrent, the spectral steed, while riding to greatly restore his HP \r\n Golden Rowa fruit is not unlike honey, and Torrent seems to have a taste for it. "
+	},
+	{
+		"Name": "Lightning Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Lightning+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n A cocktail of fulminating materials is sealed inside. \r\n \r\n Throw at enemies to inflict lightning damage. "
+	},
+	{
+		"Name": "Sacred Order Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Sacred+Order+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nEnchanted by incantations of the Golden Order. \r\n \r\nConsumes FP. Throw at enemies to inflict heavy holy damage. \r\n \r\nHighly effective against Those Who Live in Death, even preventing them from rising again. \r\nThe Golden Order has no mercy for those who trespass beyond life's bounds. "
+	},
+	{
+		"Name": "Dappled White Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Dappled+White+Cured+Meat",
+		"Lore": "A white sliced meat, dried out after pickling in a dappled medicinal solution. \r\nCraftable item. \r\n Temporarily boosts immunity, robustness, and focus. \r\n Lasts longer than traditional cured meat, but with reduced effectiveness. "
+	},
+	{
+		"Name": "Blood Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Blood+Grease",
+		"Lore": "Solidified grease made from a mixture of blood-red materials. Craftable item. \r\n  \r\n Coats armament, inflicting blood loss. \r\n The effect lasts only for a short time. "
+	},
+	{
+		"Name": "Spark Aromatic",
+		"Link": "https://eldenring.wiki.fextralife.com/Spark+Aromatic",
+		"Lore": "Art of the perfumers who fought In the Shattering. \r\nCraftable with a perfume bottle. \r\n Uses FP to broadly scatter sparks in a wide arc straight ahead. \r\n Though fire was prohibited to those who served the Erdtree, this rule was forgotten as the war drew ever on. "
+	},
+	{
+		"Name": "Golden Rune [9]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(9)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 3800 runes. \r\n Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. "
+	},
+	{
+		"Name": "Roped Fetid Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Fetid+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of effluents is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\n \r\nThrow at rearward enemies to cause buildup of deadly poison. \r\n \r\nBeware though; those who carry these pots will slowly accumulate poison in their own bodies. \r\nPush someone in a privy; expect to get dung on your hands. "
+	},
+	{
+		"Name": "Explosive Stone Clump",
+		"Link": "https://eldenring.wiki.fextralife.com/Explosive+Stone+Clump",
+		"Lore": "A clump of small stones with smoldering cores. \r\n \r\n Explodes when thrown together at enemies, inflicting fire damage. \r\n \r\n Miners employ these stones as tools for rock blasting, but have long forgotten how to craft them. "
+	},
+	{
+		"Name": "Holy Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Holy+Grease",
+		"Lore": "Solidified grease made from a mixture of holy resonant materials. Craftable item. \r\n  \r\n Coats armament, adding holy damage to attacks. \r\n The effect lasts only for a short time. "
+	},
+	{
+		"Name": "Roped Volcano Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Volcano+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nPowdered volcanic rock is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\nThrown at rearward enemies to disperse a cloud of heat, dealing continuous damage to those caught inside for a short duration. "
+	},
+	{
+		"Name": "Poisoned Stone",
+		"Link": "https://eldenring.wiki.fextralife.com/Poisoned+Stone",
+		"Lore": "A small stone with a poisoned core. \r\n Throw at enemies to cause buildup of poison. \r\n Miners employ these stones as tools for pest extermination, but have long forgotten how to craft them. "
+	},
+	{
+		"Name": "Baldachin's Blessing",
+		"Link": "https://eldenring.wiki.fextralife.com/Baldachin's+Blessing",
+		"Lore": "Favor bestowed by a deathbed companion. Protection of a hidden temple in the guise of a bedchamber. \r\n \r\n Uses FP to temporarily boost poise. \r\n \r\n The favor allows one to forget any aches and pains. In Death, there is only peace, for in Death, there can be no sensation. "
+	},
+	{
+		"Name": "Fire Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Fire+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n A cocktail of incendiary materials is sealed inside. \r\n \r\n Throw at enemies to inflict fire damage. "
+	},
+	{
+		"Name": "Clarifying Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Clarifying+Cured+Meat",
+		"Lore": "Cured strip of meat, dried out after pickling in a purple medicinal solution. \r\n Craftable item. \r\n Temporarily boosts focus. \r\n Higher focus helps to mitigate the buildup of sleep and madness. "
+	},
+	{
+		"Name": "Frozen Raisin",
+		"Link": "https://eldenring.wiki.fextralife.com/Frozen+Raisin",
+		"Lore": "Preparation of dried Rimed Rowa. \r\n Craftable item. \r\n \r\n Feed to Torrent, the spectral steed, while riding to vastly restore his HP. \r\n \r\n Torrent seems to enjoy the sensation of chewing this frozen, dried seed. "
+	},
+	{
+		"Name": "Stanching Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Stanching+Boluses",
+		"Lore": "Red boluses made from cave moss. \r\n Craftable item. \r\n \r\n Alleviates impending blood loss. \r\n \r\n Blood loss escalates gradually, causing great damage once the threshold is reached. �Take one of these in timely fashion to avoid such an event. "
+	},
+	{
+		"Name": "Drawstring Poison Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Poison+Grease",
+		"Lore": "Solidified grease made from a mixture of poison-green materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting poison, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Poisonbone Dart",
+		"Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Dart",
+		"Lore": "Animal bone sharpened into a knife for throwing, with a poison-laced tip. \r\nCraftable item. \r\n Throw at enemies to inflict damage and build up poison. "
+	},
+	{
+		"Name": "Swarm Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Swarm+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of effluents is sealed inside. \r\n\r\nCraftable item prepared using a cracked pot. \r\n\r\nA cocktail of effluents is sealed inside. \r\nThe maggots found in waste feed on blood and turn into vicious flies that are pitiably short-lived. "
+	},
+	{
+		"Name": "Raw Meat Dumpling",
+		"Link": "https://eldenring.wiki.fextralife.com/Raw+Meat+Dumpling",
+		"Lore": "A pungent raw meatball, made succulent by virtue of being on the verge of turning. \r\n Restores HP but also poisons the user. \r\n Not recommended for those who prefer to know the origin of their meats. "
+	},
+	{
+		"Name": "Miquella's Needle",
+		"Link": "https://eldenring.wiki.fextralife.com/Miquella's+Needle",
+		"Lore": "One of the unalloyed gold needles that Miquella crafted to ward away the meddling of outer gods. \r\n \r\n Capable of subduing the flame of frenzy if inherited, allowing one to cheat fate and avoid becoming Lord of Frenzied Flame. \r\n However, the needle is as yet unfinished and can only be used in the heart of the storm beyond time said to be found in Faram�[sic] Azula. "
+	},
+	{
+		"Name": "Soft Cotton",
+		"Link": "https://eldenring.wiki.fextralife.com/Soft+Cotton",
+		"Lore": "A soft but sturdy cotton formed from splitting open Rowa fruit in a particular manner. Craftable item. \r\n \r\n Attaching this cotton to the bottom of one's feet allows for a temporary reduction in fall damage and sound. \r\n \r\n If you must court danger, at the very least, tread lightly. "
+	},
+	{
+		"Name": "Cuckoo Glintstone",
+		"Link": "https://eldenring.wiki.fextralife.com/Cuckoo+Glintstone",
+		"Lore": "Lump of broken glintstone enwreathed with magic power. A \"faux sorcery\" used by the Knights of the Cuckoo. Craftable item. \r\n\r\nLaunched straight ahead, using FP. A magic bolt springs forth from the point of impact. "
+	},
+	{
+		"Name": "Crystal Dart",
+		"Link": "https://eldenring.wiki.fextralife.com/Crystal+Dart",
+		"Lore": "Throwing knife chiseled from impure crystal. \r\n Craftable item. \r\n \r\n Consumes FP. Throw at enemies to deal magic damage. \r\n Long ago, it is said that a golem crafter employed a similar crystal tool. "
+	},
+	{
+		"Name": "Lightning Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Lightning+Grease",
+		"Lore": "Solidified grease made from a mixture of fulminating materials. Craftable item. \r\n Coats armament, adds lightning damage to attacks. \r\nThe effect lasts only for a short time. "
+	},
+	{
+		"Name": "Freezing Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Freezing+Grease",
+		"Lore": "Solidified grease made from a mixture of frozen materials. �Craftable item. \r\n \r\n Coats armament, inflicting frost. \r\nThe effect lasts only for a short time. "
+	},
+	{
+		"Name": "Glass Shard",
+		"Link": "https://eldenring.wiki.fextralife.com/Glass+Shard",
+		"Lore": "Glass shard covered in dirt. \r\n \r\n Because it sparkles in the light, it might be mistaken for an object of value when seen from afar. \r\n \r\n It cannot produce light by itself. Essentially worthless. "
+	},
+	{
+		"Name": "Poison Spraymist",
+		"Link": "https://eldenring.wiki.fextralife.com/Poison+Spraymist",
+		"Lore": "Forbidden art of depraved perfumers. \r\nCraftable with a perfume bottle. \r\n \r\n Uses FP to release a poison mist from user's mouth, causing a buildup of poison. \r\n \r\n Perfumed powder is held in the mouth to dissolve before being expelled. It was once a restorative art, or so it is said. "
+	},
+	{
+		"Name": "Oil Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Oil+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of oil-infused materials is sealed inside. \r\n \r\nThrow at enemies to soak them in oil, making them heavily susceptible to fire damage. "
+	},
+	{
+		"Name": "Drawstring Holy Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Holy+Grease",
+		"Lore": "Solidified grease made from a mixture of holy resonant materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting holy damage, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Radiant Baldachin's Blessing",
+		"Link": "https://eldenring.wiki.fextralife.com/Radiant+Baldachin's+Blessing",
+		"Lore": "Protection of a hidden temple in the guise of a bedchamber. This blessing is of the utmost rarity. \r\n \r\n Uses FP to temporarily raise poise. \r\nThe effect lasts longer than a mere favor. \r\n \r\n It's said a deathbed companion will only produce a blessing of this kind for a champion but once in her entire life. The sole blessing which she imbues of her own volition. "
+	},
+	{
+		"Name": "Hero's Rune [2]",
+		"Link": "https://eldenring.wiki.fextralife.com/Hero's+Rune+(2)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 20000 runes. \r\n There were once heroes who walked the battlefields, abundantly blessed by the Erdtree itself, who upon earning their honor simply died. "
+	},
+	{
+		"Name": "Rune Arc",
+		"Link": "https://eldenring.wiki.fextralife.com/Rune+Arc",
+		"Lore": "A shard of the shattered Elden Ring. \r\nGrants the blessing of an equipped Great Rune upon use. \r\n Even if no Great Rune is equipped, it will slightly increase maximum HP upon use. \r\n The lower arc of the Elden Ring is held to be the basin in which its blessings pool. Perhaps this shard originates from that very arc. "
+	},
+	{
+		"Name": "Roped Magic Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Magic+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n A cocktail of magically resonant materials is sealed inside. Called a \"\"faux sorcery\"\" in Raya Lucaria. \r\n \r\n Consumes FP. Throw at rearward enemies to inflict magic damage. "
+	},
+	{
+		"Name": "Drawstring Soporific Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Soporific+Grease",
+		"Lore": "Solidified grease made from a mixture of light-purple materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting sleep,�but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Roped Poison Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Poison+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of poisonous materials is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\n \r\nThrow at rearward enemies to cause buildup of poison. "
+	},
+	{
+		"Name": "Magic Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Magic+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of magically resonant materials is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\nCalled a \"faux sorcery\" in Raya Lucaria. \r\nConsumes FP. Throw at enemies to inflict magic damage"
+	},
+	{
+		"Name": "Alluring Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Alluring+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\nEnchanted with assasin incantations. \r\n Consumes FP. Throw to create a pale shadow. \r\n The illusion will lure in and distract foes of human build outside\r\nof combat, while demi-humans will be lured in even during combat. "
+	},
+	{
+		"Name": "Rainbow Stone",
+		"Link": "https://eldenring.wiki.fextralife.com/Rainbow+Stone",
+		"Lore": "Ruin Fragment that has undergone some simple processing. \r\n Craftable item. \r\n \r\n Stones such as these shine with the colors of the rainbow, making them useful markers when placed on the ground. \r\n \r\n Can also be dropped to gauge the distance of a fall. The higher the pitch of the sound, the higher the likelihood of the fall being fatal. \r\n Once used to entertain children on the fringes of the Lands Between. "
+	},
+	{
+		"Name": "Bone Dart",
+		"Link": "https://eldenring.wiki.fextralife.com/Bone+Dart",
+		"Lore": "Animal bone sharpened into a knife for throwing. \r\n Craftable item. \r\n \r\n Throw at enemies to inflict damage. "
+	},
+	{
+		"Name": "Stimulating Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Stimulating+Boluses",
+		"Lore": "Light-purple boluses made from cave moss. \r\n Craftable item. \r\n \r\n Alleviates buildup of sleep. \r\n \r\n Sleep accumulates gradually, causing sudden fogginess and loss of FP once the threshold is reached, even if it does not force the afflicted into true slumber. \r\n \r\n Take one of these in a timely fashion to avoid such events. "
+	},
+	{
+		"Name": "Immunizing Cured Meat",
+		"Link": "https://eldenring.wiki.fextralife.com/Immunizing+Cured+Meat",
+		"Lore": "Cured strip of meat, dried out after pickling in a green medicinal solution. \r\n Craftable item. \r\n Temporarily boosts immunity. \r\n Higher immunity helps to mitigate the buildup of various poisons and scarlet rot. "
+	},
+	{
+		"Name": "Roped Oil Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Oil+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nA cocktail of oil-infused materials is sealed inside, and a short rope that aids throwing has been secured around the pot. \r\n \r\nThrow at rearward enemies to soak them in oil, making them heavily susceptible to fire damage. "
+	},
+	{
+		"Name": "Roped Freezing Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Roped+Freezing+Pot",
+		"Lore": "Craftable with a cracked pot. \r\n Frost has been sealed inside. \r\n A short rope that aids throwing is attached. \r\n \r\n Thrown at rearward enemies using the rope,\r\n the pot explodes, causing frostbite buildup in enemies. "
+	},
+	{
+		"Name": "Thawfrost Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Thawfrost+Boluses",
+		"Lore": "Ice-hued boluses made from cave moss. \r\nCraftable item. \r\n Alleviates buildup of frost and cures frostbite ailments. \r\n Frost accumulates gradually, causing damage and inflicting frostbite once the threshold is reached. \r\nVulnerability to damage increases for a certain duration. "
+	},
+	{
+		"Name": "Redmane Fire Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Redmane+Fire+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\n Engraved with the crest of red-maned lion. \r\n \r\n Throw at enemies to inflict heavy fire damage. \r\n \r\n Even today, the survivors of Radahn's battalion employ fire to stave off the scarlet rot. "
+	},
+	{
+		"Name": "Golden Rune [8]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(8)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 3000 runes. \r\n Those born at the foot of the Erdtree are blessed. At least, that is the enduring belief of the people of the plateau. "
+	},
+	{
+		"Name": "Ancient Dragonbolt Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Ancient+Dragonbolt+Pot",
+		"Lore": "Craftable item prepared using a ritual pot. \r\n Engraved with the crest of the ancient dragon. \r\n \r\n Throw at enemies to inflict heavy lightning damage. \r\n \r\n Allows one to wield ancient drake lightning regardless of faith. The residual power of relics is a purely natural phenomenon. "
+	},
+	{
+		"Name": "Drawstring Rot Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Rot+Grease",
+		"Lore": "Solidified grease made from a mixture of rotten materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting scarlet rot, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Sleep Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Sleep+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\n Enchanted by the incantations of St. Trina. \r\n \r\n Consumes FP. Throw enemies to cause buildup of sleep. \r\n \r\n Like a lullaby, or a quagmire, its light-purple haze irresistibly draws its victims down into sleep. Sweet dreams. "
+	},
+	{
+		"Name": "Boiled Prawn",
+		"Link": "https://eldenring.wiki.fextralife.com/Boiled+Prawn",
+		"Lore": "Boiled prawn meat. \r\nA prime specimen of plump and moist meat. \r\nTrue connoisseurs know how to keep from over-salting. \r\n Boosts physical damage negation for a certain duration, \r\n The meat actually looks to have come from a crayfish. Not that it matters, it's delicious all the same. "
+	},
+	{
+		"Name": "Pauper's Rune",
+		"Link": "https://eldenring.wiki.fextralife.com/Pauper's+Rune",
+		"Lore": "Grace that dwells within the inhabitants of The Lands Between; the lingering residue of gold. \r\nUse to gain a few runes. \r\nFor all that they may be feeble things, these runes will act as nourishment for the development of any Tarnished. \r\nProvided a Finger Maiden can be found. . . "
+	},
+	{
+		"Name": "Drawstring Lightning Grease",
+		"Link": "https://eldenring.wiki.fextralife.com/Drawstring+Lightning+Grease",
+		"Lore": "Solidified grease made from a mixture of fulminating materials. Craftable item. \r\nA short string is attached to this lump. \r\n Quickly coats armament, inflicting lightning damage, but with a brief effect, owing to its small size. "
+	},
+	{
+		"Name": "Holy Water Pot",
+		"Link": "https://eldenring.wiki.fextralife.com/Holy+Water+Pot",
+		"Lore": "Craftable item prepared using a cracked pot. \r\nEnchanted by incantations of the Golden Order. \r\n Consumes FP. Throw at enemy to inflict holy damage. \r\n Highly effective against Those Who Live in Death, even preventing them from rising again. \r\nThe Golden Order has no mercy for those who trespass beyond life's bounds. "
+	},
+	{
+		"Name": "Preserving Boluses",
+		"Link": "https://eldenring.wiki.fextralife.com/Preserving+Boluses",
+		"Lore": "Scarlet boluses made of cave moss. \r\nCraftable item. \r\n Alleviates scarlet rot buildup and cures rot aliment. \r\n Scarlet rot accumulates gradually, coming into effect once the threshold is reached. Scarlet rot ailment greatly lowers HP in steady increments for a period. "
+	},
+	{
+		"Name": "Golden Rune [13]",
+		"Link": "https://eldenring.wiki.fextralife.com/Golden+Rune+(13)",
+		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 10000 runes. \r\n The grace of gold blessed those who were first to serve it with the most vivid coloration. "
+	}
+]
