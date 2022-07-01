@@ -1,4 +1,5 @@
-[
+{
+	"npcs": [
 	{
 		"Name": "Rykard, Lord of Blasphemy",
 		"Link": "https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy",
@@ -50,3 +51,4 @@
 		"Dialogue": "INTRODUCTION:\r\nHush, little culver.\r\nI'll soon birth thee anew, a sweeting fresh and pure...\r\n\r\nDURING FIGHT:\r\nCome, sweetings, time to be born, anew.�(Spoken when using her Scholar Tomes attack)\r\nCome, Oath-sworn giant/dragon!�(Spoken when summoning a giant or dragon during her second phase)\r\nDefeating player:\r\nBe not afeard, little culver.�(Phase 1)\r\n\r\nSecond phase transition cutscene:\r\nAhh, my beloved...\r\nHave no fear, I will hold thee. Patience.\r\nYe will be countless born, forever and ever.\r\n(Note: While there is more dialogue in this cutscene, it is spoken by�Ranni the Witch.\r\nUpon my name as Ranni the Witch.\r\nMother's rich slumber shall not be disturbed by thee.\r\nFoul trespasser.\r\nSend word far and wide.\r\nOf the last Queen of Caria, Rennala of the Full Moon.\r\nAnd the majesty of the night she conjureth.)\r\n\r\nDURING FIGHT (PHASE 2):\r\nDefeating player:\r\nThy fate lieth under my moon.�(Phase 2)\r\n\r\nAFTER FIGHT:\r\nOh little Ranni, my dear daughter.\r\nWeave thy night into being.\r\n"
 	}
 ]
+}

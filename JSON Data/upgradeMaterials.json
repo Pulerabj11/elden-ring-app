@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Ancient Dragon Smithing Stone",
 		"Link": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone",
@@ -205,3 +206,4 @@
 		"Lore": "White flower that blooms in catacombs. \r\nEach a soundless bell used to summon spirits. \r\n Strengthens ashes to +3. \r\n Spirit tuning is not merely the simple act of imbuing strength. It is an art that lies somewhere between tuning an instrument and conducting a conversation, leaving both parties enriched. "
 	}
 ]
+}

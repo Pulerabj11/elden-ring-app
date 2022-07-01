@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Elden Remembrance",
 		"Link": "https://eldenring.wiki.fextralife.com/Elden+Remembrance",
@@ -75,3 +76,4 @@
 		"Lore": "Remembrance of Malenia, Goddess of Rot, hewn into the Erdtree. \r\n The power of its namesake can be unlocked by the Finger Reader. \r\nAlternatively, it can be used to gain a great bounty of runes. \r\n Miquella and Malenia are both the children of a single god. As such they are both Empyreans, but suffered afflictions from birth. One was cursed with eternal childhood, and the other harbored rot within. "
 	}
 ]
+}

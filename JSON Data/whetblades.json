@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Red-Hot Whetblade",
 		"Link": "https://eldenring.wiki.fextralife.com/Red-Hot+Whetblade",
@@ -30,3 +31,4 @@
 		"Lore": "Iron whetblade with a cipher engraved. Can be used as a whetstone knife. \r\n \r\n When applying an affinity using ashes of war, an additional affinity of heavy, keen, or quality can be chosen. "
 	}
 ]
+}

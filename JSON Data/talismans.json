@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Hammer Talisman",
 		"Link": "https://eldenring.wiki.fextralife.com/Hammer+Talisman",
@@ -455,3 +456,4 @@
 		"Lore": "Wrought iron talisman depicting a trio of ancient dragons. \r\nBoosts physical damage negation. \r\n The ancient dragons, who ruled in the prehistoric era before the�Erdtree, would protect their lord as a wall of living rock. \r\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections. "
 	}
 ]
+}

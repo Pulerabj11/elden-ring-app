@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Exalted Flesh",
 		"Link": "https://eldenring.wiki.fextralife.com/Exalted+Flesh",
@@ -745,3 +746,4 @@
 		"Lore": "Grace that dwells within the inhabitants of the Lands Between; the lingering residue of gold. \r\n Use to gain 10000 runes. \r\n The grace of gold blessed those who were first to serve it with the most vivid coloration. "
 	}
 ]
+}

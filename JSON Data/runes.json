@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Godrick's Great Rune",
 		"Link": "https://eldenring.wiki.fextralife.com/Godrick's+Great+Rune",
@@ -40,3 +41,4 @@
 		"Lore": "A Great Rune of the shardbearer Malenia. \r\nThe blessing of this half-rotted rune reduces the healing power of Flask of Crimson Tears. \r\n And yet, due to the infusion of Malenia's spirit of resistance. attacks made immediately after receiving damage will partially recover HP. \r\n Malenia is daughter to Queen Marika and Radagon, and her Great Rune should have been the most sacred of all. "
 	}
 ]
+}

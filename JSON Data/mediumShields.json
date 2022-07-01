@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Banished Knight's Shield",
 		"Link": "https://eldenring.wiki.fextralife.com/Banished+Knight's+Shield",
@@ -135,3 +136,4 @@
 		"Lore": "\"Wooden shield of the Stormveil soldiers. Much like the castle, it is marred by mottling and thorns. \r\n \r\n Some say it is the curse of grafting which causes such affliction, while others talk of its root being something altogether more sinister hidden deep within the castle. \""
 	}
 ]
+}

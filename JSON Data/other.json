@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Golden Seed",
 		"Link": "https://eldenring.wiki.fextralife.com/Golden+Seed",
@@ -15,3 +16,4 @@
 		"Lore": "A delicate goldwork ring. Can be used as a finger whistle.\r\nSound the whistle to summon and ride Torrent, the spectral steed.\r\n(Dismounts steed when used while on horseback.)\r\nUpon his death, the spectral steed can be summoned again, but doing so drains the Flask of Crimson Tears.\r\n"
 	}
 ]
+}

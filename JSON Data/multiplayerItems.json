@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Festering Bloody Finger",
 		"Link": "https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger",
@@ -95,3 +96,4 @@
 		"Lore": "A fetish indicating the guidance of grace. \r\nCraftable item. \r\n Similar to grace, this fetish draws rays guiding the way, only�without any sense of order. \r\n Useful as a last resort for those who have lost their way, or for use�by those who believe that unrefined guidance will lead to truer�encounters. "
 	}
 ]
+}

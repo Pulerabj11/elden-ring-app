@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Nomadic Warrior's Cookbook [9]",
 		"Link": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(9)",
@@ -295,3 +296,4 @@
 		"Lore": "A record of crafting techniques left by roaming nomad warriors. \r\nContains knowledge for surviving in the face of utter scarcity. \r\n Acquire the knowledge to craft the following: \r\n - Glowstone\r\n- Invigorating Cured Meat\r\n- Invigorating White Cured Meat"
 	}
 ]
+}

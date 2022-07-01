@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Somberstone Miner's Bell Bearing [3]",
 		"Link": "https://eldenring.wiki.fextralife.com/Somberstone+Miner's+Bell+Bearing+(3)",
@@ -265,3 +266,4 @@
 		"Lore": "Bell bearing of a merchant left behind, found upon his perished flesh. \r\n Offer to the Twin Maiden Husks at the Roundtable Hold to gain access to new items. "
 	}
 ]
+}

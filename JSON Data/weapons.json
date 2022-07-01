@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Sword of Milos",
 		"Link": "https://eldenring.wiki.fextralife.com/Sword+of+Milos",
@@ -1535,3 +1536,4 @@
 		"Lore": "Weapon wielded by the knights of Zamor who earned great\r\nrenown during the War against the Giants. \r\n In apparent devotion to winter, the curved blade is styled after an\r\nicy wind and imbued with a powerful frost effect. "
 	}
 ]
+}

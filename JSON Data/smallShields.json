@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Gilded Iron Shield",
 		"Link": "https://eldenring.wiki.fextralife.com/Gilded+Iron+Shield",
@@ -85,3 +86,4 @@
 		"Lore": "A creaky old wooden shield, circular in shape. Roughly reinforced with vines or some such. "
 	}
 ]
+}

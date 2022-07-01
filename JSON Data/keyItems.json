@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Valkyrie's Prosthesis",
 		"Link": "https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis",
@@ -480,3 +481,4 @@
 		"Lore": "A sorcery scroll from the Academy of Raya Lucaria. \r\n Details superior sorceries taught to scholars worthy of donning the stone crown and studying a certain conspectus. \r\n \r\n Can be given to a learned sorcerer to gain access to the following sorceries:\r\n \r\n - Glintstone Cometshard\r\n - Star Shower"
 	}
 ]
+}

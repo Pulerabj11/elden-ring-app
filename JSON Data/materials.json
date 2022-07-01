@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Albinauric Bloodclot",
 		"Link": "https://eldenring.wiki.fextralife.com/Albinauric+Bloodclot",
@@ -365,3 +366,4 @@
 		"Lore": "A rarely-seen specimen of beast fang. \r\n Material used for crafting items. \r\n Found by hunting carnivorous beasts. \r\n \r\n These multiple, overlapping fangs grow from a single root. Perhaps they're a vestige of the primordial crucible. "
 	}
 ]
+}

@@ -1,4 +1,5 @@
-[
+{
+	"items": [
 	{
 		"Name": "Litany of Proper Death",
 		"Link": "https://eldenring.wiki.fextralife.com/Litany+of+Proper+Death",
@@ -845,3 +846,4 @@
 		"Lore": "An incantation from the Fire Monks, guardians of the giants' flame of ruin. \r\nProduces and throws a ball of raging fire. \r\nCharging up this incantation makes it more powerful and cases the ball to explode. \r\nFire beguiles those who look upon it. \r\nThose who would guard the flame would also come to worship it. "
 	}
 ]
+}
