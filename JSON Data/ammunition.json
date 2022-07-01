@@ -1,314 +1,314 @@
 {
-	"ammunition": [
-		{
-			"Name": "Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Bolt",
-			"Lore": "Ammunition used for crossbows. \r\nA widespread, common type of bolt. "
-		},
-		{
-			"Name": "Magicbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Magicbone+Arrow",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is daubed with a glintstone tincture. Deals magic damage. \r\nCraftable item. "
-		},
-		{
-			"Name": "Serpent Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Serpent+Arrow",
-			"Lore": "Arrow carved to resemble a flying snake. Used in tandem with the Serpent Bow. � \r\n Loyal minions of the Formless Serpents, their fangs are daubed with deadly poison. "
-		},
-		{
-			"Name": "Lightningbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Lightningbone+Bolt",
-			"Lore": "Bolt crafted from animal bone with a lightning-infused tip. Deals lightning damage. \r\nCraftable item. "
-		},
-		{
-			"Name": "Bloodbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Bloodbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. \r\nThe fletching adds distance to the arrow's flight. \r\nCraftable item. "
-		},
-		{
-			"Name": "Stormwing Bone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Stormwing+Bone+Arrow",
-			"Lore": "Arrow whittled from animal bones fletched with stormhawk feathers. \r\nCraftable item. \r\n\r\nFlies enshrouded in storm winds, breaking enemy stances and guards with ease. "
-		},
-		{
-			"Name": "Rotbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Rotbone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is daubed with rot. Afflicts targets with scarlet rot. \r\nCraftable item. "
-		},
-		{
-			"Name": "Firebone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Firebone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is set alight before firing. Deals fire damage. \r\n Craftable item. "
-		},
-		{
-			"Name": "Coldbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Coldbone+Arrow",
-			"Lore": "Arrow whittled from animal bones with a frozen tip. \r\nAfflicts targets with frost. \r\nCraftable item. "
-		},
-		{
-			"Name": "Firebone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Firebone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is set alight before firing. \r\nDeals fire damage to foes. "
-		},
-		{
-			"Name": "Poisonbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Arrow",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is daubed with venom. \r\nAfflicts targets with poison. \r\nCraftable item. "
-		},
-		{
-			"Name": "Golem's Magic Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Golem's+Magic+Arrow",
-			"Lore": "Greatarrow of black stone crafted by a civilization now gone to ruin. Imbued with its ancient magic. \r\nDeals magic damage. "
-		},
-		{
-			"Name": "Firebone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Firebone+Arrow",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is set alight before firing"
-		},
-		{
-			"Name": "Perfumer's Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Perfumer's+Bolt",
-			"Lore": "Bolt created with perfumer techniques. Used by nobles' guards and the like. \r\n The point of impact explodes with sparks, dealing fire damage. "
-		},
-		{
-			"Name": "Haligbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Haligbone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is daubed with a golden tincture. Deals holy damage. \r\nCraftable item. "
-		},
-		{
-			"Name": "Black-Key Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Black-Key+Bolt",
-			"Lore": "Bolts used in Crepus' Black-Key Crossbow, an assassin's tool of exquisite craftmanship. \r\n The intricate spiral tip bores deep, injecting scarlet rot far into the flesh of its target. "
-		},
-		{
-			"Name": "Haligbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Haligbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage. \r\nCraftable item. The fletching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Explosive Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Explosive+Bolt",
-			"Lore": "Bolt tipped with a shard of Explosive Stone. Explodes on impact, dealing fire damage. "
-		},
-		{
-			"Name": "Shattershard Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Shattershard+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact. "
-		},
-		{
-			"Name": "Radahn's Spear",
-			"Link": "https://eldenring.wiki.fextralife.com/Radahn's+Spear",
-			"Lore": "Greatarrows used by the General Radahns during the festival of combat. These are in fact the many spears with which he was stabbed by the Cleanrot Knights. \r\n\r\nImbued with Radahn's gravitational power. "
-		},
-		{
-			"Name": "Bone Ballista Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Bone+Ballista+Bolt",
-			"Lore": "Greatbolt as large as a spear carved from stout animal bones. Craftable item. \r\n Though the tip is certainly sharp, it does not fly particularly true. "
-		},
-		{
-			"Name": "Bone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Bone+Arrow",
-			"Lore": "Arrow whittled from thin animal bones. \r\nThough the arrowhead is sharp indeed, it doesn't fly particularly true. "
-		},
-		{
-			"Name": "Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Arrow",
-			"Lore": "Arrows used with small and long bows. \r\nUnremarkable in any way, shape or form. "
-		},
-		{
-			"Name": "Bone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Bone+Bolt",
-			"Lore": "Bolt carved from a thin animal bone. Craftable item. \r\n Though the tip is certainly sharp, it does not fly particularly true. "
-		},
-		{
-			"Name": "Bone Great Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Bone+Great+Arrow+(Fletched)",
-			"Lore": "Greatarrow as large as a spear whittled from stout animal bones. \r\nCraftable item. \r\nThe fletching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Ballista Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Ballista+Bolt",
-			"Lore": "Greatbolt as large as a spear for use with Hand Ballista. "
-		},
-		{
-			"Name": "Rainbow Stone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Rainbow+Stone+Arrow",
-			"Lore": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored lights shine at the point of impact. \r\n \r\n Craftable item. "
-		},
-		{
-			"Name": "Burred Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Burred+Bolt",
-			"Lore": "Bolt covered in thorns. One of the most horrific weapons used in the Shattering. Afflicts with blood loss. \r\n Diffcult to remove once buried in flesh, causes appalling damage to the body"
-		},
-		{
-			"Name": "Meteor Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Meteor+Bolt",
-			"Lore": "Enchanted work of craft made in tandem with Full Moon Crossbow. The tip is embedded with glintstone. \r\n Like a shooting star, these bolts leave a beautiful trail when fired. �Deals magic damage. "
-		},
-		{
-			"Name": "Sleepbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Sleepbone+Arrow",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is daubed with a water lily tincture. \r\nAfflicts targets with drowsiness. \r\nCraftable item. "
-		},
-		{
-			"Name": "Sleepbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Sleepbone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is daubed with a waterlily tincture. \r\nAfflicts targets with sleep. "
-		},
-		{
-			"Name": "Lightningbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Lightningbone+Arrow",
-			"Lore": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage. \r\n \r\nCraftable item. "
-		},
-		{
-			"Name": "Fire Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Fire+Arrow",
-			"Lore": "Arrow with the tip set alight. �\r\nDeals fire damage. "
-		},
-		{
-			"Name": "Lightning Greatbolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Lightning+Greatbolt",
-			"Lore": "Greatbolt tipped with a clump of Gravel Stone shards. � \r\n Deals powerful lightning damage. "
-		},
-		{
-			"Name": "Haligbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Haligbone+Arrow",
-			"Lore": "Arrow whittled From animal bones. The tip is daubed with a golden tincture. Deals holy damage. \r\nCraftable item. "
-		},
-		{
-			"Name": "Golden Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Golden+Bolt",
-			"Lore": "Bolt blessed with an incantation of the Erdtree. Deals powerful holy damage\r\n \r\n Once used by guards of the Capital. "
-		},
-		{
-			"Name": "Poisonbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is daubed with venom. \r\nAfflicts targets with poison. \r\nCraftable item. \r\nThe addition of fletching enables more precise shots that can travel farther. "
-		},
-		{
-			"Name": "Bone Great Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Bone+Great+Arrow",
-			"Lore": "Greatarrow as large as a spear whittled from stout animal bones. \r\nThough the tip is certainly sharp, it does not fly particularly true. "
-		},
-		{
-			"Name": "Golden Great Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Golden+Great+Arrow",
-			"Lore": "Carved greatarrows made together with the Erdtree Greatbow. Deals holy damage. \r\n \r\n Imbued with an oath-sworn incantation, which boosts the attack and defense of the archer and their nearby allies. "
-		},
-		{
-			"Name": "St. Trina's Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/St.+Trina's+Arrow",
-			"Lore": "Arrow carved to resemble a withered water lily. Afflicts targets\r\nwith a powerful sleep effect. \r\n Priests of St. Trina use these arrows to spread their teachings. The sweet oblivion of sleep can become quite the habit. "
-		},
-		{
-			"Name": "Bone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Bone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from thin animal bones. \r\nThe feather fletchings add distance and accuracy to the standard bone arrow. "
-		},
-		{
-			"Name": "Coldbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Coldbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones with a frozen tip. \r\nAfflicts targets with frost. \r\nCraftable item. The fletching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Magicbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Magicbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. \r\nDeals magic damage. \r\n \r\nCraftable item. The Retching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Flaming Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Flaming+Bolt",
-			"Lore": "Bolt with a fiercely burned tip. Deals powerful fire damage. \r\n Used by survivors of Radahn's army to stave off the scarlet rot. "
-		},
-		{
-			"Name": "Rotbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Rotbone+Arrow",
-			"Lore": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot. \r\nCraftable item. "
-		},
-		{
-			"Name": "Lightningbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Lightningbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage. \r\n \r\nCraftable item. The fletching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Great Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Great+Arrow",
-			"Lore": "A greatarrow as large as a spear for use with greatbows. \r\nUsed by archers of monstrous strength employed by a lord's army. "
-		},
-		{
-			"Name": "Dwelling Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Dwelling+Arrow",
-			"Lore": "Arrow in which the spirits of small animals are thought to dwell. \r\nDeals magic damage. "
-		},
-		{
-			"Name": "Sleepbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Sleepbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. \r\nThe tip is daubed with a water lily tincture. \r\nAfflicts targets with drowsiness. \r\nCraftable item. \r\nThe addition of fletching enables more precise shots that can travel farther. "
-		},
-		{
-			"Name": "Golden Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Golden+Arrow",
-			"Lore": "Carved arrows made in tandem with the Erdtree Bow. Deals holy damage. � \r\n Highly effective against Those Who Live in Death, and able to prevent them from rising again. "
-		},
-		{
-			"Name": "Explosive Greatbolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Explosive+Greatbolt",
-			"Lore": "Greatbolt tipped with a clump of Explosive Stone shards. \r\nDetonates a large explosion on impact, dealing fire damage. "
-		},
-		{
-			"Name": "Lordsworn's Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Lordsworn's+Bolt",
-			"Lore": "Well-crafted bolt with an illustrious design, wielded by regulars of a lord's army. \r\n Deals more damage by its commonplace cousin. "
-		},
-		{
-			"Name": "Golem's Great Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Golem's+Great+Arrow",
-			"Lore": "Greatarrow of black stone crafted by a civilization now gone to ruin. \r\nUsed by the Guardian Golem. \r\nThis hefty arrow is enrobed in tempestuous winds, allowing it to break enemy stances and guards with ease. "
-		},
-		{
-			"Name": "Spiritflame Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Spiritflame+Arrow",
-			"Lore": "Arrow set alight with ghostflame before firing. Deals magic damage while also afflicting foes with frost. \r\n Used by the Company of the Fallen Hawk, once ordered to explore the Eternal City. "
-		},
-		{
-			"Name": "Coldbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Coldbone+Bolt",
-			"Lore": "Bolt carved from animal bone with a frozen tip. \r\nAfflicts targets with frost. \r\nCraftable item. "
-		},
-		{
-			"Name": "Magicbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Magicbone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage. \r\nCraftable item. "
-		},
-		{
-			"Name": "Rainbow Stone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Rainbow+Stone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. \r\nColored light shines at the point of impact. \r\nCraftable item. The fletching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Shattershard Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Shattershard+Arrow",
-			"Lore": "Arrows whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact. "
-		},
-		{
-			"Name": "Bloodbone Arrow",
-			"Link": "https://eldenring.wiki.fextralife.com/Bloodbone+Arrow",
-			"Lore": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. \r\nAfflicts targets with blood loss. "
-		},
-		{
-			"Name": "Rotbone Arrow (Fletched)",
-			"Link": "https://eldenring.wiki.fextralife.com/Rotbone+Arrow+(Fletched)",
-			"Lore": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot. \r\nCraftable item. The fletching adds distance to the arrow's flight. "
-		},
-		{
-			"Name": "Bloodbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Bloodbone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is daubed with a blood tincture. Afflicts targets with blood loss. \r\nCraftable item. "
-		},
-		{
-			"Name": "Poisonbone Bolt",
-			"Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Bolt",
-			"Lore": "Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison. \r\nCraftable item. "
-		}
-	]
+  "ammunition": [
+ {
+   "Name": "Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Bolt",
+   "Lore": "Ammunition used for crossbows. \nA widespread, common type of bolt. "
+ },
+ {
+   "Name": "Magicbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Magicbone+Arrow",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is daubed with a glintstone tincture. Deals magic damage. \nCraftable item. "
+ },
+ {
+   "Name": "Serpent Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Serpent+Arrow",
+   "Lore": "Arrow carved to resemble a flying snake. Used in tandem with the Serpent Bow.   \n Loyal minions of the Formless Serpents, their fangs are daubed with deadly poison. "
+ },
+ {
+   "Name": "Lightningbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightningbone+Bolt",
+   "Lore": "Bolt crafted from animal bone with a lightning-infused tip. Deals lightning damage. \nCraftable item. "
+ },
+ {
+   "Name": "Bloodbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. \nThe fletching adds distance to the arrow's flight. \nCraftable item. "
+ },
+ {
+   "Name": "Stormwing Bone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Stormwing+Bone+Arrow",
+   "Lore": "Arrow whittled from animal bones fletched with stormhawk feathers. \nCraftable item. \n\nFlies enshrouded in storm winds, breaking enemy stances and guards with ease. "
+ },
+ {
+   "Name": "Rotbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotbone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is daubed with rot. Afflicts targets with scarlet rot. \nCraftable item. "
+ },
+ {
+   "Name": "Firebone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Firebone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is set alight before firing. Deals fire damage. \n Craftable item. "
+ },
+ {
+   "Name": "Coldbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Coldbone+Arrow",
+   "Lore": "Arrow whittled from animal bones with a frozen tip. \nAfflicts targets with frost. \nCraftable item. "
+ },
+ {
+   "Name": "Firebone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Firebone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is set alight before firing. \nDeals fire damage to foes. "
+ },
+ {
+   "Name": "Poisonbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Arrow",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is daubed with venom. \nAfflicts targets with poison. \nCraftable item. "
+ },
+ {
+   "Name": "Golem's Magic Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Golem's+Magic+Arrow",
+   "Lore": "Greatarrow of black stone crafted by a civilization now gone to ruin. Imbued with its ancient magic. \nDeals magic damage. "
+ },
+ {
+   "Name": "Firebone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Firebone+Arrow",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is set alight before firing"
+ },
+ {
+   "Name": "Perfumer's Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Perfumer's+Bolt",
+   "Lore": "Bolt created with perfumer techniques. Used by nobles' guards and the like. \n The point of impact explodes with sparks, dealing fire damage. "
+ },
+ {
+   "Name": "Haligbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Haligbone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is daubed with a golden tincture. Deals holy damage. \nCraftable item. "
+ },
+ {
+   "Name": "Black-Key Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Black-Key+Bolt",
+   "Lore": "Bolts used in Crepus' Black-Key Crossbow, an assassin's tool of exquisite craftmanship. \n The intricate spiral tip bores deep, injecting scarlet rot far into the flesh of its target. "
+ },
+ {
+   "Name": "Haligbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Haligbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. The tip is daubed with a golden tincture. Deals holy damage. \nCraftable item. The fletching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Explosive Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Explosive+Bolt",
+   "Lore": "Bolt tipped with a shard of Explosive Stone. Explodes on impact, dealing fire damage. "
+ },
+ {
+   "Name": "Shattershard Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Shattershard+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact. "
+ },
+ {
+   "Name": "Radahn's Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Radahn's+Spear",
+   "Lore": "Greatarrows used by the General Radahns during the festival of combat. These are in fact the many spears with which he was stabbed by the Cleanrot Knights. \n\nImbued with Radahn's gravitational power. "
+ },
+ {
+   "Name": "Bone Ballista Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Bone+Ballista+Bolt",
+   "Lore": "Greatbolt as large as a spear carved from stout animal bones. Craftable item. \n Though the tip is certainly sharp, it does not fly particularly true. "
+ },
+ {
+   "Name": "Bone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Bone+Arrow",
+   "Lore": "Arrow whittled from thin animal bones. \nThough the arrowhead is sharp indeed, it doesn't fly particularly true. "
+ },
+ {
+   "Name": "Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Arrow",
+   "Lore": "Arrows used with small and long bows. \nUnremarkable in any way, shape or form. "
+ },
+ {
+   "Name": "Bone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Bone+Bolt",
+   "Lore": "Bolt carved from a thin animal bone. Craftable item. \n Though the tip is certainly sharp, it does not fly particularly true. "
+ },
+ {
+   "Name": "Bone Great Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Bone+Great+Arrow+(Fletched)",
+   "Lore": "Greatarrow as large as a spear whittled from stout animal bones. \nCraftable item. \nThe fletching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Ballista Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Ballista+Bolt",
+   "Lore": "Greatbolt as large as a spear for use with Hand Ballista. "
+ },
+ {
+   "Name": "Rainbow Stone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Rainbow+Stone+Arrow",
+   "Lore": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. Colored lights shine at the point of impact. \n \n Craftable item. "
+ },
+ {
+   "Name": "Burred Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Burred+Bolt",
+   "Lore": "Bolt covered in thorns. One of the most horrific weapons used in the Shattering. Afflicts with blood loss. \n Diffcult to remove once buried in flesh, causes appalling damage to the body"
+ },
+ {
+   "Name": "Meteor Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Meteor+Bolt",
+   "Lore": "Enchanted work of craft made in tandem with Full Moon Crossbow. The tip is embedded with glintstone. \n Like a shooting star, these bolts leave a beautiful trail when fired.  Deals magic damage. "
+ },
+ {
+   "Name": "Sleepbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Sleepbone+Arrow",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is daubed with a water lily tincture. \nAfflicts targets with drowsiness. \nCraftable item. "
+ },
+ {
+   "Name": "Sleepbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Sleepbone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is daubed with a waterlily tincture. \nAfflicts targets with sleep. "
+ },
+ {
+   "Name": "Lightningbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightningbone+Arrow",
+   "Lore": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage. \n \nCraftable item. "
+ },
+ {
+   "Name": "Fire Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Fire+Arrow",
+   "Lore": "Arrow with the tip set alight.  \nDeals fire damage. "
+ },
+ {
+   "Name": "Lightning Greatbolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightning+Greatbolt",
+   "Lore": "Greatbolt tipped with a clump of Gravel Stone shards.   \n Deals powerful lightning damage. "
+ },
+ {
+   "Name": "Haligbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Haligbone+Arrow",
+   "Lore": "Arrow whittled From animal bones. The tip is daubed with a golden tincture. Deals holy damage. \nCraftable item. "
+ },
+ {
+   "Name": "Golden Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Bolt",
+   "Lore": "Bolt blessed with an incantation of the Erdtree. Deals powerful holy damage\n \n Once used by guards of the Capital. "
+ },
+ {
+   "Name": "Poisonbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is daubed with venom. \nAfflicts targets with poison. \nCraftable item. \nThe addition of fletching enables more precise shots that can travel farther. "
+ },
+ {
+   "Name": "Bone Great Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Bone+Great+Arrow",
+   "Lore": "Greatarrow as large as a spear whittled from stout animal bones. \nThough the tip is certainly sharp, it does not fly particularly true. "
+ },
+ {
+   "Name": "Golden Great Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Great+Arrow",
+   "Lore": "Carved greatarrows made together with the Erdtree Greatbow. Deals holy damage. \n \n Imbued with an oath-sworn incantation, which boosts the attack and defense of the archer and their nearby allies. "
+ },
+ {
+   "Name": "St. Trina's Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/St.+Trina's+Arrow",
+   "Lore": "Arrow carved to resemble a withered water lily. Afflicts targets\nwith a powerful sleep effect. \n Priests of St. Trina use these arrows to spread their teachings. The sweet oblivion of sleep can become quite the habit. "
+ },
+ {
+   "Name": "Bone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Bone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from thin animal bones. \nThe feather fletchings add distance and accuracy to the standard bone arrow. "
+ },
+ {
+   "Name": "Coldbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Coldbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones with a frozen tip. \nAfflicts targets with frost. \nCraftable item. The fletching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Magicbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Magicbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. The tip is daubed with a glintstone tincture. \nDeals magic damage. \n \nCraftable item. The Retching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Flaming Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Flaming+Bolt",
+   "Lore": "Bolt with a fiercely burned tip. Deals powerful fire damage. \n Used by survivors of Radahn's army to stave off the scarlet rot. "
+ },
+ {
+   "Name": "Rotbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotbone+Arrow",
+   "Lore": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot. \nCraftable item. "
+ },
+ {
+   "Name": "Lightningbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightningbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones with a lightning-infused tip. Deals lightning damage. \n \nCraftable item. The fletching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Great Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Arrow",
+   "Lore": "A greatarrow as large as a spear for use with greatbows. \nUsed by archers of monstrous strength employed by a lord's army. "
+ },
+ {
+   "Name": "Dwelling Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Dwelling+Arrow",
+   "Lore": "Arrow in which the spirits of small animals are thought to dwell. \nDeals magic damage. "
+ },
+ {
+   "Name": "Sleepbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Sleepbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. \nThe tip is daubed with a water lily tincture. \nAfflicts targets with drowsiness. \nCraftable item. \nThe addition of fletching enables more precise shots that can travel farther. "
+ },
+ {
+   "Name": "Golden Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Arrow",
+   "Lore": "Carved arrows made in tandem with the Erdtree Bow. Deals holy damage.   \n Highly effective against Those Who Live in Death, and able to prevent them from rising again. "
+ },
+ {
+   "Name": "Explosive Greatbolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Explosive+Greatbolt",
+   "Lore": "Greatbolt tipped with a clump of Explosive Stone shards. \nDetonates a large explosion on impact, dealing fire damage. "
+ },
+ {
+   "Name": "Lordsworn's Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Lordsworn's+Bolt",
+   "Lore": "Well-crafted bolt with an illustrious design, wielded by regulars of a lord's army. \n Deals more damage by its commonplace cousin. "
+ },
+ {
+   "Name": "Golem's Great Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Golem's+Great+Arrow",
+   "Lore": "Greatarrow of black stone crafted by a civilization now gone to ruin. \nUsed by the Guardian Golem. \nThis hefty arrow is enrobed in tempestuous winds, allowing it to break enemy stances and guards with ease. "
+ },
+ {
+   "Name": "Spiritflame Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Spiritflame+Arrow",
+   "Lore": "Arrow set alight with ghostflame before firing. Deals magic damage while also afflicting foes with frost. \n Used by the Company of the Fallen Hawk, once ordered to explore the Eternal City. "
+ },
+ {
+   "Name": "Coldbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Coldbone+Bolt",
+   "Lore": "Bolt carved from animal bone with a frozen tip. \nAfflicts targets with frost. \nCraftable item. "
+ },
+ {
+   "Name": "Magicbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Magicbone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage. \nCraftable item. "
+ },
+ {
+   "Name": "Rainbow Stone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Rainbow+Stone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones tipped with chips of Rainbow Stone. \nColored light shines at the point of impact. \nCraftable item. The fletching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Shattershard Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Shattershard+Arrow",
+   "Lore": "Arrows whittled from animal bones tipped with a shard of crystal. Creates a resonating noise at the point of impact. "
+ },
+ {
+   "Name": "Bloodbone Arrow",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodbone+Arrow",
+   "Lore": "Arrow whittled from animal bones. The tip is daubed with a blood tincture. \nAfflicts targets with blood loss. "
+ },
+ {
+   "Name": "Rotbone Arrow (Fletched)",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotbone+Arrow+(Fletched)",
+   "Lore": "Arrow whittled from animal bones. The tip is daubed with rot. Afflicts targets with scarlet rot. \nCraftable item. The fletching adds distance to the arrow's flight. "
+ },
+ {
+   "Name": "Bloodbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodbone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is daubed with a blood tincture. Afflicts targets with blood loss. \nCraftable item. "
+ },
+ {
+   "Name": "Poisonbone Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Poisonbone+Bolt",
+   "Lore": "Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison. \nCraftable item. "
+ }
+]
 }
