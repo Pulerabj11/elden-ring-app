@@ -1,139 +1,139 @@
 {
-	"mediumShields": [
-	{
-		"Name": "Banished Knight's Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Banished+Knight's+Shield",
-		"Lore": "A tall medium-sized metal shield. Given to knights who, whether\r\nby misfortune or misdeed, were forced to abandon their homes. \r\n Most of these knights were sent to the fringes, where they were\r\nforced to start anew with only despair for company. "
-	},
-	{
-		"Name": "Inverted Hawk Heater Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Inverted+Hawk+Heater+Shield",
-		"Lore": "A medium-sized metal shield. \r\nEasier to handle than a kite shield. \r\n\r\nThe inverted hawk is the emblem of the company of slaves ordered to explore the Eternal City. "
-	},
-	{
-		"Name": "Albinauric Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Albinauric+Shield",
-		"Lore": "Tall oval shield made of metal carried by young Albinaurics. \r\nThe ornamentation represents the primordial drop of dew from which they are said to have been created. \r\n\r\nBoasts exceptional magic damage negation. \r\nThe Albinaurics' most formidable foes were sorcerers, after all. "
-	},
-	{
-		"Name": "Scorpion Kite Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Scorpion+Kite+Shield",
-		"Lore": "A standard medium-sized metal shield. \r\nHighly reputed for its solid build and reliability. \r\n\r\nEmblazoned with a yellow scorpion, a warning of surprise attacks and sudden strikes. "
-	},
-	{
-		"Name": "Large Leather Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Large+Leather+Shield",
-		"Lore": "A round shield covered in leather. One of the larger categories of medium-sized shield. \r\n Though its damage negation may be lacking compared to a metal shield, it can handle wider range of attack affinities. "
-	},
-	{
-		"Name": "Silver Mirrorshield",
-		"Link": "https://eldenring.wiki.fextralife.com/Silver+Mirrorshield",
-		"Lore": "Shield of radiant silver, festooned with amber and carried by Loretta, Knight of the Haligtree. \r\n \r\n The shape is said to imitate that of a sacred drop of dew, which inspired the absurd rumor that Loretta herself was an Albinauric. "
-	},
-	{
-		"Name": "Flame Crest Wooden Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Flame+Crest+Wooden+Shield",
-		"Lore": "A tall, medium-sized wooden shield. Light for its size,\r\nand easy to handle. Carried by soldiers of the village that is afflicted by frenzy. \r\n The yellow flame is the symbol of the affliction,\r\nserving as a warning to those who might approach the village. "
-	},
-	{
-		"Name": "Twinbird Kite Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Twinbird+Kite+Shield",
-		"Lore": "Shield featuring a vividly painted twinbird. \r\nThe twinbird is said to be the envoy of an outer god, and mother of the Deathbirds. \r\n\r\nAt dwindling levels of HP, this shield slightly boosts both attack and defense. "
-	},
-	{
-		"Name": "Beast Crest Heater Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Beast+Crest+Heater+Shield",
-		"Lore": "A medium-sized metal shield. Easier to handle than a kite shield. \r\n Features a beast as its crest, serving to remind warriors not to\r\nsuccumb to the arousal of battle. Fight with passion, but become\r\nnor its prisoner. "
-	},
-	{
-		"Name": "Marred Leather Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Marred+Leather+Shield",
-		"Lore": "Leather shield of Stormveil soldiers. Miuch like the castle,\r\nit is marred by mottling and thorns. \r\n Some say it is the curse of grafting which causes such affliction,\r\nwhile others talk of its root being something altogether more\r\nsinister hidden deep within the castle. "
-	},
-	{
-		"Name": "Red Crest Heater Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Red+Crest+Heater+Shield",
-		"Lore": "A medium-sized metal shield. Easier to handle than a kite shield. \r\n\r\nThe crest symbolizes red wings. "
-	},
-	{
-		"Name": "Kite Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Kite+Shield",
-		"Lore": "A standard medium-sized metal shield. \r\n Metal shields reliably negate physical damage when guarding,\r\na trait which made them highly trusted on the battlefield. "
-	},
-	{
-		"Name": "Black Leather Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Black+Leather+Shield",
-		"Lore": "Roundshield covered in black leather. On the larger side for a\r\nmedium-sized shield. \r\n From the north, this shield depicts the polar star in rivets of gold. \r\nThe inside is lined with fur, protecting the carrier from frost. "
-	},
-	{
-		"Name": "Round Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Round+Shield",
-		"Lore": "A wooden roundshield that has been reinforced with metal. \r\n Comparatively light for its size, this shield is easy to handle but\r\nlacks a true metal shield's ability to negate damage. "
-	},
-	{
-		"Name": "Blue-Gold Kite Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Blue-Gold+Kite+Shield",
-		"Lore": "A standard medium-sized shield. Highly reputed for\r\nits solid build and reliability. \r\n The design represents the Erdtree foreground against a blue sky. "
-	},
-	{
-		"Name": "Candletree Wooden Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Candletree+Wooden+Shield",
-		"Lore": "A tall, medium-sized wooden shield. Light for its size, and easy to handle. \r\n \r\n Thought to represent a surreptitious prophecy of cardinal sin, the lit candle-tree design was forbidden. "
-	},
-	{
-		"Name": "Beastman's Jar-Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Beastman's+Jar-Shield",
-		"Lore": "Shield fashioned from a tall broken jar carried by the beastmen of Farum Azula. \r\nThere is a particular knack to wielding it. \r\n\r\nThe beastmen have always fired earthenware jars for the express purpose of making shields. \r\nSuch are their ways, strange though they are. "
-	},
-	{
-		"Name": "Eclipse Crest Heater Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Eclipse+Crest+Heater+Shield",
-		"Lore": "A medium-sized metal shield. Easier to handle than a kite shield. \r\n The sun in eclipse is said to be the symbol of the Wandering Mausoleum where the soulless demigods slumber. "
-	},
-	{
-		"Name": "Great Turtle Shell",
-		"Link": "https://eldenring.wiki.fextralife.com/Great+Turtle+Shell",
-		"Lore": "Shield fashioned from a great turtle shell. The natural curve\r\nhelps it contend with foes' attacks. \r\n The turtle is a symbol of tirelessness, and this shield\r\nboosts stamina recovery speed. "
-	},
-	{
-		"Name": "Heater Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Heater+Shield",
-		"Lore": "A medium-sized metal shield, comparatively easy to handle. � \r\n Metal shields reliably negate physical damage when guarding, a trait which made them highly trusted on the battlefield. "
-	},
-	{
-		"Name": "Brass Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Brass+Shield",
-		"Lore": "On the larger side for medium-sized shield, the face has been\r\ncovered in brass. \r\n Commonly employed in the Shattering. "
-	},
-	{
-		"Name": "Hawk Crest Wooden Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Hawk+Crest+Wooden+Shield",
-		"Lore": "A tall, medium-sized wooden shield. Light for its size,\r\nand easy to handle. \r\n Adorned with a long-forgotten crest of Stormveil,\r\nancient in design. "
-	},
-	{
-		"Name": "Horse Crest Wooden Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Horse+Crest+Wooden+Shield",
-		"Lore": "A tall, medium-sized wooden shield. Light for its size,\r\nand easy to handle. \r\n The circular horsehead design evokes a swift gallop. "
-	},
-	{
-		"Name": "Sun Realm Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Sun+Realm+Shield",
-		"Lore": "Shield of honor depicting a city crowned by the sun. \r\nIt has seen better days. \r\n\r\nMuch like the wear upon the shield, the Seat of the Sun is long faded away. "
-	},
-	{
-		"Name": "Carian Knight's Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Carian+Knight's+Shield",
-		"Lore": "A teardrop-shaped shield embedded with blue glintstones. \r\nCarried by knights who served the Carian royal family. \r\n\r\nExcels when facing magic or holy attacks. Just who were these\r\nknights preparing to fight?"
-	},
-	{
-		"Name": "Blue Crest Heater Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Blue+Crest+Heater+Shield",
-		"Lore": "A medium-sized metal shield. Easier to handle than a kite shield. � \r\n The crest represents a forest and river. "
-	},
-	{
-		"Name": "Marred Wooden Shield",
-		"Link": "https://eldenring.wiki.fextralife.com/Marred+Wooden+Shield",
-		"Lore": "\"Wooden shield of the Stormveil soldiers. Much like the castle, it is marred by mottling and thorns. \r\n \r\n Some say it is the curse of grafting which causes such affliction, while others talk of its root being something altogether more sinister hidden deep within the castle. \""
-	}
+  "Medium Shields": [
+ {
+   "Name": "Banished Knight's Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Banished+Knight's+Shield",
+   "Lore": "A tall medium-sized metal shield. Given to knights who, whether\nby misfortune or misdeed, were forced to abandon their homes. \n Most of these knights were sent to the fringes, where they were\nforced to start anew with only despair for company. "
+ },
+ {
+   "Name": "Inverted Hawk Heater Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Inverted+Hawk+Heater+Shield",
+   "Lore": "A medium-sized metal shield. \nEasier to handle than a kite shield. \n\nThe inverted hawk is the emblem of the company of slaves ordered to explore the Eternal City. "
+ },
+ {
+   "Name": "Albinauric Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Albinauric+Shield",
+   "Lore": "Tall oval shield made of metal carried by young Albinaurics. \nThe ornamentation represents the primordial drop of dew from which they are said to have been created. \n\nBoasts exceptional magic damage negation. \nThe Albinaurics' most formidable foes were sorcerers, after all. "
+ },
+ {
+   "Name": "Scorpion Kite Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Scorpion+Kite+Shield",
+   "Lore": "A standard medium-sized metal shield. \nHighly reputed for its solid build and reliability. \n\nEmblazoned with a yellow scorpion, a warning of surprise attacks and sudden strikes. "
+ },
+ {
+   "Name": "Large Leather Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Large+Leather+Shield",
+   "Lore": "A round shield covered in leather. One of the larger categories of medium-sized shield. \n Though its damage negation may be lacking compared to a metal shield, it can handle wider range of attack affinities. "
+ },
+ {
+   "Name": "Silver Mirrorshield",
+   "Link": "https://eldenring.wiki.fextralife.com/Silver+Mirrorshield",
+   "Lore": "Shield of radiant silver, festooned with amber and carried by Loretta, Knight of the Haligtree. \n \n The shape is said to imitate that of a sacred drop of dew, which inspired the absurd rumor that Loretta herself was an Albinauric. "
+ },
+ {
+   "Name": "Flame Crest Wooden Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Crest+Wooden+Shield",
+   "Lore": "A tall, medium-sized wooden shield. Light for its size,\nand easy to handle. Carried by soldiers of the village that is afflicted by frenzy. \n The yellow flame is the symbol of the affliction,\nserving as a warning to those who might approach the village. "
+ },
+ {
+   "Name": "Twinbird Kite Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Twinbird+Kite+Shield",
+   "Lore": "Shield featuring a vividly painted twinbird. \nThe twinbird is said to be the envoy of an outer god, and mother of the Deathbirds. \n\nAt dwindling levels of HP, this shield slightly boosts both attack and defense. "
+ },
+ {
+   "Name": "Beast Crest Heater Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Beast+Crest+Heater+Shield",
+   "Lore": "A medium-sized metal shield. Easier to handle than a kite shield. \n Features a beast as its crest, serving to remind warriors not to\nsuccumb to the arousal of battle. Fight with passion, but become\nnor its prisoner. "
+ },
+ {
+   "Name": "Marred Leather Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Marred+Leather+Shield",
+   "Lore": "Leather shield of Stormveil soldiers. Miuch like the castle,\nit is marred by mottling and thorns. \n Some say it is the curse of grafting which causes such affliction,\nwhile others talk of its root being something altogether more\nsinister hidden deep within the castle. "
+ },
+ {
+   "Name": "Red Crest Heater Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Red+Crest+Heater+Shield",
+   "Lore": "A medium-sized metal shield. Easier to handle than a kite shield. \n\nThe crest symbolizes red wings. "
+ },
+ {
+   "Name": "Kite Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Kite+Shield",
+   "Lore": "A standard medium-sized metal shield. \n Metal shields reliably negate physical damage when guarding,\na trait which made them highly trusted on the battlefield. "
+ },
+ {
+   "Name": "Black Leather Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Leather+Shield",
+   "Lore": "Roundshield covered in black leather. On the larger side for a\nmedium-sized shield. \n From the north, this shield depicts the polar star in rivets of gold. \nThe inside is lined with fur, protecting the carrier from frost. "
+ },
+ {
+   "Name": "Round Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Round+Shield",
+   "Lore": "A wooden roundshield that has been reinforced with metal. \n Comparatively light for its size, this shield is easy to handle but\nlacks a true metal shield's ability to negate damage. "
+ },
+ {
+   "Name": "Blue-Gold Kite Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Blue-Gold+Kite+Shield",
+   "Lore": "A standard medium-sized shield. Highly reputed for\nits solid build and reliability. \n The design represents the Erdtree foreground against a blue sky. "
+ },
+ {
+   "Name": "Candletree Wooden Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Candletree+Wooden+Shield",
+   "Lore": "A tall, medium-sized wooden shield. Light for its size, and easy to handle. \n \n Thought to represent a surreptitious prophecy of cardinal sin, the lit candle-tree design was forbidden. "
+ },
+ {
+   "Name": "Beastman's Jar-Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Beastman's+Jar-Shield",
+   "Lore": "Shield fashioned from a tall broken jar carried by the beastmen of Farum Azula. \nThere is a particular knack to wielding it. \n\nThe beastmen have always fired earthenware jars for the express purpose of making shields. \nSuch are their ways, strange though they are. "
+ },
+ {
+   "Name": "Eclipse Crest Heater Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Eclipse+Crest+Heater+Shield",
+   "Lore": "A medium-sized metal shield. Easier to handle than a kite shield. \n The sun in eclipse is said to be the symbol of the Wandering Mausoleum where the soulless demigods slumber. "
+ },
+ {
+   "Name": "Great Turtle Shell",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Turtle+Shell",
+   "Lore": "Shield fashioned from a great turtle shell. The natural curve\nhelps it contend with foes' attacks. \n The turtle is a symbol of tirelessness, and this shield\nboosts stamina recovery speed. "
+ },
+ {
+   "Name": "Heater Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Heater+Shield",
+   "Lore": "A medium-sized metal shield, comparatively easy to handle.   \n Metal shields reliably negate physical damage when guarding, a trait which made them highly trusted on the battlefield. "
+ },
+ {
+   "Name": "Brass Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Brass+Shield",
+   "Lore": "On the larger side for medium-sized shield, the face has been\ncovered in brass. \n Commonly employed in the Shattering. "
+ },
+ {
+   "Name": "Hawk Crest Wooden Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Hawk+Crest+Wooden+Shield",
+   "Lore": "A tall, medium-sized wooden shield. Light for its size,\nand easy to handle. \n Adorned with a long-forgotten crest of Stormveil,\nancient in design. "
+ },
+ {
+   "Name": "Horse Crest Wooden Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Horse+Crest+Wooden+Shield",
+   "Lore": "A tall, medium-sized wooden shield. Light for its size,\nand easy to handle. \n The circular horsehead design evokes a swift gallop. "
+ },
+ {
+   "Name": "Sun Realm Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Sun+Realm+Shield",
+   "Lore": "Shield of honor depicting a city crowned by the sun. \nIt has seen better days. \n\nMuch like the wear upon the shield, the Seat of the Sun is long faded away. "
+ },
+ {
+   "Name": "Carian Knight's Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Knight's+Shield",
+   "Lore": "A teardrop-shaped shield embedded with blue glintstones. \nCarried by knights who served the Carian royal family. \n\nExcels when facing magic or holy attacks. Just who were these\nknights preparing to fight?"
+ },
+ {
+   "Name": "Blue Crest Heater Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Blue+Crest+Heater+Shield",
+   "Lore": "A medium-sized metal shield. Easier to handle than a kite shield.   \n The crest represents a forest and river. "
+ },
+ {
+   "Name": "Marred Wooden Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Marred+Wooden+Shield",
+   "Lore": "\"Wooden shield of the Stormveil soldiers. Much like the castle, it is marred by mottling and thorns. \n \n Some say it is the curse of grafting which causes such affliction, while others talk of its root being something altogether more sinister hidden deep within the castle. \""
+ }
 ]
 }

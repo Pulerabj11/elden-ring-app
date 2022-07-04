@@ -1,54 +1,54 @@
 {
-	"bosses": [
-	{
-		"Name": "Rykard, Lord of Blasphemy",
-		"Link": "https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy",
-		"Dialogue": "INTRODUCTION:\r\nHmm... Very well.\r\nYou...\r\nJoin the Serpent King, as family... Together, we will devour the very gods!\r\nDefeating player:\r\nNow, we can devour the gods, together!\r\n\r\nAFTER FIGHT:\r\nNo one will hold me captive.\r\nA serpent never dies.\r\nHa ha ha...\r\n"
-	},
-	{
-		"Name": "Morgott, The Omen King",
-		"Link": "https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King",
-		"Dialogue": "INTRODUCTION:\r\nGraceless Tarnished.\r\nWhat is thy business with these thrones?\r\nAhh... Godrick the Golden. The twin prodigies, Miquella and Malenia. General Radahn. Praetor Rykard. Lunar Princess Ranni.\r\nWilful traitors, all.\r\nThy kind are all of a piece. Pillagers. Emboldened by the flame of ambition.\r\nHave it writ upon thy meagre grave:\r\nFelled by King Morgott! Last of all kings.\r\n\r\nDURING FIGHT:\r\nPhase 2 transition:\r\nHrghraah!\r\nThe thrones... stained by my curse... Such shame I cannot bear.\r\nThy part in this shall not be forgiven.\r\nDefeating player:\r\nPut these foolish ambitions to rest.\r\nDuring Phase 2:\r\nMay the curse seep to thy very soul.\r\n\r\nAFTER FIGHT:\r\nUpon talking to Morgott once:\r\nTarnished, thou'rt but a fool.\r\nThe Erdtree wards off all who deign approach.\r\nWe are... we are all forsaken.\r\nNone may claim the title of Elden Lord.\r\nUpon talking to Morgott twice:\r\nThy deeds shall be met with failure, just as I.\r\n"
-	},
-	{
-		"Name": "Maliketh, The Black Blade",
-		"Link": "https://eldenring.wiki.fextralife.com/Maliketh,+the+Black+Blade",
-		"Dialogue": "INTRODUCTION\r\nThou, who approacheth Destined Death. I will not have it stolen from me again.\r\n\r\nINTRODUCTION (IF GURRANQ IS GIVEN ALL DEATHROOTS)\r\nTarnished, why wouldst thou... Why... Tis no matter. I hereby vow, that Destined Death shall not be stolen again.\r\n\r\nDURING FIGHT:\r\nDefeating player in phase 1:\r\nI shall not part with it again.\r\nDefeating player in phase 1\r\n(if Gurranq is given all Deathroots):\r\nStay away from Destined Death.\r\nDefeating player in phase 2:\r\nCower. Before Maliketh, the Black Blade.\r\nDefeating player in phase 2\r\n(if Gurranq is given all Deathroots):\r\nCower. Before Maliketh, Marika's Black Blade.\r\n\r\nPHASE TRANSITION:�\r\nO, Death. Become my blade, once more.�\r\n\r\nAFTER FIGHT:\r\nWitless Tarnished... Why covet Destined Death?\r\nTo kill what?\r\n(if Gurranq is given all Deathroots):\r\nForgive me, Marika... The Golden Order... cannot be restored.\r\n"
-	},
-	{
-		"Name": "Malenia, Blade of Miquella",
-		"Link": "https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella",
-		"Dialogue": "INTRODUCTION:\r\nI dreamt for so long.\r\nMy flesh was dull gold...and my blood, rotted.\r\nCorpse after corpse, left in my wake...\r\nAs I awaited... his return.\r\n... Heed my words.\r\nI am Malenia. Blade of Miquella.\r\nAnd I have never known defeat.\r\n\r\nDURING FIGHT\r\nDefeating player in phase 1:�I am Malenia, Blade of Miquella...\r\nDefeating player in phase 2:�Let your flesh be consumed. By the scarlet rot.\r\n\r\nINTERMISSION\r\nWait.\r\nThe scarlet bloom flowers once more\r\nYou will witness true horror.\r\nNow, rot!\r\n\r\nAFTER FIGHT\r\nYour strength, extraordinary...\r\nThe mark...of a true Lord...\r\nO, dear Miquella...\r\nO, dearest Miquella, my brother...\r\nI'm sorry. I finally met my match...\r\n"
-	},
-	{
-		"Name": "Mohg, Lord of Blood",
-		"Link": "https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood",
-		"Dialogue": "INTRODUCTION:\r\nDearest Miquella. You must abide alone a while.\r\nWelcome, honored guest. To the birthplace of our dynasty!\r\n\r\nDURING FIGHT:\r\nEach time roughly a quarter of his health is depleted:\r\nTr?s!�(First time)\r\nDuo!�(Second time)\r\n?nus!�(Third time)\r\nUpon reaching roughly 1/4 of his health and using his healing attack:\r\nNihil! Nihil! Nihil!\r\nDefeating player:�Miquella is mine and mine alone.\r\n\r\nAFTER FIGHT:\r\nAhh, I can see it, clear as day! The coming of our dynasty!\r\nMohgwyn!\r\n"
-	},
-	{
-		"Name": "Godfrey, First Elden Lord",
-		"Link": "https://eldenring.wiki.fextralife.com/Godfrey,+First+Elden+Lord",
-		"Dialogue": "INTRODUCTION:\r\nIt's been a long while, Morgott.\r\nLong and hard didst thou fight.\r\nTarnished Warrior.\r\nSpurned by the grace of gold.\r\nBe assured, the Elden Ring\r\nresteth close at hand.\r\nAlas, I am returned.\r\nTo be granted audience once more.\r\nUpon my name as Godfrey,�\r\nThe first Elden Lord!\r\n\r\nDURING FIGHT:\r\n(Halfway)\r\nThat will be all.\r\nThou didst me good service, Serosh.\r\nI've Given thee courtesy enough.\r\nRrraaargh!\r\nNow I fight as Hoarah Loux!\r\nWarrior!\r\n(Defeating player in Phase 1)\r\nTarnished Warrior. 'Twas nobly fought.\r\n(Defeating player in Phase 2)\r\nA crown is warranted with strength!\r\n\r\nAFTER FIGHT:\r\nBrave Tarnished...\r\nThy strength befits a crown.\r\n"
-	},
-	{
-		"Name": "Sir Gideon Ofnir, The All-Knowing",
-		"Link": "https://eldenring.wiki.fextralife.com/Sir+Gideon+Ofnir,+the+All-Knowing+(Boss)",
-		"Dialogue": "INTRODUCTION:\r\nAhh, I knew you'd come.\r\nTo stand before the Elden Ring. To become Elden Lord.\r\nWhat a sad state of affairs.\r\nI commend your spirit, but alas, none shall take the throne.\r\nQueen Marika has high hopes for us.\r\nThat we continue to struggle. Unto eternity.\r\n\r\nDURING FIGHT:\r\nDefeating player:\r\nMy fellow, you've fought well, until now.\r\n\r\nAFTER FIGHT:\r\nI know...in my bones...\r\nA Tarnished cannot become a Lord. Not even you.\r\nA man cannot kill a god...\r\n"
-	},
-	{
-		"Name": "Godrick the Grafted",
-		"Link": "https://eldenring.wiki.fextralife.com/Godrick+the+Grafted",
-		"Dialogue": "INTRODUCTION:\r\nMighty Dragon, thou'rt a trueborn heir.\r\nLend me thy strength, o kindred.\r\nDeliver me unto greater heights.\r\n...Well.\r\nA lowly Tarnished,\r\nplaying as a lord.\r\nI command thee, kneel!\r\nI am the lord of all that is golden!\r\n\r\nDURING FIGHT (PHASE 1):\r\nDefeating player:�\r\nLowly Tarnished...�Thou'rt unfit even to graft...\r\n\r\nSECOND PHASE TRANSITION:\r\nAhh, truest of dragons.\r\nLend me thy strength�\r\nNnngh!\r\nForefathers, one and all�\r\nBear witness!\r\n\r\nDURING FIGHT (PHASE 2):\r\nDefeating player:\r\nGreat Godfrey, did'st thou witness?\r\n\r\nAFTER FIGHT:\r\n...I am Lord of all that is Golden....\r\n...And one day, we'll return together...\r\n...To our home, bathed in rays of gold...\r\n"
-	},
-	{
-		"Name": "Margit, the Fell Omen",
-		"Link": "https://eldenring.wiki.fextralife.com/Margit,+the+Fell+Omen",
-		"Dialogue": "INTRODUCTION:\r\nFoul tarnished,\r\nin search of the Elden Ring.\r\nEmboldened by the flame of ambition.\r\nSomeone must extinguish thy flame.\r\nLet it be Margit the Fell!\r\n\r\nDURING FIGHT:\r\nDefeating player:\r\nPut these foolish ambitions to rest.\r\nAt 60% health:\r\nWell, thou art of passing skill. Warrior blood must truly run in thy veins, Tarnished.\r\n\r\nAFTER FIGHT:\r\nI shall remember thee, Tarnished.\r\nSmouldering with thy meagre�flame.\r\nCower in Fear. Of the Night.\r\nThe hands of the Fell Omen shall brook thee no quarter.\r\n\r\nLATER ENCOUNTER:\r\nI see thee, little Tarnished.\r\nSmouldering with thy wretched flame of ambition.\r\n"
-	},
-	{
-		"Name": "Rennala, Queen of the Full Moon",
-		"Link": "https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon",
-		"Dialogue": "INTRODUCTION:\r\nHush, little culver.\r\nI'll soon birth thee anew, a sweeting fresh and pure...\r\n\r\nDURING FIGHT:\r\nCome, sweetings, time to be born, anew.�(Spoken when using her Scholar Tomes attack)\r\nCome, Oath-sworn giant/dragon!�(Spoken when summoning a giant or dragon during her second phase)\r\nDefeating player:\r\nBe not afeard, little culver.�(Phase 1)\r\n\r\nSecond phase transition cutscene:\r\nAhh, my beloved...\r\nHave no fear, I will hold thee. Patience.\r\nYe will be countless born, forever and ever.\r\n(Note: While there is more dialogue in this cutscene, it is spoken by�Ranni the Witch.\r\nUpon my name as Ranni the Witch.\r\nMother's rich slumber shall not be disturbed by thee.\r\nFoul trespasser.\r\nSend word far and wide.\r\nOf the last Queen of Caria, Rennala of the Full Moon.\r\nAnd the majesty of the night she conjureth.)\r\n\r\nDURING FIGHT (PHASE 2):\r\nDefeating player:\r\nThy fate lieth under my moon.�(Phase 2)\r\n\r\nAFTER FIGHT:\r\nOh little Ranni, my dear daughter.\r\nWeave thy night into being.\r\n"
-	}
+  "Bosses": [
+ {
+   "Name": "Rykard, Lord of Blasphemy",
+   "Link": "https://eldenring.wiki.fextralife.com/Rykard,+Lord+of+Blasphemy",
+   "Dialogue": "INTRODUCTION:\nHmm... Very well.\nYou...\nJoin the Serpent King, as family... Together, we will devour the very gods!\nDefeating player:\nNow, we can devour the gods, together!\n\nAFTER FIGHT:\nNo one will hold me captive.\nA serpent never dies.\nHa ha ha...\n"
+ },
+ {
+   "Name": "Morgott, The Omen King",
+   "Link": "https://eldenring.wiki.fextralife.com/Morgott+the+Omen+King",
+   "Dialogue": "INTRODUCTION:\nGraceless Tarnished.\nWhat is thy business with these thrones?\nAhh... Godrick the Golden. The twin prodigies, Miquella and Malenia. General Radahn. Praetor Rykard. Lunar Princess Ranni.\nWilful traitors, all.\nThy kind are all of a piece. Pillagers. Emboldened by the flame of ambition.\nHave it writ upon thy meagre grave:\nFelled by King Morgott! Last of all kings.\n\nDURING FIGHT:\nPhase 2 transition:\nHrghraah!\nThe thrones... stained by my curse... Such shame I cannot bear.\nThy part in this shall not be forgiven.\nDefeating player:\nPut these foolish ambitions to rest.\nDuring Phase 2:\nMay the curse seep to thy very soul.\n\nAFTER FIGHT:\nUpon talking to Morgott once:\nTarnished, thou'rt but a fool.\nThe Erdtree wards off all who deign approach.\nWe are... we are all forsaken.\nNone may claim the title of Elden Lord.\nUpon talking to Morgott twice:\nThy deeds shall be met with failure, just as I.\n"
+ },
+ {
+   "Name": "Maliketh, The Black Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Maliketh,+the+Black+Blade",
+   "Dialogue": "INTRODUCTION\nThou, who approacheth Destined Death. I will not have it stolen from me again.\n\nINTRODUCTION (IF GURRANQ IS GIVEN ALL DEATHROOTS)\nTarnished, why wouldst thou... Why... Tis no matter. I hereby vow, that Destined Death shall not be stolen again.\n\nDURING FIGHT:\nDefeating player in phase 1:\nI shall not part with it again.\nDefeating player in phase 1\n(if Gurranq is given all Deathroots):\nStay away from Destined Death.\nDefeating player in phase 2:\nCower. Before Maliketh, the Black Blade.\nDefeating player in phase 2\n(if Gurranq is given all Deathroots):\nCower. Before Maliketh, Marika's Black Blade.\n\nPHASE TRANSITION: \nO, Death. Become my blade, once more. \n\nAFTER FIGHT:\nWitless Tarnished... Why covet Destined Death?\nTo kill what?\n(if Gurranq is given all Deathroots):\nForgive me, Marika... The Golden Order... cannot be restored.\n"
+ },
+ {
+   "Name": "Malenia, Blade of Miquella",
+   "Link": "https://eldenring.wiki.fextralife.com/Malenia+Blade+of+Miquella",
+   "Dialogue": "INTRODUCTION:\nI dreamt for so long.\nMy flesh was dull gold...and my blood, rotted.\nCorpse after corpse, left in my wake...\nAs I awaited... his return.\n... Heed my words.\nI am Malenia. Blade of Miquella.\nAnd I have never known defeat.\n\nDURING FIGHT\nDefeating player in phase 1: I am Malenia, Blade of Miquella...\nDefeating player in phase 2: Let your flesh be consumed. By the scarlet rot.\n\nINTERMISSION\nWait.\nThe scarlet bloom flowers once more\nYou will witness true horror.\nNow, rot!\n\nAFTER FIGHT\nYour strength, extraordinary...\nThe mark...of a true Lord...\nO, dear Miquella...\nO, dearest Miquella, my brother...\nI'm sorry. I finally met my match...\n"
+ },
+ {
+   "Name": "Mohg, Lord of Blood",
+   "Link": "https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood",
+   "Dialogue": "INTRODUCTION:\nDearest Miquella. You must abide alone a while.\nWelcome, honored guest. To the birthplace of our dynasty!\n\nDURING FIGHT:\nEach time roughly a quarter of his health is depleted:\nTr?s! (First time)\nDuo! (Second time)\n?nus! (Third time)\nUpon reaching roughly 1/4 of his health and using his healing attack:\nNihil! Nihil! Nihil!\nDefeating player: Miquella is mine and mine alone.\n\nAFTER FIGHT:\nAhh, I can see it, clear as day! The coming of our dynasty!\nMohgwyn!\n"
+ },
+ {
+   "Name": "Godfrey, First Elden Lord",
+   "Link": "https://eldenring.wiki.fextralife.com/Godfrey,+First+Elden+Lord",
+   "Dialogue": "INTRODUCTION:\nIt's been a long while, Morgott.\nLong and hard didst thou fight.\nTarnished Warrior.\nSpurned by the grace of gold.\nBe assured, the Elden Ring\nresteth close at hand.\nAlas, I am returned.\nTo be granted audience once more.\nUpon my name as Godfrey, \nThe first Elden Lord!\n\nDURING FIGHT:\n(Halfway)\nThat will be all.\nThou didst me good service, Serosh.\nI've Given thee courtesy enough.\nRrraaargh!\nNow I fight as Hoarah Loux!\nWarrior!\n(Defeating player in Phase 1)\nTarnished Warrior. 'Twas nobly fought.\n(Defeating player in Phase 2)\nA crown is warranted with strength!\n\nAFTER FIGHT:\nBrave Tarnished...\nThy strength befits a crown.\n"
+ },
+ {
+   "Name": "Sir Gideon Ofnir, The All-Knowing",
+   "Link": "https://eldenring.wiki.fextralife.com/Sir+Gideon+Ofnir,+the+All-Knowing+(Boss)",
+   "Dialogue": "INTRODUCTION:\nAhh, I knew you'd come.\nTo stand before the Elden Ring. To become Elden Lord.\nWhat a sad state of affairs.\nI commend your spirit, but alas, none shall take the throne.\nQueen Marika has high hopes for us.\nThat we continue to struggle. Unto eternity.\n\nDURING FIGHT:\nDefeating player:\nMy fellow, you've fought well, until now.\n\nAFTER FIGHT:\nI know...in my bones...\nA Tarnished cannot become a Lord. Not even you.\nA man cannot kill a god...\n"
+ },
+ {
+   "Name": "Godrick the Grafted",
+   "Link": "https://eldenring.wiki.fextralife.com/Godrick+the+Grafted",
+   "Dialogue": "INTRODUCTION:\nMighty Dragon, thou'rt a trueborn heir.\nLend me thy strength, o kindred.\nDeliver me unto greater heights.\n...Well.\nA lowly Tarnished,\nplaying as a lord.\nI command thee, kneel!\nI am the lord of all that is golden!\n\nDURING FIGHT (PHASE 1):\nDefeating player: \nLowly Tarnished... Thou'rt unfit even to graft...\n\nSECOND PHASE TRANSITION:\nAhh, truest of dragons.\nLend me thy strength…\nNnngh!\nForefathers, one and all…\nBear witness!\n\nDURING FIGHT (PHASE 2):\nDefeating player:\nGreat Godfrey, did'st thou witness?\n\nAFTER FIGHT:\n...I am Lord of all that is Golden....\n...And one day, we'll return together...\n...To our home, bathed in rays of gold...\n"
+ },
+ {
+   "Name": "Margit, the Fell Omen",
+   "Link": "https://eldenring.wiki.fextralife.com/Margit,+the+Fell+Omen",
+   "Dialogue": "INTRODUCTION:\nFoul tarnished,\nin search of the Elden Ring.\nEmboldened by the flame of ambition.\nSomeone must extinguish thy flame.\nLet it be Margit the Fell!\n\nDURING FIGHT:\nDefeating player:\nPut these foolish ambitions to rest.\nAt 60% health:\nWell, thou art of passing skill. Warrior blood must truly run in thy veins, Tarnished.\n\nAFTER FIGHT:\nI shall remember thee, Tarnished.\nSmouldering with thy meagre flame.\nCower in Fear. Of the Night.\nThe hands of the Fell Omen shall brook thee no quarter.\n\nLATER ENCOUNTER:\nI see thee, little Tarnished.\nSmouldering with thy wretched flame of ambition.\n"
+ },
+ {
+   "Name": "Rennala, Queen of the Full Moon",
+   "Link": "https://eldenring.wiki.fextralife.com/Rennala+Queen+of+the+Full+Moon",
+   "Dialogue": "INTRODUCTION:\nHush, little culver.\nI'll soon birth thee anew, a sweeting fresh and pure...\n\nDURING FIGHT:\nCome, sweetings, time to be born, anew. (Spoken when using her Scholar Tomes attack)\nCome, Oath-sworn giant/dragon! (Spoken when summoning a giant or dragon during her second phase)\nDefeating player:\nBe not afeard, little culver. (Phase 1)\n\nSecond phase transition cutscene:\nAhh, my beloved...\nHave no fear, I will hold thee. Patience.\nYe will be countless born, forever and ever.\n(Note: While there is more dialogue in this cutscene, it is spoken by Ranni the Witch.\nUpon my name as Ranni the Witch.\nMother's rich slumber shall not be disturbed by thee.\nFoul trespasser.\nSend word far and wide.\nOf the last Queen of Caria, Rennala of the Full Moon.\nAnd the majesty of the night she conjureth.)\n\nDURING FIGHT (PHASE 2):\nDefeating player:\nThy fate lieth under my moon. (Phase 2)\n\nAFTER FIGHT:\nOh little Ranni, my dear daughter.\nWeave thy night into being.\n"
+ }
 ]
 }

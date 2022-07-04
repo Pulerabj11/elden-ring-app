@@ -1,484 +1,484 @@
 {
-	"keyItems": [
-	{
-		"Name": "Valkyrie's Prosthesis",
-		"Link": "https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis",
-		"Lore": "Golden prosthesis once used by the one-armed valkyrie. \r\n A masterwork of craftsmanship, with practice and skill it can be used as proficiently as a real arm. "
-	},
-	{
-		"Name": "Academy Scroll",
-		"Link": "https://eldenring.wiki.fextralife.com/Academy+Scroll",
-		"Lore": "Scroll of the Academy of Raya Lucaria, the glintstone sorcerers' place of study. "
-	},
-	{
-		"Name": "Ritual Pot",
-		"Link": "https://eldenring.wiki.fextralife.com/Ritual+Pot",
-		"Lore": "This empty pot somehow mends itself when broken. Special item with greater durability than a cracked pot. "
-	},
-	{
-		"Name": "Volcano Manor Invitation",
-		"Link": "https://eldenring.wiki.fextralife.com/Volcano+Manor+Invitation",
-		"Lore": "Letter given by Rya as thanks for retrieving her necklace. \r\n \r\n Contains an invitation to Volcano Manor. \r\n \r\n\"Brave Tarnished,\r\n Seek the Altus Plateau in the realm of the Erdtree. \r\n \r\n Prove yourself by making this journey, and the Volcano Manor will fully extend its invitation. To fight, amongst a family of champions. \""
-	},
-	{
-		"Name": "Godskin Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Godskin+Prayerbook",
-		"Lore": "Prayerbook bound in supple skin. \r\nIncantations of the god-slaying black flame are written within. "
-	},
-	{
-		"Name": "Giant's Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Giant's+Prayerbook",
-		"Lore": "Prayerbook that contains the secrets of the Fire Giants. Kept hidden by the prelates who monitor the Giant's Flame. \r\nCan be given to a learned cleric to gain access to the following incantations:\r\n- Giantsflame Take Thee\r\n- Flame, Fall Upon Them"
-	},
-	{
-		"Name": "Tonic of Forgetfulness",
-		"Link": "https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness",
-		"Lore": "Tonic in a small brass vial. "
-	},
-	{
-		"Name": "Map (Mt. Gelmir)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Mt.+Gelmir)",
-		"Lore": "Map of Mt. Gelmir and environs. \r\n \r\n Mt. Gelmir, which houses the Volcano Manor at its summit, is characterized by sheer cliffs and ominous skies. \r\nThese qualities only became more pronounced after the Shattering. "
-	},
-	{
-		"Name": "Irina's Letter",
-		"Link": "https://eldenring.wiki.fextralife.com/Irina's+Letter",
-		"Lore": "Letter given by Irina, addressed to her father, the commander of Castle Morne. \r\n \r\n Gorgeous silken handkerchief, lightly stained with blood. Words can be made out within. "
-	},
-	{
-		"Name": "Unalloyed Gold Needle",
-		"Link": "https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle",
-		"Lore": "An intricately crafted needle of unalloyed gold. Once snapped in half, it has been repaired by Sage Gowry. "
-	},
-	{
-		"Name": "Dragon Cult Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Dragon+Cult+Prayerbook",
-		"Lore": "Prayerbook of the capital's ancient dragon cult. \r\nA text of the knights' faith that arose after the War of the Ancient Dragons. "
-	},
-	{
-		"Name": "The Stormhawk King",
-		"Link": "https://eldenring.wiki.fextralife.com/The+Stormhawk+King",
-		"Lore": "Ashes of a hawk revered by all others as sovereign back in the days when Stormveil's winds still raged like no other. "
-	},
-	{
-		"Name": "Map (Caelid)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Caelid)",
-		"Lore": "Map of Caelid and environs. "
-	},
-	{
-		"Name": "Map (Liurnia, North)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Liurnia,+North)",
-		"Lore": "Map of Liurnia's northern region. \r\nThe Academy of Raya Lucaria towers over the north, while at its base spreads the town built around it, now flooded. Two highroads end their journeys here. "
-	},
-	{
-		"Name": "Serpent's Amnion",
-		"Link": "https://eldenring.wiki.fextralife.com/Serpent's+Amnion",
-		"Lore": "Amnion from the mother's womb which cradled the poor unwanted offspring of a repellant birthing ritual. "
-	},
-	{
-		"Name": "Rusty Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Rusty+Key",
-		"Lore": "Rusted iron key. "
-	},
-	{
-		"Name": "Map (Liurnia, West)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Liurnia,+West)",
-		"Lore": "Map of Liurnia's western region. "
-	},
-	{
-		"Name": "Amber Draught",
-		"Link": "https://eldenring.wiki.fextralife.com/Amber+Draught",
-		"Lore": "Small flask received from Preceptor Seluvis containing a gleaming amber draught for use in a scheme. "
-	},
-	{
-		"Name": "Whetstone Knife",
-		"Link": "https://eldenring.wiki.fextralife.com/Whetstone+Knife",
-		"Lore": "Whetstone with a cipher inscription, made to look like a small knifeblade. "
-	},
-	{
-		"Name": "Fingerslayer Blade",
-		"Link": "https://eldenring.wiki.fextralife.com/Fingerslayer+Blade",
-		"Lore": "The hidden treasure of the Eternal City of Nokron; a blade said to have been born of a corpse. "
-	},
-	{
-		"Name": "Fingerprint Grape",
-		"Link": "https://eldenring.wiki.fextralife.com/Fingerprint+Grape",
-		"Lore": "Eyeball of the knight Vyke, inflamed yellow. \r\n Seared with a repulsive fingerprint burn akin to those that marred his entire body. "
-	},
-	{
-		"Name": "Miniature Ranni",
-		"Link": "https://eldenring.wiki.fextralife.com/Miniature+Ranni",
-		"Lore": "A doll resembling Ranni the Witch. \r\nFrom head to toe every detail is perfect. "
-	},
-	{
-		"Name": "Map (Consecrated Snowfield)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Consecrated+Snowfield)",
-		"Lore": "Map of Consecrated Snowfield and environs. \r\n\r\nThe route through this land, crossed east to west by a frozen river, leads to Miquella's Haligtree. This is the path taken by those unchosen, though it is a trial all the same. "
-	},
-	{
-		"Name": "Two Fingers Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Two+Fingers+Prayerbook",
-		"Lore": "Prayerbook containing incantations of the Two Fingers. \r\nAn item once entrusted to Tarnished worthy of lordship. "
-	},
-	{
-		"Name": "Seluvis's Potion",
-		"Link": "https://eldenring.wiki.fextralife.com/Seluvis's+Potion",
-		"Lore": "Small flask received from Preceptor Seluvis containing a cloudy tonic of bluish black. "
-	},
-	{
-		"Name": "Map (Limgrave, East)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Limgrave,+East)",
-		"Lore": "Map of the eastern region of Limgrave. \r\nOther than the Mistwood which envelops the south, it is known for its lands which lead to Caelid, a path trod by many a soldier in the past. "
-	},
-	{
-		"Name": "Lost Ashes of War",
-		"Link": "https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War",
-		"Lore": "Empty ashes of war, devoid of any memories of battle. "
-	},
-	{
-		"Name": "Academy Glintstone Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key",
-		"Lore": "Key to the seals binding both gates to the Academy of Raya Lucaria. "
-	},
-	{
-		"Name": "Haligtree Secret Medallion (Left)",
-		"Link": "https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Left)",
-		"Lore": "Left half of a split medallion depicting the Haligtree. "
-	},
-	{
-		"Name": "Amber Starlight",
-		"Link": "https://eldenring.wiki.fextralife.com/Amber+Starlight",
-		"Lore": "An ephemeral sliver that gives off a pale amber glow. \r\nWhat remains of a passing flash of starlight. "
-	},
-	{
-		"Name": "Ancient Dragon Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Prayerbook",
-		"Lore": "Prayerbook of the capital's ancient dragon cult. A lost tome that never reached the Lands Between. \r\nContains red lightning incantations. "
-	},
-	{
-		"Name": "Asimi, Silver Tear",
-		"Link": "https://eldenring.wiki.fextralife.com/Asimi,+Silver+Tear",
-		"Lore": "An asimi that has infected a tarnished. \r\n \r\n An intelligent silver sludge; asimi�infect the body of tarnished,�granting the host power. "
-	},
-	{
-		"Name": "Royal House Scroll",
-		"Link": "https://eldenring.wiki.fextralife.com/Royal+House+Scroll",
-		"Lore": "Sorcery scroll of the Carian royal family, the heads of the\r\n Academy of Raya Lucaria. "
-	},
-	{
-		"Name": "Alexander�s Innards",
-		"Link": "https://eldenring.wiki.fextralife.com/Alexander's+innards",
-		"Lore": "A keepsake of the warrior jar Alexander. Found at the core of the dead flesh that once filled the great jar. "
-	},
-	{
-		"Name": "Crafting Kit",
-		"Link": "https://eldenring.wiki.fextralife.com/Crafting+Kit",
-		"Lore": "Leather bag containing a pestle and mortar, small blade, and various other tools. "
-	},
-	{
-		"Name": "Rya's Necklace",
-		"Link": "https://eldenring.wiki.fextralife.com/Rya's+Necklace",
-		"Lore": "Necklace stolen from Rya by the blackguard. \r\n Features a relief of a dignified looking woman from a foreign country. \r\n \r\n It appears to hold great significance for Rya. "
-	},
-	{
-		"Name": "Map (Limgrave, West)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Limgrave,+West)",
-		"Lore": "Map of the western region of Limgrave. \r\n \r\n The demesne of Limgrave, far south of the Erdtree, is bordered to the northwest by the cliffs of Stormveil, and under its ever-clouded skies roll the great steppes of the pale lands. "
-	},
-	{
-		"Name": "Carian Inverted Statue",
-		"Link": "https://eldenring.wiki.fextralife.com/Carian+Inverted+Statue",
-		"Lore": "Statuette of a scholar, with ground and sky inverted. "
-	},
-	{
-		"Name": "Black Knifeprint",
-		"Link": "https://eldenring.wiki.fextralife.com/Black+Knifeprint",
-		"Lore": "On the Night of the Black Knives, someone stole a fragment of Death from Maliketh, the Black Blade, and imbued its power into the assassins' daggers. "
-	},
-	{
-		"Name": "Map (Mohgwyn Palace)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Mohgwyn+Palace)",
-		"Lore": "Map of Mohgwyn Palace and environs. "
-	},
-	{
-		"Name": "Gold Sewing Needle",
-		"Link": "https://eldenring.wiki.fextralife.com/Gold+Sewing+Needle",
-		"Lore": "Sewing needle made of gold. \r\n Unique item made to alter demigod attire. \r\n \r\n One of the tools brought by Radagon when he entered into marriage with Rennala, Queen of the Full Moon, and joined the Carian line. "
-	},
-	{
-		"Name": "Map (Mountaintops of The Giants, East)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Mountaintops+of+The+Giants,+East)",
-		"Lore": "Map of Eastern Mountaintops of the Giants. \r\nThe remote, desolate eastern summit is the highest point in all the Lands Between, overlooking even the Flame Peak to the south. "
-	},
-	{
-		"Name": "Rold Medallion",
-		"Link": "https://eldenring.wiki.fextralife.com/Rold+Medallion",
-		"Lore": "Conjoined split medallion depicting the Flame Peak. "
-	},
-	{
-		"Name": "Stonesword Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Stonesword+Key",
-		"Lore": "A sword-shaped stone key. "
-	},
-	{
-		"Name": "Fire Monks' Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Fire+Monks'+Prayerbook",
-		"Lore": "Prayerbook of the Fire Monks, who came from the Mountaintops of the Giants far to the north. \r\nCan be given to a learned cleric to gain access to the following incantations:"
-	},
-	{
-		"Name": "Asimi's Husk",
-		"Link": "https://eldenring.wiki.fextralife.com/Asimi's+Husk",
-		"Lore": "The shedding of an Asimi that infected a tarnished. "
-	},
-	{
-		"Name": "Weathered Dagger",
-		"Link": "https://eldenring.wiki.fextralife.com/Weathered+Dagger",
-		"Lore": "Dagger received from Fia, the Deathbed Companion. "
-	},
-	{
-		"Name": "Deathroot",
-		"Link": "https://eldenring.wiki.fextralife.com/Deathroot",
-		"Lore": "A source that gives rise to Those Who Live in Death. "
-	},
-	{
-		"Name": "Imbued Sword Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Imbued+Sword+Key",
-		"Lore": "Stone key shaped like a sword. \r\nA special item, imbued with rich blue magic. "
-	},
-	{
-		"Name": "Dancer's Castanets",
-		"Link": "https://eldenring.wiki.fextralife.com/Dancer's+Castanets",
-		"Lore": "Castanets used by dancers from foreign lands. Received from Patches. "
-	},
-	{
-		"Name": "Discarded Palace Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Discarded+Palace+Key",
-		"Lore": "A key discarded by Lunar Princess Ranni alongside her very flesh. "
-	},
-	{
-		"Name": "Iji's Confession",
-		"Link": "https://eldenring.wiki.fextralife.com/Iji's+Confession",
-		"Lore": "A letter of confession found on Iji's corpse. "
-	},
-	{
-		"Name": "Dragon Heart",
-		"Link": "https://eldenring.wiki.fextralife.com/Dragon+Heart",
-		"Lore": "Dragon heart seized by a dragon tracker. \r\n Riddled with Gravel Stone, this grotesque organ continues to beat vivaciously. "
-	},
-	{
-		"Name": "Golden Order Principia",
-		"Link": "https://eldenring.wiki.fextralife.com/Golden+Order+Principia",
-		"Lore": "Prayerbook of the Golden Order fundamentalists. A dense and complex academic treatise that contains the Order's fundamental principles. "
-	},
-	{
-		"Name": "Lord of Blood's Favor",
-		"Link": "https://eldenring.wiki.fextralife.com/Lord+of+Blood's+Favor",
-		"Lore": "Pure white oath-cloth given by Varr�. The final trial to be anointed a Knight of Mohg, Lord of Blood. \r\n \r\n\"Soak the cloth with a maiden's blood. . . The blood of anyone's maiden will do. You are maidenless, after all. \""
-	},
-	{
-		"Name": "Map (Altus Plateau)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Altus+Plateau)",
-		"Lore": "Map of Altus Plateau and environs. \r\nThe Altus Plateau, where the Erdtree's base can be found, contains the Royal Capital of Leyndell to the east, and Mt. Gelmir to the west. Scars from the Shattering remain apparent to this day. "
-	},
-	{
-		"Name": "Celestial Dew",
-		"Link": "https://eldenring.wiki.fextralife.com/Celestial+Dew",
-		"Lore": "A hidden Tear found in the Eternal City. \r\n Also known as a Night Tear. "
-	},
-	{
-		"Name": "Perfume Bottle",
-		"Link": "https://eldenring.wiki.fextralife.com/Perfume+Bottle",
-		"Lore": "Glass bottles used by perfumers. Used to seal various scent compounds. "
-	},
-	{
-		"Name": "Map \r\n(Dragonbarrow)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Dragonbarrow)",
-		"Lore": "Map of Dragonbarrow and environs. "
-	},
-	{
-		"Name": "Drawing-Room Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Drawing-Room+Key",
-		"Lore": "Key to Volcano Manor's drawing room. "
-	},
-	{
-		"Name": "Beast Eye",
-		"Link": "https://eldenring.wiki.fextralife.com/Beast+Eye",
-		"Lore": "Claw-marked stone eye received from Gurranq, Beast Clergyman. "
-	},
-	{
-		"Name": "Larval Tear",
-		"Link": "https://eldenring.wiki.fextralife.com/Larval+Tear",
-		"Lore": "Core of a creature of mimicry known as a silver tear. \r\nAs much as a substance as it is a living organism. "
-	},
-	{
-		"Name": "Map (Lake of Rot)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Lake+of+Rot)",
-		"Lore": "Map of Lake of Rot and environs. \r\nA great lake of standing water downstream of the Ainsel River. It is said that the divine essence of an outer god is sealed away in this land. "
-	},
-	{
-		"Name": "Haligtree Secret Medallion (Right)",
-		"Link": "https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)",
-		"Lore": "Right�half of a split medallion depicting the Haligtree. "
-	},
-	{
-		"Name": "Dectus Medallion (Right)",
-		"Link": "https://eldenring.wiki.fextralife.com/Dectus+Medallion+(Right)",
-		"Lore": "Right half of a split medallion depicting the Erdtree. "
-	},
-	{
-		"Name": "Spirit Calling Bell",
-		"Link": "https://eldenring.wiki.fextralife.com/Spirit+Calling+Bell",
-		"Lore": "A bell capable of summoning various spirits from ashen remains. It usually requires FP to use. "
-	},
-	{
-		"Name": "Sewer-Gaol Key",
-		"Link": "https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key",
-		"Lore": "Filthy key received from the Dung Eater. "
-	},
-	{
-		"Name": "Seluvis's Introduction",
-		"Link": "https://eldenring.wiki.fextralife.com/Seluvis's+Introduction",
-		"Lore": "Scroll bearing a royal coat of arms. \r\nA letter of introduction written by Preceptor Seluvis. "
-	},
-	{
-		"Name": "Tailoring Tools",
-		"Link": "https://eldenring.wiki.fextralife.com/Tailoring+Tools",
-		"Lore": "A portable set of tailoring tools. "
-	},
-	{
-		"Name": "Talisman Pouch",
-		"Link": "https://eldenring.wiki.fextralife.com/Talisman+Pouch",
-		"Lore": "Small, withered bag, knitted by hand. Bestowed upon the ruling lord, or those attempting to become lord, by the elderly Finger Reader. "
-	},
-	{
-		"Name": "Dark Moon Ring",
-		"Link": "https://eldenring.wiki.fextralife.com/Dark+Moon+Ring",
-		"Lore": "Ring depicting a leaden full moon. Symbolic of a cold oath, the ring is supposed to be given by Lunar Princess Ranni to her consort. "
-	},
-	{
-		"Name": "Cracked Pot",
-		"Link": "https://eldenring.wiki.fextralife.com/Cracked+Pot",
-		"Lore": "This empty pot somehow mends itself when broken. "
-	},
-	{
-		"Name": "Chrysalids' Memento",
-		"Link": "https://eldenring.wiki.fextralife.com/Chrysalids'+Memento",
-		"Lore": "Memento left by the chrysalids sacrificed for grafting. A brooch wrapped in red velvet. Traces of blood are visible. "
-	},
-	{
-		"Name": "Memory Stone",
-		"Link": "https://eldenring.wiki.fextralife.com/Memory+Stone",
-		"Lore": "A black, lightly beguiling stone. \r\n Prized by the sorcerers who produce them. "
-	},
-	{
-		"Name": "Map (Deeproot Depths)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Deeproot+Depths)",
-		"Lore": "Map of Deeproot Depths and environs. \r\n \r\nAt the very depths of the Erdtree's majestic roots lies the source of the Ainsel and the Siofra rivers. Here too begins the network of Greattree roots that spread throughout the Lands Between. "
-	},
-	{
-		"Name": "Mirage Riddle",
-		"Link": "https://eldenring.wiki.fextralife.com/Mirage+Riddle",
-		"Lore": "Simple map taken from an imp statue. \r\n \r\n A riddle concerning a rise that vanishes like a mirage. "
-	},
-	{
-		"Name": "Sellian Sealbreaker",
-		"Link": "https://eldenring.wiki.fextralife.com/Sellian+Sealbreaker",
-		"Lore": "Glintstone key received from the sorceress Sellen. "
-	},
-	{
-		"Name": "Shabriri Grape",
-		"Link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
-		"Lore": "A yellowing, oozing eyeball of the infirm. The surface is shriveled, and the inside is squishy, not unlike a large, overly-ripe grape. "
-	},
-	{
-		"Name": "Map (Mountaintops of The Giants, West)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Mountaintops+of+The+Giants,+West)",
-		"Lore": "Map of Western Mountaintops of the Giants. \r\nMarching ground during the War against the Giants. They carved winding paths in the cliff walls right up to the summit, leading to the untrodden snow-laden region beyond. "
-	},
-	{
-		"Name": "Map (Ainsel River)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Ainsel+River)",
-		"Lore": "Map of Ainsel River and environs"
-	},
-	{
-		"Name": "Meeting Place Map",
-		"Link": "https://eldenring.wiki.fextralife.com/Meeting+Place+Map",
-		"Lore": "Simple map found on a corpse. \r\nSeems to point to a meeting place. \r\nThe man it came from surely desired one. The sole means of gaining entry into the academy: a glintstone key. "
-	},
-	{
-		"Name": "Map (Leyndell, Royal Capital)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Leyndell,+Royal+Capital)",
-		"Lore": "Map of the Royal Capital of Leyndell and environs. "
-	},
-	{
-		"Name": "Letter to Bernahl",
-		"Link": "https://eldenring.wiki.fextralife.com/Letter+to+Bernahl",
-		"Lore": "A written request from Volcano Manor addressed to Bernahl disclosing the names of two Tarnished to be hunted. \r\n\"Vargram the Raging Wolf\"\r\n\"Errant Sorcerer Wilhelm\"\r\nBoth men can be found in the Royal Capital of Leyndell. Find the red mark on your map for the exact location. "
-	},
-	{
-		"Name": "Burial Crow's Letter",
-		"Link": "https://eldenring.wiki.fextralife.com/Burial+Crow's+Letter",
-		"Lore": "A letter affixed to a graveyard crow's leg. Sought after by Kal�. "
-	},
-	{
-		"Name": "Cursemark of Death",
-		"Link": "https://eldenring.wiki.fextralife.com/Cursemark+of+Death",
-		"Lore": "Cursemark carved into the discarded flesh of Ranni the Witch. Also known as the half-wheel wound of the centipede. "
-	},
-	{
-		"Name": "Golden Tailoring Tools",
-		"Link": "https://eldenring.wiki.fextralife.com/Golden+Tailoring+Tools",
-		"Lore": "Tailoring tools made from gold. \r\n Tools brought with the red-haired Radagon when he married into the Carian line. "
-	},
-	{
-		"Name": "Map (Siofra River)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Siofra+River)",
-		"Lore": "Map of Siofra River and environs"
-	},
-	{
-		"Name": "Seedbed Curse",
-		"Link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
-		"Lore": "Curse grown on a corpse killed and defiled by the Dung Eater. A tender pox afflicted with omen horns. "
-	},
-	{
-		"Name": "Dectus Medallion (Left)",
-		"Link": "https://eldenring.wiki.fextralife.com/Dectus+Medallion+(Left)",
-		"Lore": "Left half of a split medallion depicting the Erdtree. "
-	},
-	{
-		"Name": "Map (Weeping Peninsula)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Weeping+Peninsula)",
-		"Lore": "Map of the Weeping Peninsula. \r\nThe peninsula, to Limgrave's south, is named for its unceasing rainfall, redolent of lament. "
-	},
-	{
-		"Name": "Map (Liurnia, East)",
-		"Link": "https://eldenring.wiki.fextralife.com/Map+(Liurnia,+East)",
-		"Lore": "Map of Liurnia's eastern region. \r\nThe majority of Liurnia, known for its vast forests and ever-present fog, is sinking into a lake. The eastern coast is home to a highroad running north and south. "
-	},
-	{
-		"Name": "Sewing Needle",
-		"Link": "https://eldenring.wiki.fextralife.com/Sewing+Needle",
-		"Lore": "A large sewing needle, curved like a fang. \r\nBoc the demi-human's prized possession. "
-	},
-	{
-		"Name": "Lucent Baldachin's Blessing",
-		"Link": "https://eldenring.wiki.fextralife.com/Lucent+Baldachin's+Blessing",
-		"Lore": "Sacred seal of a hidden shrine that looks much�like a bedchamber. A faint light leaks through�a crack in its fastened doors, as if the Firefly is�beckoning to come inside. \r\n \r\n Raise in prayer to gain protection. \r\n \r\n Gaining protection consumes this item,�but can grant unique effects. \r\n Take care though, these effects cannot be undone. "
-	},
-	{
-		"Name": "Sellen's Primal Glintstone",
-		"Link": "https://eldenring.wiki.fextralife.com/Sellen's+Primal+Glintstone",
-		"Lore": "Glintstone from within the sorceress Sellen's body. \r\nSeemingly half-alive, blood vessels are visible within. \r\n\r\nIn essence, a primal glintstone is a sorcerer's soul. \r\nIf transplanted into a compatible new body after their original body dies, the sorcerer will rise again. \r\n\r\n\"My apprentice, do you think it distasteful?\""
-	},
-	{
-		"Name": "Assassin's Prayerbook",
-		"Link": "https://eldenring.wiki.fextralife.com/Assassin's+Prayerbook",
-		"Lore": "Prayerbook of the Roundtable Hold's assassins. \r\nCan be given to a learned cleric to gain access to the following incantations:"
-	},
-	{
-		"Name": "Conspectus Scroll",
-		"Link": "https://eldenring.wiki.fextralife.com/Conspectus+Scroll",
-		"Lore": "A sorcery scroll from the Academy of Raya Lucaria. \r\n Details superior sorceries taught to scholars worthy of donning the stone crown and studying a certain conspectus. \r\n \r\n Can be given to a learned sorcerer to gain access to the following sorceries:\r\n \r\n - Glintstone Cometshard\r\n - Star Shower"
-	}
+  "Key Items": [
+ {
+   "Name": "Valkyrie's Prosthesis",
+   "Link": "https://eldenring.wiki.fextralife.com/Valkyrie's+Prosthesis",
+   "Lore": "Golden prosthesis once used by the one-armed valkyrie. \n A masterwork of craftsmanship, with practice and skill it can be used as proficiently as a real arm. "
+ },
+ {
+   "Name": "Academy Scroll",
+   "Link": "https://eldenring.wiki.fextralife.com/Academy+Scroll",
+   "Lore": "Scroll of the Academy of Raya Lucaria, the glintstone sorcerers' place of study. "
+ },
+ {
+   "Name": "Ritual Pot",
+   "Link": "https://eldenring.wiki.fextralife.com/Ritual+Pot",
+   "Lore": "This empty pot somehow mends itself when broken. Special item with greater durability than a cracked pot. "
+ },
+ {
+   "Name": "Volcano Manor Invitation",
+   "Link": "https://eldenring.wiki.fextralife.com/Volcano+Manor+Invitation",
+   "Lore": "Letter given by Rya as thanks for retrieving her necklace. \n \n Contains an invitation to Volcano Manor. \n \n\"Brave Tarnished,\n Seek the Altus Plateau in the realm of the Erdtree. \n \n Prove yourself by making this journey, and the Volcano Manor will fully extend its invitation. To fight, amongst a family of champions. \""
+ },
+ {
+   "Name": "Godskin Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Godskin+Prayerbook",
+   "Lore": "Prayerbook bound in supple skin. \nIncantations of the god-slaying black flame are written within. "
+ },
+ {
+   "Name": "Giant's Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Giant's+Prayerbook",
+   "Lore": "Prayerbook that contains the secrets of the Fire Giants. Kept hidden by the prelates who monitor the Giant's Flame. \nCan be given to a learned cleric to gain access to the following incantations:\n- Giantsflame Take Thee\n- Flame, Fall Upon Them"
+ },
+ {
+   "Name": "Tonic of Forgetfulness",
+   "Link": "https://eldenring.wiki.fextralife.com/Tonic+of+Forgetfulness",
+   "Lore": "Tonic in a small brass vial. "
+ },
+ {
+   "Name": "Map (Mt. Gelmir)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Mt.+Gelmir)",
+   "Lore": "Map of Mt. Gelmir and environs. \n \n Mt. Gelmir, which houses the Volcano Manor at its summit, is characterized by sheer cliffs and ominous skies. \nThese qualities only became more pronounced after the Shattering. "
+ },
+ {
+   "Name": "Irina's Letter",
+   "Link": "https://eldenring.wiki.fextralife.com/Irina's+Letter",
+   "Lore": "Letter given by Irina, addressed to her father, the commander of Castle Morne. \n \n Gorgeous silken handkerchief, lightly stained with blood. Words can be made out within. "
+ },
+ {
+   "Name": "Unalloyed Gold Needle",
+   "Link": "https://eldenring.wiki.fextralife.com/Unalloyed+Gold+Needle",
+   "Lore": "An intricately crafted needle of unalloyed gold. Once snapped in half, it has been repaired by Sage Gowry. "
+ },
+ {
+   "Name": "Dragon Cult Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragon+Cult+Prayerbook",
+   "Lore": "Prayerbook of the capital's ancient dragon cult. \nA text of the knights' faith that arose after the War of the Ancient Dragons. "
+ },
+ {
+   "Name": "The Stormhawk King",
+   "Link": "https://eldenring.wiki.fextralife.com/The+Stormhawk+King",
+   "Lore": "Ashes of a hawk revered by all others as sovereign back in the days when Stormveil's winds still raged like no other. "
+ },
+ {
+   "Name": "Map (Caelid)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Caelid)",
+   "Lore": "Map of Caelid and environs. "
+ },
+ {
+   "Name": "Map (Liurnia, North)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Liurnia,+North)",
+   "Lore": "Map of Liurnia's northern region. \nThe Academy of Raya Lucaria towers over the north, while at its base spreads the town built around it, now flooded. Two highroads end their journeys here. "
+ },
+ {
+   "Name": "Serpent's Amnion",
+   "Link": "https://eldenring.wiki.fextralife.com/Serpent's+Amnion",
+   "Lore": "Amnion from the mother's womb which cradled the poor unwanted offspring of a repellant birthing ritual. "
+ },
+ {
+   "Name": "Rusty Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Rusty+Key",
+   "Lore": "Rusted iron key. "
+ },
+ {
+   "Name": "Map (Liurnia, West)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Liurnia,+West)",
+   "Lore": "Map of Liurnia's western region. "
+ },
+ {
+   "Name": "Amber Draught",
+   "Link": "https://eldenring.wiki.fextralife.com/Amber+Draught",
+   "Lore": "Small flask received from Preceptor Seluvis containing a gleaming amber draught for use in a scheme. "
+ },
+ {
+   "Name": "Whetstone Knife",
+   "Link": "https://eldenring.wiki.fextralife.com/Whetstone+Knife",
+   "Lore": "Whetstone with a cipher inscription, made to look like a small knifeblade. "
+ },
+ {
+   "Name": "Fingerslayer Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Fingerslayer+Blade",
+   "Lore": "The hidden treasure of the Eternal City of Nokron; a blade said to have been born of a corpse. "
+ },
+ {
+   "Name": "Fingerprint Grape",
+   "Link": "https://eldenring.wiki.fextralife.com/Fingerprint+Grape",
+   "Lore": "Eyeball of the knight Vyke, inflamed yellow. \n Seared with a repulsive fingerprint burn akin to those that marred his entire body. "
+ },
+ {
+   "Name": "Miniature Ranni",
+   "Link": "https://eldenring.wiki.fextralife.com/Miniature+Ranni",
+   "Lore": "A doll resembling Ranni the Witch. \nFrom head to toe every detail is perfect. "
+ },
+ {
+   "Name": "Map (Consecrated Snowfield)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Consecrated+Snowfield)",
+   "Lore": "Map of Consecrated Snowfield and environs. \n\nThe route through this land, crossed east to west by a frozen river, leads to Miquella's Haligtree. This is the path taken by those unchosen, though it is a trial all the same. "
+ },
+ {
+   "Name": "Two Fingers Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Two+Fingers+Prayerbook",
+   "Lore": "Prayerbook containing incantations of the Two Fingers. \nAn item once entrusted to Tarnished worthy of lordship. "
+ },
+ {
+   "Name": "Seluvis's Potion",
+   "Link": "https://eldenring.wiki.fextralife.com/Seluvis's+Potion",
+   "Lore": "Small flask received from Preceptor Seluvis containing a cloudy tonic of bluish black. "
+ },
+ {
+   "Name": "Map (Limgrave, East)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Limgrave,+East)",
+   "Lore": "Map of the eastern region of Limgrave. \nOther than the Mistwood which envelops the south, it is known for its lands which lead to Caelid, a path trod by many a soldier in the past. "
+ },
+ {
+   "Name": "Lost Ashes of War",
+   "Link": "https://eldenring.wiki.fextralife.com/Lost+Ashes+of+War",
+   "Lore": "Empty ashes of war, devoid of any memories of battle. "
+ },
+ {
+   "Name": "Academy Glintstone Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Academy+Glintstone+Key",
+   "Lore": "Key to the seals binding both gates to the Academy of Raya Lucaria. "
+ },
+ {
+   "Name": "Haligtree Secret Medallion (Left)",
+   "Link": "https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Left)",
+   "Lore": "Left half of a split medallion depicting the Haligtree. "
+ },
+ {
+   "Name": "Amber Starlight",
+   "Link": "https://eldenring.wiki.fextralife.com/Amber+Starlight",
+   "Lore": "An ephemeral sliver that gives off a pale amber glow. \nWhat remains of a passing flash of starlight. "
+ },
+ {
+   "Name": "Ancient Dragon Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Prayerbook",
+   "Lore": "Prayerbook of the capital's ancient dragon cult. A lost tome that never reached the Lands Between. \nContains red lightning incantations. "
+ },
+ {
+   "Name": "Asimi, Silver Tear",
+   "Link": "https://eldenring.wiki.fextralife.com/Asimi,+Silver+Tear",
+   "Lore": "An asimi that has infected a tarnished. \n \n An intelligent silver sludge; asimi infect the body of tarnished, granting the host power. "
+ },
+ {
+   "Name": "Royal House Scroll",
+   "Link": "https://eldenring.wiki.fextralife.com/Royal+House+Scroll",
+   "Lore": "Sorcery scroll of the Carian royal family, the heads of the\n Academy of Raya Lucaria. "
+ },
+ {
+   "Name": "Alexander’s Innards",
+   "Link": "https://eldenring.wiki.fextralife.com/Alexander's+innards",
+   "Lore": "A keepsake of the warrior jar Alexander. Found at the core of the dead flesh that once filled the great jar. "
+ },
+ {
+   "Name": "Crafting Kit",
+   "Link": "https://eldenring.wiki.fextralife.com/Crafting+Kit",
+   "Lore": "Leather bag containing a pestle and mortar, small blade, and various other tools. "
+ },
+ {
+   "Name": "Rya's Necklace",
+   "Link": "https://eldenring.wiki.fextralife.com/Rya's+Necklace",
+   "Lore": "Necklace stolen from Rya by the blackguard. \n Features a relief of a dignified looking woman from a foreign country. \n \n It appears to hold great significance for Rya. "
+ },
+ {
+   "Name": "Map (Limgrave, West)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Limgrave,+West)",
+   "Lore": "Map of the western region of Limgrave. \n \n The demesne of Limgrave, far south of the Erdtree, is bordered to the northwest by the cliffs of Stormveil, and under its ever-clouded skies roll the great steppes of the pale lands. "
+ },
+ {
+   "Name": "Carian Inverted Statue",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Inverted+Statue",
+   "Lore": "Statuette of a scholar, with ground and sky inverted. "
+ },
+ {
+   "Name": "Black Knifeprint",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Knifeprint",
+   "Lore": "On the Night of the Black Knives, someone stole a fragment of Death from Maliketh, the Black Blade, and imbued its power into the assassins' daggers. "
+ },
+ {
+   "Name": "Map (Mohgwyn Palace)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Mohgwyn+Palace)",
+   "Lore": "Map of Mohgwyn Palace and environs. "
+ },
+ {
+   "Name": "Gold Sewing Needle",
+   "Link": "https://eldenring.wiki.fextralife.com/Gold+Sewing+Needle",
+   "Lore": "Sewing needle made of gold. \n Unique item made to alter demigod attire. \n \n One of the tools brought by Radagon when he entered into marriage with Rennala, Queen of the Full Moon, and joined the Carian line. "
+ },
+ {
+   "Name": "Map (Mountaintops of The Giants, East)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Mountaintops+of+The+Giants,+East)",
+   "Lore": "Map of Eastern Mountaintops of the Giants. \nThe remote, desolate eastern summit is the highest point in all the Lands Between, overlooking even the Flame Peak to the south. "
+ },
+ {
+   "Name": "Rold Medallion",
+   "Link": "https://eldenring.wiki.fextralife.com/Rold+Medallion",
+   "Lore": "Conjoined split medallion depicting the Flame Peak. "
+ },
+ {
+   "Name": "Stonesword Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Stonesword+Key",
+   "Lore": "A sword-shaped stone key. "
+ },
+ {
+   "Name": "Fire Monks' Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Fire+Monks'+Prayerbook",
+   "Lore": "Prayerbook of the Fire Monks, who came from the Mountaintops of the Giants far to the north. \nCan be given to a learned cleric to gain access to the following incantations:"
+ },
+ {
+   "Name": "Asimi's Husk",
+   "Link": "https://eldenring.wiki.fextralife.com/Asimi's+Husk",
+   "Lore": "The shedding of an Asimi that infected a tarnished. "
+ },
+ {
+   "Name": "Weathered Dagger",
+   "Link": "https://eldenring.wiki.fextralife.com/Weathered+Dagger",
+   "Lore": "Dagger received from Fia, the Deathbed Companion. "
+ },
+ {
+   "Name": "Deathroot",
+   "Link": "https://eldenring.wiki.fextralife.com/Deathroot",
+   "Lore": "A source that gives rise to Those Who Live in Death. "
+ },
+ {
+   "Name": "Imbued Sword Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Imbued+Sword+Key",
+   "Lore": "Stone key shaped like a sword. \nA special item, imbued with rich blue magic. "
+ },
+ {
+   "Name": "Dancer's Castanets",
+   "Link": "https://eldenring.wiki.fextralife.com/Dancer's+Castanets",
+   "Lore": "Castanets used by dancers from foreign lands. Received from Patches. "
+ },
+ {
+   "Name": "Discarded Palace Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Discarded+Palace+Key",
+   "Lore": "A key discarded by Lunar Princess Ranni alongside her very flesh. "
+ },
+ {
+   "Name": "Iji's Confession",
+   "Link": "https://eldenring.wiki.fextralife.com/Iji's+Confession",
+   "Lore": "A letter of confession found on Iji's corpse. "
+ },
+ {
+   "Name": "Dragon Heart",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragon+Heart",
+   "Lore": "Dragon heart seized by a dragon tracker. \n Riddled with Gravel Stone, this grotesque organ continues to beat vivaciously. "
+ },
+ {
+   "Name": "Golden Order Principia",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Order+Principia",
+   "Lore": "Prayerbook of the Golden Order fundamentalists. A dense and complex academic treatise that contains the Order's fundamental principles. "
+ },
+ {
+   "Name": "Lord of Blood's Favor",
+   "Link": "https://eldenring.wiki.fextralife.com/Lord+of+Blood's+Favor",
+   "Lore": "Pure white oath-cloth given by Varré. The final trial to be anointed a Knight of Mohg, Lord of Blood. \n \n\"Soak the cloth with a maiden's blood. . . The blood of anyone's maiden will do. You are maidenless, after all. \""
+ },
+ {
+   "Name": "Map (Altus Plateau)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Altus+Plateau)",
+   "Lore": "Map of Altus Plateau and environs. \nThe Altus Plateau, where the Erdtree's base can be found, contains the Royal Capital of Leyndell to the east, and Mt. Gelmir to the west. Scars from the Shattering remain apparent to this day. "
+ },
+ {
+   "Name": "Celestial Dew",
+   "Link": "https://eldenring.wiki.fextralife.com/Celestial+Dew",
+   "Lore": "A hidden Tear found in the Eternal City. \n Also known as a Night Tear. "
+ },
+ {
+   "Name": "Perfume Bottle",
+   "Link": "https://eldenring.wiki.fextralife.com/Perfume+Bottle",
+   "Lore": "Glass bottles used by perfumers. Used to seal various scent compounds. "
+ },
+ {
+   "Name": "Map \n(Dragonbarrow)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Dragonbarrow)",
+   "Lore": "Map of Dragonbarrow and environs. "
+ },
+ {
+   "Name": "Drawing-Room Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Drawing-Room+Key",
+   "Lore": "Key to Volcano Manor's drawing room. "
+ },
+ {
+   "Name": "Beast Eye",
+   "Link": "https://eldenring.wiki.fextralife.com/Beast+Eye",
+   "Lore": "Claw-marked stone eye received from Gurranq, Beast Clergyman. "
+ },
+ {
+   "Name": "Larval Tear",
+   "Link": "https://eldenring.wiki.fextralife.com/Larval+Tear",
+   "Lore": "Core of a creature of mimicry known as a silver tear. \nAs much as a substance as it is a living organism. "
+ },
+ {
+   "Name": "Map (Lake of Rot)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Lake+of+Rot)",
+   "Lore": "Map of Lake of Rot and environs. \nA great lake of standing water downstream of the Ainsel River. It is said that the divine essence of an outer god is sealed away in this land. "
+ },
+ {
+   "Name": "Haligtree Secret Medallion (Right)",
+   "Link": "https://eldenring.wiki.fextralife.com/Haligtree+Secret+Medallion+(Right)",
+   "Lore": "Right half of a split medallion depicting the Haligtree. "
+ },
+ {
+   "Name": "Dectus Medallion (Right)",
+   "Link": "https://eldenring.wiki.fextralife.com/Dectus+Medallion+(Right)",
+   "Lore": "Right half of a split medallion depicting the Erdtree. "
+ },
+ {
+   "Name": "Spirit Calling Bell",
+   "Link": "https://eldenring.wiki.fextralife.com/Spirit+Calling+Bell",
+   "Lore": "A bell capable of summoning various spirits from ashen remains. It usually requires FP to use. "
+ },
+ {
+   "Name": "Sewer-Gaol Key",
+   "Link": "https://eldenring.wiki.fextralife.com/Sewer-Gaol+Key",
+   "Lore": "Filthy key received from the Dung Eater. "
+ },
+ {
+   "Name": "Seluvis's Introduction",
+   "Link": "https://eldenring.wiki.fextralife.com/Seluvis's+Introduction",
+   "Lore": "Scroll bearing a royal coat of arms. \nA letter of introduction written by Preceptor Seluvis. "
+ },
+ {
+   "Name": "Tailoring Tools",
+   "Link": "https://eldenring.wiki.fextralife.com/Tailoring+Tools",
+   "Lore": "A portable set of tailoring tools. "
+ },
+ {
+   "Name": "Talisman Pouch",
+   "Link": "https://eldenring.wiki.fextralife.com/Talisman+Pouch",
+   "Lore": "Small, withered bag, knitted by hand. Bestowed upon the ruling lord, or those attempting to become lord, by the elderly Finger Reader. "
+ },
+ {
+   "Name": "Dark Moon Ring",
+   "Link": "https://eldenring.wiki.fextralife.com/Dark+Moon+Ring",
+   "Lore": "Ring depicting a leaden full moon. Symbolic of a cold oath, the ring is supposed to be given by Lunar Princess Ranni to her consort. "
+ },
+ {
+   "Name": "Cracked Pot",
+   "Link": "https://eldenring.wiki.fextralife.com/Cracked+Pot",
+   "Lore": "This empty pot somehow mends itself when broken. "
+ },
+ {
+   "Name": "Chrysalids' Memento",
+   "Link": "https://eldenring.wiki.fextralife.com/Chrysalids'+Memento",
+   "Lore": "Memento left by the chrysalids sacrificed for grafting. A brooch wrapped in red velvet. Traces of blood are visible. "
+ },
+ {
+   "Name": "Memory Stone",
+   "Link": "https://eldenring.wiki.fextralife.com/Memory+Stone",
+   "Lore": "A black, lightly beguiling stone. \n Prized by the sorcerers who produce them. "
+ },
+ {
+   "Name": "Map (Deeproot Depths)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Deeproot+Depths)",
+   "Lore": "Map of Deeproot Depths and environs. \n \nAt the very depths of the Erdtree's majestic roots lies the source of the Ainsel and the Siofra rivers. Here too begins the network of Greattree roots that spread throughout the Lands Between. "
+ },
+ {
+   "Name": "Mirage Riddle",
+   "Link": "https://eldenring.wiki.fextralife.com/Mirage+Riddle",
+   "Lore": "Simple map taken from an imp statue. \n \n A riddle concerning a rise that vanishes like a mirage. "
+ },
+ {
+   "Name": "Sellian Sealbreaker",
+   "Link": "https://eldenring.wiki.fextralife.com/Sellian+Sealbreaker",
+   "Lore": "Glintstone key received from the sorceress Sellen. "
+ },
+ {
+   "Name": "Shabriri Grape",
+   "Link": "https://eldenring.wiki.fextralife.com/Shabriri+Grape",
+   "Lore": "A yellowing, oozing eyeball of the infirm. The surface is shriveled, and the inside is squishy, not unlike a large, overly-ripe grape. "
+ },
+ {
+   "Name": "Map (Mountaintops of The Giants, West)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Mountaintops+of+The+Giants,+West)",
+   "Lore": "Map of Western Mountaintops of the Giants. \nMarching ground during the War against the Giants. They carved winding paths in the cliff walls right up to the summit, leading to the untrodden snow-laden region beyond. "
+ },
+ {
+   "Name": "Map (Ainsel River)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Ainsel+River)",
+   "Lore": "Map of Ainsel River and environs"
+ },
+ {
+   "Name": "Meeting Place Map",
+   "Link": "https://eldenring.wiki.fextralife.com/Meeting+Place+Map",
+   "Lore": "Simple map found on a corpse. \nSeems to point to a meeting place. \nThe man it came from surely desired one. The sole means of gaining entry into the academy: a glintstone key. "
+ },
+ {
+   "Name": "Map (Leyndell, Royal Capital)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Leyndell,+Royal+Capital)",
+   "Lore": "Map of the Royal Capital of Leyndell and environs. "
+ },
+ {
+   "Name": "Letter to Bernahl",
+   "Link": "https://eldenring.wiki.fextralife.com/Letter+to+Bernahl",
+   "Lore": "A written request from Volcano Manor addressed to Bernahl disclosing the names of two Tarnished to be hunted. \n\"Vargram the Raging Wolf\"\n\"Errant Sorcerer Wilhelm\"\nBoth men can be found in the Royal Capital of Leyndell. Find the red mark on your map for the exact location. "
+ },
+ {
+   "Name": "Burial Crow's Letter",
+   "Link": "https://eldenring.wiki.fextralife.com/Burial+Crow's+Letter",
+   "Lore": "A letter affixed to a graveyard crow's leg. Sought after by Kalé. "
+ },
+ {
+   "Name": "Cursemark of Death",
+   "Link": "https://eldenring.wiki.fextralife.com/Cursemark+of+Death",
+   "Lore": "Cursemark carved into the discarded flesh of Ranni the Witch. Also known as the half-wheel wound of the centipede. "
+ },
+ {
+   "Name": "Golden Tailoring Tools",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Tailoring+Tools",
+   "Lore": "Tailoring tools made from gold. \n Tools brought with the red-haired Radagon when he married into the Carian line. "
+ },
+ {
+   "Name": "Map (Siofra River)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Siofra+River)",
+   "Lore": "Map of Siofra River and environs"
+ },
+ {
+   "Name": "Seedbed Curse",
+   "Link": "https://eldenring.wiki.fextralife.com/Seedbed+Curse",
+   "Lore": "Curse grown on a corpse killed and defiled by the Dung Eater. A tender pox afflicted with omen horns. "
+ },
+ {
+   "Name": "Dectus Medallion (Left)",
+   "Link": "https://eldenring.wiki.fextralife.com/Dectus+Medallion+(Left)",
+   "Lore": "Left half of a split medallion depicting the Erdtree. "
+ },
+ {
+   "Name": "Map (Weeping Peninsula)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Weeping+Peninsula)",
+   "Lore": "Map of the Weeping Peninsula. \nThe peninsula, to Limgrave's south, is named for its unceasing rainfall, redolent of lament. "
+ },
+ {
+   "Name": "Map (Liurnia, East)",
+   "Link": "https://eldenring.wiki.fextralife.com/Map+(Liurnia,+East)",
+   "Lore": "Map of Liurnia's eastern region. \nThe majority of Liurnia, known for its vast forests and ever-present fog, is sinking into a lake. The eastern coast is home to a highroad running north and south. "
+ },
+ {
+   "Name": "Sewing Needle",
+   "Link": "https://eldenring.wiki.fextralife.com/Sewing+Needle",
+   "Lore": "A large sewing needle, curved like a fang. \nBoc the demi-human's prized possession. "
+ },
+ {
+   "Name": "Lucent Baldachin's Blessing",
+   "Link": "https://eldenring.wiki.fextralife.com/Lucent+Baldachin's+Blessing",
+   "Lore": "Sacred seal of a hidden shrine that looks much like a bedchamber. A faint light leaks through a crack in its fastened doors, as if the Firefly is beckoning to come inside. \n \n Raise in prayer to gain protection. \n \n Gaining protection consumes this item, but can grant unique effects. \n Take care though, these effects cannot be undone. "
+ },
+ {
+   "Name": "Sellen's Primal Glintstone",
+   "Link": "https://eldenring.wiki.fextralife.com/Sellen's+Primal+Glintstone",
+   "Lore": "Glintstone from within the sorceress Sellen's body. \nSeemingly half-alive, blood vessels are visible within. \n\nIn essence, a primal glintstone is a sorcerer's soul. \nIf transplanted into a compatible new body after their original body dies, the sorcerer will rise again. \n\n\"My apprentice, do you think it distasteful?\""
+ },
+ {
+   "Name": "Assassin's Prayerbook",
+   "Link": "https://eldenring.wiki.fextralife.com/Assassin's+Prayerbook",
+   "Lore": "Prayerbook of the Roundtable Hold's assassins. \nCan be given to a learned cleric to gain access to the following incantations:"
+ },
+ {
+   "Name": "Conspectus Scroll",
+   "Link": "https://eldenring.wiki.fextralife.com/Conspectus+Scroll",
+   "Lore": "A sorcery scroll from the Academy of Raya Lucaria. \n Details superior sorceries taught to scholars worthy of donning the stone crown and studying a certain conspectus. \n \n Can be given to a learned sorcerer to gain access to the following sorceries:\n \n - Glintstone Cometshard\n - Star Shower"
+ }
 ]
 }

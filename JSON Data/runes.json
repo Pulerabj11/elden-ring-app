@@ -1,44 +1,44 @@
 {
-	"runes": [
-	{
-		"Name": "Godrick's Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Godrick's+Great+Rune",
-		"Lore": "A Great Rune of the shardbearer Godrick. \r\nIts blessing raises all attributes \r\n This Great Rune is known as the anchor ring, found in the center of the Elden Ring. \r\n The first demigods were The Elden Lord Godfrey and his offspring, the golden lineage. "
-	},
-	{
-		"Name": "Rykard's Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Rykard's+Great+Rune",
-		"Lore": "A Great Rune of the shardbearer Rykard. \r\nIts blessing restores HP�on attacking enemies. \r\n \r\n Rykard was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika. \r\n \r\n But Rykard fed himself to the blasphemous serpent, Great Rune and all. "
-	},
-	{
-		"Name": "Radahn's Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Radahn's+Great+Rune",
-		"Lore": "A Great Rune of the shardbearer Radahn. \r\nIts blessing raises maximum HP, FP and Stamina. \r\n \r\n Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika. \r\n The Great Rune burns, to resist the encroachment of the scarlet rot. "
-	},
-	{
-		"Name": "Great Rune of the Unborn",
-		"Link": "https://eldenring.wiki.fextralife.com/Great+Rune+of+the+Unborn",
-		"Lore": "Amber egg clutched by Rennala, Queen of the Full Moon. \r\nGreat Rune of unborn demigods. \r\n Perfects those who have been born anew. \r\n Children born anew by Rennala are all frail and short-lived. \r\nImperfect beings, each and all"
-	},
-	{
-		"Name": "Phantom Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Phantom+Great+Rune",
-		"Lore": "Item for online play. \r\n Obtained after using the Mohg's Great Rune and invading another world. \r\n Consumed upon use. \r\n Enemies inside the invaded world receive a blessing of blood, which boosts their attack power when blood loss occurs nearby. Also, your HP recovers when blessed enemies defeat a player. "
-	},
-	{
-		"Name": "Morgott's Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Morgott's+Great+Rune",
-		"Lore": "A Great Rune of the shardbearer Morgott. \r\nIts blessing greatly raises maximum HP. \r\n \r\n This Great Rune is the anchor ring that houses the base, and proves two things:\r\n \r\n That the Omen King was born of the golden lineage, and that he was indeed the Lord of Leyndell. "
-	},
-	{
-		"Name": "Mohg's Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Mohg's+Great+Rune",
-		"Lore": "A Great Rune of the shardbearer Mohg. \r\nIts blessing grants a blessing of blood to summoned phantoms, and imparts a Phantom Great Rune upon successful invasion. \r\n Mohg and Morgott are twin brothers, and their Great Runes are naturally similar. \r\n But Mohg's rune is soaked in accursed blood, from his devout love for the wretched mire that he was born into far below the earth. "
-	},
-	{
-		"Name": "Malenia's Great Rune",
-		"Link": "https://eldenring.wiki.fextralife.com/Malenia's+Great+Rune",
-		"Lore": "A Great Rune of the shardbearer Malenia. \r\nThe blessing of this half-rotted rune reduces the healing power of Flask of Crimson Tears. \r\n And yet, due to the infusion of Malenia's spirit of resistance. attacks made immediately after receiving damage will partially recover HP. \r\n Malenia is daughter to Queen Marika and Radagon, and her Great Rune should have been the most sacred of all. "
-	}
+  "Runes": [
+ {
+   "Name": "Godrick's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Godrick's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Godrick. \nIts blessing raises all attributes \n This Great Rune is known as the anchor ring, found in the center of the Elden Ring. \n The first demigods were The Elden Lord Godfrey and his offspring, the golden lineage. "
+ },
+ {
+   "Name": "Rykard's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Rykard's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Rykard. \nIts blessing restores HP on attacking enemies. \n \n Rykard was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika. \n \n But Rykard fed himself to the blasphemous serpent, Great Rune and all. "
+ },
+ {
+   "Name": "Radahn's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Radahn's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Radahn. \nIts blessing raises maximum HP, FP and Stamina. \n \n Radahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika. \n The Great Rune burns, to resist the encroachment of the scarlet rot. "
+ },
+ {
+   "Name": "Great Rune of the Unborn",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Rune+of+the+Unborn",
+   "Lore": "Amber egg clutched by Rennala, Queen of the Full Moon. \nGreat Rune of unborn demigods. \n Perfects those who have been born anew. \n Children born anew by Rennala are all frail and short-lived. \nImperfect beings, each and all"
+ },
+ {
+   "Name": "Phantom Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Phantom+Great+Rune",
+   "Lore": "Item for online play. \n Obtained after using the Mohg's Great Rune and invading another world. \n Consumed upon use. \n Enemies inside the invaded world receive a blessing of blood, which boosts their attack power when blood loss occurs nearby. Also, your HP recovers when blessed enemies defeat a player. "
+ },
+ {
+   "Name": "Morgott's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Morgott's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Morgott. \nIts blessing greatly raises maximum HP. \n \n This Great Rune is the anchor ring that houses the base, and proves two things:\n \n That the Omen King was born of the golden lineage, and that he was indeed the Lord of Leyndell. "
+ },
+ {
+   "Name": "Mohg's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Mohg's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Mohg. \nIts blessing grants a blessing of blood to summoned phantoms, and imparts a Phantom Great Rune upon successful invasion. \n Mohg and Morgott are twin brothers, and their Great Runes are naturally similar. \n But Mohg's rune is soaked in accursed blood, from his devout love for the wretched mire that he was born into far below the earth. "
+ },
+ {
+   "Name": "Malenia's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Malenia's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Malenia. \nThe blessing of this half-rotted rune reduces the healing power of Flask of Crimson Tears. \n And yet, due to the infusion of Malenia's spirit of resistance. attacks made immediately after receiving damage will partially recover HP. \n Malenia is daughter to Queen Marika and Radagon, and her Great Rune should have been the most sacred of all. "
+ }
 ]
 }
