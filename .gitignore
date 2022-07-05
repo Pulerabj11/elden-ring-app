@@ -25,3 +25,4 @@ yarn-error.log*
 /src/config.js
 /src/service-key.json
 /src/json-to-firestore.js
+/src/typesense.js
