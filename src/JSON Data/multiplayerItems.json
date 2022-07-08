@@ -1,0 +1,99 @@
+{
+  "Multiplayer Items": [
+ {
+   "Name": "Festering Bloody Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Festering+Bloody+Finger",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n Consumed upon use. \n \n Attempts an invasion of another player's world. \n If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world. \n \n This furled finger is blackened with blood congestion. It seems to have been chopped off rather unceremoniously. "
+ },
+ {
+   "Name": "Phantom Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Phantom+Great+Rune",
+   "Lore": "Item for online play. \n Obtained after using the Mohg's Great Rune and invading another world. \n Consumed upon use. \n Enemies inside the invaded world receive a blessing of blood, which boosts their attack power when blood loss occurs nearby. Also, your HP recovers when blessed enemies defeat a player. "
+ },
+ {
+   "Name": "Finger Severer",
+   "Link": "https://eldenring.wiki.fextralife.com/Finger+Severer",
+   "Lore": "Item for online play. \n(Can also be used from the Multiplayer menu.) \n Use as a Host of Fingers to select a summoned player and send them back to their world. \n Use when you have been summoned to another player's world to return to your own world. \n This phantom blade severs the link formed by a Furled Finger, but the maidens scorn those who abuse its use. "
+ },
+ {
+   "Name": "Recusant Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Recusant+Finger",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Attempts an invasion of another player's world. \n If successful, you will arrive as an invader (Recusant) with the objective of defeating the Host of Fingers of that world. \n \n This furled finger is covered in snake scales. \n An heirloom of the lord of the Volcano Manor, bequeathed to Tarnished who have become family. "
+ },
+ {
+   "Name": "Furlcalling Finger Remedy",
+   "Link": "https://eldenring.wiki.fextralife.com/Furlcalling+Finger+Remedy",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n Craftable item. \n \n Reveals cooperative and competitive multiplayer signs. \n Co-op summoning signs will be shown in gold, while hostile summoning signs will be shown in red. \n \n Multiplayer begins when you summon a player from another world through their sign. "
+ },
+ {
+   "Name": "Duelist's Furled Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Duelist's+Furled+Finger",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Creates a summon sign for competitive multiplayer. \n Arrive as an adversary (Duelist) with the objective of defeating the Host of Fingers of the world to which you were summoned. \n \n A finger of corpse wax, furled like a hook. \n The bronze adornments are the mark of a duelist. "
+ },
+ {
+   "Name": "Taunter's Tongue",
+   "Link": "https://eldenring.wiki.fextralife.com/Taunter's+Tongue",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.) \n Lures in invaders. This allows your world to be invaded without any Furled Finger cooperators present, and it also shortens the interval between windows of opportunity for invasion. \n Additionally, enables the arrival of a second invader to join when a cooperator is present. (With two invaders, the maximum number of cooperators becomes one.)"
+ },
+ {
+   "Name": "White Cipher Ring",
+   "Link": "https://eldenring.wiki.fextralife.com/White+Cipher+Ring",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Allows you to automatically request for a hunter from another world to come to your rescue when your world is invaded. (Summoning is not always possible.)\n \n One of the lost mystic codes said to have been bestowed by the Two Fingers. "
+ },
+ {
+   "Name": "Small Golden Effigy",
+   "Link": "https://eldenring.wiki.fextralife.com/Small+Golden+Effigy",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Send a cooperative summon sign to several nearby summoning pools (activated pools only). \n \n In cooperative multiplayer, your objective will be to defeat the area boss of the world to which you were summoned. "
+ },
+ {
+   "Name": "Small Red Effigy",
+   "Link": "https://eldenring.wiki.fextralife.com/Small+Red+Effigy",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Send a competitive summon sign to several nearby summoning pools (activated pools only). \n \n In competitive multiplayer, your objective will be to defeat the Host of Fingers of the world to which you were summoned. "
+ },
+ {
+   "Name": "Phantom Bloody Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Phantom+Bloody+Finger",
+   "Lore": "Item for online play. \nObtained after invading another world. \nConsumed upon use. \n Attempts another invasion of the most recently invaded world. \nThis may come in handy should separation from the Host of Fingers force a temporary retreat. "
+ },
+ {
+   "Name": "Scriptstone",
+   "Link": "https://eldenring.wiki.fextralife.com/Scriptstone",
+   "Lore": "Ruin Fragment with a cipher inscription. \n Craftable item. \n \n Uses FP to reveal more messages from other worlds. \n \n Words are gregarious things, drawn to one another much as people are. "
+ },
+ {
+   "Name": "Tarnished's Furled Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Tarnished's+Furled+Finger",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Creates a summon sign for cooperative multiplayer. \n Arrive as a cooperator (Furled Finger) with the objective of defeating the area boss of the world to which you were summoned. \n \n A finger of corpse wax, furled like a hook. \n It is a relic of those who came before, left to help those who would come after. "
+ },
+ {
+   "Name": "Mimic's Veil",
+   "Link": "https://eldenring.wiki.fextralife.com/Mimic's+Veil",
+   "Lore": "Golden veil of intricate design. \n \n Uses FP to mimic nearby objects. \n \n When Godrick was hounded from Leyndell, the Royal Capital, this was one of a multitude of treasures he took with him. Also known as \"Marika's Mischief\". "
+ },
+ {
+   "Name": "Tarnished's Wizened Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Tarnished's+Wizened+Finger",
+   "Lore": "Item for online play. \n (Can also be used from the Messages menu.) \n Use to write messages. Your messages will be conveyed to other worlds, allowing other players to read them. \n \n A finger of corpse wax, so emaciated the bone is visible. \n It is a relic of those who came before, left to help those who would come after. "
+ },
+ {
+   "Name": "Bloody Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloody+Finger",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Attempts an invasion of another player's world. \n If successful, you will arrive as an invader (Bloody Finger) with the objective of defeating the Host of Fingers of that world. \n \n Glistening blood has been siphoned into the nail of this finger. Its sickly pale skin feels nothing now, but the nail still aches with sweetest pain. "
+ },
+ {
+   "Name": "Blue Cipher Ring",
+   "Link": "https://eldenring.wiki.fextralife.com/Blue+Cipher+Ring",
+   "Lore": "Item for online play. \n (Can also be used from the Multiplayer menu.)\n \n Puts the wearer in ready state to answer should someone in another world call for rescue. You will be summoned to their world as a hunter. \n \n During hunter multiplayer, your objective will be to defeat the invader of the summoned world. "
+ },
+ {
+   "Name": "Mohg's Great Rune",
+   "Link": "https://eldenring.wiki.fextralife.com/Mohg's+Great+Rune",
+   "Lore": "A Great Rune of the shardbearer Mohg. \nIts blessing grants a blessing of blood to summoned phantoms, and imparts a Phantom Great Rune upon successful invasion. \n Mohg and Morgott are twin brothers, and their Great Runes are naturally similar. \n But Mohg's rune is soaked in accursed blood, from his devout love for the wretched mire that he was born into far below the earth. "
+ },
+ {
+   "Name": "Grace Mimic",
+   "Link": "https://eldenring.wiki.fextralife.com/Grace+Mimic",
+   "Lore": "A fetish indicating the guidance of grace. \nCraftable item. \n Similar to grace, this fetish draws rays guiding the way, only without any sense of order. \n Useful as a last resort for those who have lost their way, or for use by those who believe that unrefined guidance will lead to truer encounters. "
+ }
+]
+}

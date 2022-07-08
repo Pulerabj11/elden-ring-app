@@ -1,0 +1,1539 @@
+{
+  "Weapons": [
+ {
+   "Name": "Sword of Milos",
+   "Link": "https://eldenring.wiki.fextralife.com/Sword+of+Milos",
+   "Lore": "Sinister greatsword fashioned from a giant's backbone. \nMetes out wounds like a lopsided saw-blade, and restores some FP upon defeating an enemy. \n Milos was undersized for a giant, and was viewed as sullied and terribly grotesque. "
+ },
+ {
+   "Name": "Finger Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Finger+Seal",
+   "Lore": "A sacred seal bestowed by a Finger Maiden which serves as a catalyst for casting sacred incantations. \n Incantations must be memorized first at a site of grace, and a sacred seal must be equipped to cast them. "
+ },
+ {
+   "Name": "Bloodhound Claws",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodhound+Claws",
+   "Lore": "Large curved claws used by Bloodhound Knights. \n The curve allows the weapon to slip through an enemy's guard. "
+ },
+ {
+   "Name": "Staff of the Avatar",
+   "Link": "https://eldenring.wiki.fextralife.com/Staff+of+the+Avatar",
+   "Lore": "Ceremonial staff depicting the Erdtree in its historic radiance. Wielded by the avatars who protect the Minor Erdtrees. \n The avatars, emerging in the wake of the Elden Ring's shattering, were determined to protect the withering Erdtree's offspring. "
+ },
+ {
+   "Name": "Great Knife",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Knife",
+   "Lore": "Large knife with a broad, curved blade. \n This weapon is designed to Spinning Slash and rend, inflicting blood loss upon the recipient. "
+ },
+ {
+   "Name": "Pike",
+   "Link": "https://eldenring.wiki.fextralife.com/Pike",
+   "Lore": "A longspear featuring an especially length handle. \n Specialized for use from long distances, it boasts the longest reach of any melee weapon. Incredibly useful even against foes on horseback, but hard to wield in cramped spaces. "
+ },
+ {
+   "Name": "Bloodhound's Fang",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodhound's+Fang",
+   "Lore": "Curved greatsword with a gently undulating blade wielded by\nBloodhound Knights. \n A fearsome blade capable of brutal airborne attacks. "
+ },
+ {
+   "Name": "Crepus's Black-Key Crossbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Crepus's+Black-Key+Crossbow",
+   "Lore": "Black crossbow featuring a long stock. Used for sniping, it has a\nvery long range. \n Weapon of Crepus, who served the Two Fingers from the shadows\nof the Roundtable as the head confessor. "
+ },
+ {
+   "Name": "Alabaster Lord's Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Alabaster+Lord's+Sword",
+   "Lore": "Greatsword forged from a blue-white meteoric ore. \nThe blade conceals gravity-manipulating magic. \n A weapon unique to the Alabaster Lords, a race of ancients with\nskin of stone who were said to have risen to life when a meteor\nstruck long ago. "
+ },
+ {
+   "Name": "Cross-Naginata",
+   "Link": "https://eldenring.wiki.fextralife.com/Cross-Naginata",
+   "Lore": "Weapon consisting of a three-pronged blade affixed to a long pole. \nThe long central blade closely resembles a katana. \n A weapon of the Land of Reeds, known for its ability to be wielded\nas a spear while still being capable of performing slashing attacks. "
+ },
+ {
+   "Name": "Iron Cleaver",
+   "Link": "https://eldenring.wiki.fextralife.com/Iron+Cleaver",
+   "Lore": "Fairly large iron cleaver, commonly used by the maltreated Misbegotten.   \n Steeped in resentment, these weapons are swung wildly and relentlessly, often after rushing up to foes. "
+ },
+ {
+   "Name": "Warped Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Warped+Axe",
+   "Lore": "Oversized double-headed axe with a bizarre, almost melted\nappearance. \n Brute strength is the only thing required to wield this weapon,\nwhich appears to have taken quite the beating itself. "
+ },
+ {
+   "Name": "Pest's Glaive",
+   "Link": "https://eldenring.wiki.fextralife.com/Pest's+Glaive",
+   "Lore": "Glaive made from a hard, sharpened shell. Wielded by the pests who emerged from the Swamp of Aeonia. Slightly increases non-physical damage negation. \nThough men might recognize the keen intellect of the pests evidenced by this spear's uncanny design, it will never be understood by them. "
+ },
+ {
+   "Name": "Dragon Greatclaw",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragon+Greatclaw",
+   "Lore": "Weapon said to have been whittled from the claw of a great, ancient dragon, wielded by grotesque Tree Sentinels who yet serve the Erdtree. \n The claw is enwreathed with lightning, and tears through the dragons' feeble descendants with ease. "
+ },
+ {
+   "Name": "Scorpion's Stinger",
+   "Link": "https://eldenring.wiki.fextralife.com/Scorpion's+Stinger",
+   "Lore": "Dagger fashioned from a great scorpion's tail, glistening with scarlet rot. \n A ceremonial tool used by heretics, crafted from the relic of a sealed outer god. "
+ },
+ {
+   "Name": "Black Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Bow",
+   "Lore": "Longbow carved from black wood to resemble a blade. One of the most difficult bows to master. \n The blade-like body of the bow is light and cuts through the air. \nThough a longbow, it can be wielded similarly to a shortbow. "
+ },
+ {
+   "Name": "Envoy's Greathorn",
+   "Link": "https://eldenring.wiki.fextralife.com/Envoy's+Greathorn",
+   "Lore": "Fanned golden horn of the Oracle Envoys. Profoundly weighty, its blows are sure to be felt. \n Originally an instrument, but one that cannot be sounded by a mere human. Or perhaps it is too early to sound the call. "
+ },
+ {
+   "Name": "Watchdog's Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Watchdog's+Staff",
+   "Lore": "Large stone staff embedded with glintstone. Wielded by Erdtree Burial Watchdogs who protect catacombs. \nThe Watchdogs, battered and broken over their lengthy tenure, rule the catacombs and are even said to command the imps. \n Unique Skill: Sorcery of the Crozier\nChannel magic into the glintstone to activate an ancient sorcery, producing floating magic projectiles that chase enemies automatically. "
+ },
+ {
+   "Name": "Giant's Red Braid",
+   "Link": "https://eldenring.wiki.fextralife.com/Giant's+Red+Braid",
+   "Lore": "Hefty whip woven from the flame-red hair of a Fire Giant. \n Every giant is red of hair, and Radagon was said to have despised his own red locks. Perhaps that was a curse of their kind. "
+ },
+ {
+   "Name": "Stormhawk Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Stormhawk+Axe",
+   "Lore": "Battle axe designed to resemble a hawk, with its wings comprising the blade. Signature weapon of warriors who strive to remain one with the storm, despite being so far from their place of birth. \n Their hearts are proud, and thereby easily undone. "
+ },
+ {
+   "Name": "Shotel",
+   "Link": "https://eldenring.wiki.fextralife.com/Shotel",
+   "Lore": "Curved sword with a severely hooked blade. Its attacks can slip through an enemy's guard.   \n Made to hunt down humans, this weapon requires high dexterity to wield efficiently. "
+ },
+ {
+   "Name": "Glintstone Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Staff",
+   "Lore": "Staff with a glintstone embedded at the tip. A catalyst for casting sorceries.   \n Sorceries must be memorized first at a site of lost grace, and a staff must be equipped to cast them. "
+ },
+ {
+   "Name": "Erdtree Greatbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Erdtree+Greatbow",
+   "Lore": "Greatbow featuring Erdtree styling. In times of old, when faith and battle went hand in hand, this weapon was created in tandem with the Golden Great Arrow. \n Scales all arrow damage with faith, revealing its true worth when used with holy-infused arrows. "
+ },
+ {
+   "Name": "Treespear",
+   "Link": "https://eldenring.wiki.fextralife.com/Treespear",
+   "Lore": "Golden spear with tree-like design. Wielded by knights employed as palace guards in the Royal Capital of Leyndell. Deals holy damage.   \n Requiring superior dexterity to wield, this greatspear can perform consecutive thrust attacks despite its larger size. "
+ },
+ {
+   "Name": "Nox Flowing Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Nox+Flowing+Hammer",
+   "Lore": "Mace shaped like a suspended metal droplet wielded by monks of the Eternal City. \n Forged from liquid metal from a Silver Tear, it is thoroughly tempered until hardened. "
+ },
+ {
+   "Name": "Grossmesser",
+   "Link": "https://eldenring.wiki.fextralife.com/Grossmesser",
+   "Lore": "Curved sword boasting a large blade.  \nThis weapon is designed to make use of its weight in combination with its sharp cutting edge.   \n A thoroughly reliable choice of weapon for those who can master its particulars. "
+ },
+ {
+   "Name": "Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Halberd",
+   "Lore": "A long-handled polearm that combines the functions of both axe and spear.   \n Can be used to press a single enemy with continuous thrusting attacks or swept at groups, taking advantage of its great reach and cleaving blade. A versatile weapon for any situation. "
+ },
+ {
+   "Name": "Twinned Knight Swords",
+   "Link": "https://eldenring.wiki.fextralife.com/Twinned+Knight+Swords",
+   "Lore": "An attractive twinblade of fine make that prizes the chivalric way.  \n \nCan be wielded with a single hand, but its true strength is unlocked with dual-handed spinning attacks. "
+ },
+ {
+   "Name": "Loretta's War Sickle",
+   "Link": "https://eldenring.wiki.fextralife.com/Loretta's+War+Sickle",
+   "Lore": "Intricately crafted silver war sickle wielded by Loretta, Knight of the Haligtree. \nOriginally given for service as a personal guard to Carian royalty, the weapon's blue glintstone has been replaced with unalloyed gold. "
+ },
+ {
+   "Name": "Ivory Sickle",
+   "Link": "https://eldenring.wiki.fextralife.com/Ivory+Sickle",
+   "Lore": "Sickle fashioned form ivory.  \nWeapon carried by aged Albunaurics. \n These weapons are evidence of their dedication to the Haligtree, despite never having entered its presence. "
+ },
+ {
+   "Name": "Estoc",
+   "Link": "https://eldenring.wiki.fextralife.com/Estoc",
+   "Lore": "Large piercing sword with a long, hard bladed edge which is also capable of slashing attacks.   \n For its large size, it can be wirleded rather nimbly, leaving little opportunity for the enemy to counter. "
+ },
+ {
+   "Name": "Grafted Blade Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Grafted+Blade+Greatsword",
+   "Lore": "The storied sword of Castle Morne. A revenger's weapon, it is burdened with oceans of anger and regret.  \nOne of the legendary armaments.   \n A lone surviving champion from a country now vanished was so determined to continue fighting that he claimed the swords of an entire clan of warriors. "
+ },
+ {
+   "Name": "Digger's Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Digger's+Staff",
+   "Lore": "Staff of a sorcerer-miner who extracts glintstone from crystal tunnels. The staff itself is a tool used to mine, and the ferrule is also embedded with a glintstone.  \n \n Boosts the power of Stonedigger sorceries"
+ },
+ {
+   "Name": "Jar Cannon",
+   "Link": "https://eldenring.wiki.fextralife.com/Jar+Cannon",
+   "Lore": "Jar cannon which uses explosives to fire greatbolts. Deals great damage but is slow to reload.   \n Experimental firearm brought to the assault on Volcano Manor, where it was discovered that no one knew how to use it. "
+ },
+ {
+   "Name": "Rotten Crystal Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Crystal+Staff",
+   "Lore": "Staff fashioned from pure crystal; a deed impossible for a human. It festers with scarlet rot. \n Enhances Crystalian sorceries. "
+ },
+ {
+   "Name": "Broadsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Broadsword",
+   "Lore": "A straight sword with a wide blade, suited to slashing attacks. \n Horizontal swings boast wide attack range, making it easier to connect with foes. "
+ },
+ {
+   "Name": "Iron Ball",
+   "Link": "https://eldenring.wiki.fextralife.com/Iron+Ball",
+   "Lore": "Iron manifer of spherical shape. Big Boggart the blackguard's weapon of choice. \n Not a weapon to be taken lightly, as its weighty blows shatter bones with ease. "
+ },
+ {
+   "Name": "Wakizashi",
+   "Link": "https://eldenring.wiki.fextralife.com/Wakizashi",
+   "Lore": "Short sword with a tempering pattern on the blade. A weapon unique to warriors of the Land of Reeds. Afflicts targets with blood loss. \n These swords are considered auxiliary weapons. Yet, one man is known to wield this weapon in his left hand while using a full-sized katana in his right. A demonic swordsman known only as Okina. "
+ },
+ {
+   "Name": "Harp Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Harp+Bow",
+   "Lore": "Bow fashioned from a minstrel's harp. Sonorous tones still resound when firing arrows. \n Troubadours sing tales of champions, both in the honorable service of the Erdtree, and the one who spurns honor for blasphemy. "
+ },
+ {
+   "Name": "Clawmark Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Clawmark+Seal",
+   "Lore": "A sacred seal given by Gurranq, the Beast\nClergyman. A rare trinket which allows incantations to be scaled with strength.   \n The claw mark represents Gurranq's wrath. Enhances bestial incantations learned from Gurranq. "
+ },
+ {
+   "Name": "Clinging Bone",
+   "Link": "https://eldenring.wiki.fextralife.com/Clinging+Bone",
+   "Lore": "Horrific weapon made of a hardened skeletal arm. Wielded by Ensha of the Royal Remains. \n Fitted by placing one's hands into the fists' grips until they dig in. \n\"\"O clinging creature. A king relinquishes not the hand. \"\""
+ },
+ {
+   "Name": "Envoy's Long Horn",
+   "Link": "https://eldenring.wiki.fextralife.com/Envoy's+Long+Horn",
+   "Lore": "Long golden horn of the Oracle Envoys. Profoundly weighty, its blows are sure to be felt. \n Originally an instrument, but one that cannot be sounded by a mere human. Or perhaps it is too early to sound the call. "
+ },
+ {
+   "Name": "Butchering Knife",
+   "Link": "https://eldenring.wiki.fextralife.com/Butchering+Knife",
+   "Lore": "Huge carving knife made to cleanly butcher the human body. \nSignature weapon of the Ogress Anastasia, known to have eaten\ncountless Tarnished while disguised as a Finger Maiden. \n \n Restores a very small amount of HP when it squarely strikes an enemy. "
+ },
+ {
+   "Name": "Crystal Knife",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Knife",
+   "Lore": "A knife made by sharpening hard crystal. \nSignature weapon of glintstone miners.   \n Used as a tool to extract glintstone from broken rock, and as such a faint magic enwreathes the blade. "
+ },
+ {
+   "Name": "Thorned Whip",
+   "Link": "https://eldenring.wiki.fextralife.com/Thorned+Whip",
+   "Lore": "Hefty whip coverd in crimson thorns. Weapon of the Prelates who lead the Fire Monks. A device of fearsome religious encouragement, it is fashioned in the image of the briars of sin. \n \n Very effective at inflicting blood loss. "
+ },
+ {
+   "Name": "Crystal Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Sword",
+   "Lore": "Sword fashioned from pure crystal; a deed impossible for a human. Enwreathed with powerful magic, its attack scales with intelligence. The inscrutable Crystalians have but one clear purpose; to safeguard their crystals unto the end. One theory posits that they yearn for the return of their creator who will carve for them new brethren. "
+ },
+ {
+   "Name": "Gargoyle's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Greatsword",
+   "Lore": "Bronze greatsword wielded by Valiant Gargoyles. \n Just like the wielder, the missing parts have been mended with corpse wax; a patchwork of champions. "
+ },
+ {
+   "Name": "Frenzied Flame Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Frenzied+Flame+Seal",
+   "Lore": "Formless sacred seal bestowed by the maiden of the Three Fingers. \nEnhances incantations of the frenzied flame. \n This seal is the mark of the Lord of Frenzied Flame. Scales incantations using strength, dexterity, intelligence, and faith all together. "
+ },
+ {
+   "Name": "Vulgar Militia Shotel",
+   "Link": "https://eldenring.wiki.fextralife.com/Vulgar+Militia+Shotel",
+   "Lore": "A hooked blade attached to a long handle. Wielded by the vulgar militia, its attacks can slip through an enemy's guard. \n The vulgar militia are the undecorated stewards of rancid, scorched battlefields that none dare approach, and forbidden domains better forgotten by the rest of the world"
+ },
+ {
+   "Name": "Whip",
+   "Link": "https://eldenring.wiki.fextralife.com/Whip",
+   "Lore": "A leather whip. Not originally used for combat, but as an instrument of pain. Through its supple attacks cannot be thwarted by parrying or even guarding, it is incapable of dealing critical hits. "
+ },
+ {
+   "Name": "Ghiza's Wheel",
+   "Link": "https://eldenring.wiki.fextralife.com/Ghiza's+Wheel",
+   "Lore": "Great iron wheel lined with flesh-flaying blades. Device of torture used by Inquisitor Ghiza. As the wheel spins it causes severe pain and blood loss. \n The design was adopted for use as the iconic weapon wielded by Iron Virgins. "
+ },
+ {
+   "Name": "Short Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Short+Sword",
+   "Lore": "A short straight sword with a short blade.  \nIn addition to its reliable standard damage, this weapon also boasts powerful piercing attacks.   \n Lightweight amongst straight swords, this weapon is easy to wield, requiring only humble attributes. "
+ },
+ {
+   "Name": "Cipher Pata",
+   "Link": "https://eldenring.wiki.fextralife.com/Cipher+Pata",
+   "Lore": "One of the weapons originating from the Two Fingers. A formless sequence of ciphers comprise its blade, and as such no shield can repel it. Deals holy damage. \n The furtive inscription appears to hang in the air; the language of light spoken by the Two Fingers. "
+ },
+ {
+   "Name": "Coded Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Coded+Sword",
+   "Lore": "Hidden sword once granted to the Tarnished of the Roundtable\nby the Two Fingers. A formless cipher comprises its blade, which\ndeals holy damage no shield can repel. Champions would gather\nat the Roundtable Hold in days long past, when the Two Fingers\nwere masters of oration, their flesh yet full of vigor. "
+ },
+ {
+   "Name": "Sentry's Torch",
+   "Link": "https://eldenring.wiki.fextralife.com/Sentry's+Torch",
+   "Lore": "Torch Given to protectors of the Erdtree. Its flames are bestowed with a special incantation which allows the bearer to see assassins cloaked in veils. Furnished on behalf of the Erdtree and the Grace-Given Lord such that a Night of Black Knives will never come again. "
+ },
+ {
+   "Name": "St. Trina's Torch",
+   "Link": "https://eldenring.wiki.fextralife.com/St.+Trina's+Torch",
+   "Lore": "Candlestand torch that burns with a light-purple flame. The carvings depict St. Trina, but in adult form, somewhat unnervingly. \n \n The light-purple flame induces sleep. "
+ },
+ {
+   "Name": "Forked Hatchet",
+   "Link": "https://eldenring.wiki.fextralife.com/Forked+Hatchet",
+   "Lore": "Peculiar hatchet wielded by imps. \n The gently undulating forked blade is known as an \"imp's tongue\" and causes blood loss. "
+ },
+ {
+   "Name": "Blasphemous Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Blasphemous+Blade",
+   "Lore": "Sacred sword of Rykard, Lord of Blasphemy. \nRemains of the countless heroes he has devoured writhe upon the\nsurface of this blade. \n Now they share the same blood, bound together as family. \nSome HP is restored upon defeating an enemy. "
+ },
+ {
+   "Name": "Mace",
+   "Link": "https://eldenring.wiki.fextralife.com/Mace",
+   "Lore": "An iron bludgeon with sharp protrusions. \n Striking attacks have few drawbacks, potent as they are at breaking through guards and stances, Most suited to head on slugging matches. "
+ },
+ {
+   "Name": "Knight's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Knight's+Greatsword",
+   "Lore": "Greatsword bestowed upon skilled swordsmen in the demigods' service, and yet had no rank or title. \n Featuring a long grip enabling a dual-handed use, this weapon was designed to dispatch larger foes. Being charged with such a duty was undoubtedly a great honor. "
+ },
+ {
+   "Name": "Claymore",
+   "Link": "https://eldenring.wiki.fextralife.com/Claymore",
+   "Lore": "A large sword with a long, straight blade. This heavy sword is usually wielded with two hands, but for those with enough strength, one is sufficient. \n In addition to the heavy sweeping attacks, it can also make a heavy piercing thrust making this a versatile weapon. "
+ },
+ {
+   "Name": "Celebrant's Sickle",
+   "Link": "https://eldenring.wiki.fextralife.com/Celebrant's+Sickle",
+   "Lore": "Sickle decorated with flowers and many-coloured fabrics. Ceremonial tool used by dancers during the festivities of Dominula. Its attacks can slip through an enemy's guard. \n\nCrafted from human bone. \n Grants trace amounts of runes on landing attacks. "
+ },
+ {
+   "Name": "Greatbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Greatbow",
+   "Lore": "Enormous greatbow larger than any man. Can not be drawn with any ordinary level of strength, but the force of its shots is extraordinary. \nA greatbow can only fire great arrows. "
+ },
+ {
+   "Name": "Antspur Rapier",
+   "Link": "https://eldenring.wiki.fextralife.com/Antspur+Rapier",
+   "Lore": "Spur of a giant ant which has been fashioned into a rapier. The blade drips with scarlet rot.   \n Scarlet rot is an old legend, of which Maleigh Marais of the Shaded Castle was a private believer. And indeed, he eventually found his own personal goddess. "
+ },
+ {
+   "Name": "Prince of Death's Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Prince+of+Death's+Staff",
+   "Lore": "Staff embedded with sullied amber, said to be a very part of the Prince of Death. Enhances death sorceries. \n \n One of the staves deemed heretical by the academy for its ability to allow sorceries to be augmented through faith in addition to intelligence. "
+ },
+ {
+   "Name": "Light Crossbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Light+Crossbow",
+   "Lore": "Ranged weapoon made from a bow fixed to a stock. Deals good\ndamage and is simple to use, but requires reloading after firing. \n Bolts must be equipped to use a crossbow. "
+ },
+ {
+   "Name": "Magma Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Magma+Blade",
+   "Lore": "Curved sword with a blade fashioned from the lava of Mt. Gelmir. \nAn armament of the man-serpents, impossible for a human to have made. \n Deals fire damage. "
+ },
+ {
+   "Name": "Helphen's Steeple",
+   "Link": "https://eldenring.wiki.fextralife.com/Helphen's+Steeple",
+   "Lore": "Greatsword patterned after the black steeple of the Helphen, the lampwood which guides the dead of the spirit world. \n The lamplight is similar to grace in appearance, only it is said that it can only be seen by those who met their death in battle. "
+ },
+ {
+   "Name": "Highland Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Highland+Axe",
+   "Lore": "Single-sided axe used by the warriors of the highlands.   \n Brave combatants begin battle by crying out their names. Roars are enhanced by this weapon. "
+ },
+ {
+   "Name": "Rapier",
+   "Link": "https://eldenring.wiki.fextralife.com/Rapier",
+   "Lore": "A piercing sword with a sharp, slender blade. \nIn addition to this weapon's thrusting attack prowess, it also boasts the ability to be used while guarding with a shield.   \n As one of the smaller piercing swords, quick successive thrust area easy to perform, but without a cutting edge, it cannot be used for slashing attacks. "
+ },
+ {
+   "Name": "Royal Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Royal+Greatsword",
+   "Lore": "Greatsword decorated in royal Carian Style. Favored weapon of Blaidd the Half-Wolf. \n In defiance of the fate he was born to, Blaidd swore to serve no master but Ranni. As proof. the sword was imbued with a cold magic at the moment oath was sworn. "
+ },
+ {
+   "Name": "Rotten Battle Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Battle+Hammer",
+   "Lore": "Large iron great hammer designed for gladiatorial combat, now festering with scarlet rot. \n \nWeighty enough to crush armor and its wearer alike. \n \nSkill: Braggart's Roar \nDeclare your presence with a boastful roar. Raises attack power, defense, and stamina recovery speed. "
+ },
+ {
+   "Name": "Hand Ballista",
+   "Link": "https://eldenring.wiki.fextralife.com/Hand+Ballista",
+   "Lore": "An unconventional ballistic device modeled on a weapon used to besiege castles. Only capable of firing greatbolts. \n \n Perfect for reckless acts such as storming a castle or facing an entire army alone. "
+ },
+ {
+   "Name": "Siluria's Tree",
+   "Link": "https://eldenring.wiki.fextralife.com/Siluria's+Tree",
+   "Lore": "Siluria's Tree, weapon of one of the two honored as foremost among the Crucible Knights. \n \nThe primordial form of the Erdtree is close in nature to life itself, and this spear, modeled on its crucible, is imbued with ancient holy essence. "
+ },
+ {
+   "Name": "Cranial Vessel Candlestand",
+   "Link": "https://eldenring.wiki.fextralife.com/Cranial+Vessel+Candlestand",
+   "Lore": "Candlestand used in worship of Birac, the most hallowed Monk\nPrelate of the Giants' Flame. Concerned over the lazy arrogance\nwith which the monks treated the Flame, Birac severed his own\nhead as a lesson to the others, intending it be used as a \ncandlestand. His faith yet smolders from within the cranial vessel. "
+ },
+ {
+   "Name": "Shortbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Shortbow",
+   "Lore": "Small bow made to fire arrows over great distances. Other than its ability to fire off arrows in rapid succession, it is also well-suited for use on horseback. \n To use a bow, arrows must also be equipped. "
+ },
+ {
+   "Name": "Giant-Crusher",
+   "Link": "https://eldenring.wiki.fextralife.com/Giant-Crusher",
+   "Lore": "A hammer made from a boulder, used in the War against the Giants. \nOne of the heftiest weapons in the entire Lands Between. \n After the giants were quelled, and man turned against man in violence, \nthis weapon was all but forgotten. Man has grown feeble in comparison to his forebears. "
+ },
+ {
+   "Name": "Iron Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Iron+Spear",
+   "Lore": "Commonly used iron spear with no notable traits. \nThe blade is severely rusted. "
+ },
+ {
+   "Name": "Crescent Moon Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Crescent+Moon+Axe",
+   "Lore": "Greataxe with a large, arcing blade and long handle. The\n\"Crescent Moon\" of its name is said to have been spurred by\nnostalgia. \n Specializes in sweeping through foes by making use of its long\nhandle. "
+ },
+ {
+   "Name": "Eleonora's Poleblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Eleonora's+Poleblade",
+   "Lore": "Twinned naginata forged in the Land of Reeds. Chosen weapon of Eleonora, Violet Bloody Finger. \n Her mastery of the sword was such that her onslaught was likened to a whirlwind, but now her legacy is stained by accursed blood. \n Unique Skill: Bloodblade Dance\nLeap at foe to perform a flurry of tornado-like attacks. Follow up with an additional input to perform an attack that ends in an evasive maneuver. "
+ },
+ {
+   "Name": "Bloodstained Dagger",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodstained+Dagger",
+   "Lore": "Dagger with a bloodstained blade. \nAfflicts targets with blood loss. \n As blood darkened the dagger through repeated slashing and stabbing, its blade only grew sharper and harder. "
+ },
+ {
+   "Name": "Greataxe",
+   "Link": "https://eldenring.wiki.fextralife.com/Greataxe",
+   "Lore": "Greataxe akin to a huge lump of iron. Recognized as the weapon of choice of badland chieftains. \nToo heavy to be wielded by those of merely ordinary strength, blows from this axe will flatten enemies, and the force of its charged attack is a sight to behold. "
+ },
+ {
+   "Name": "Flamberge",
+   "Link": "https://eldenring.wiki.fextralife.com/Flamberge",
+   "Lore": "Greatsword featuring a flame-like undulation. \nShreds enemy flesh, inducing blood loss. \n \n Scarlet rot is kept at bay with flame at Redmane Castle, and as such, this beloved sword of Jerren's eventually became the symbol of the castle itself. "
+ },
+ {
+   "Name": "Winged Greathorn",
+   "Link": "https://eldenring.wiki.fextralife.com/Winged+Greathorn",
+   "Lore": "Distinctive horn suffused with the power of ancestral spirits. This large, wing-shaped specimen is wielded as a weapon of spirit worship. \n\nIn the ancestral spirit-worshipping faith, these are considered envoys' wings, made to reap the lives of beings which experience no sprouting. "
+ },
+ {
+   "Name": "Meteoric Ore Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Meteoric+Ore+Blade",
+   "Lore": "Katana forged from meteoric ore to dispatch lifeforms born of falling stars. \nDeals magic damage. \n\nThe blade is weighty, known to deliver slashes of such ferocity that the impact is said to resemble the crash of a falling meteor. "
+ },
+ {
+   "Name": "Flail",
+   "Link": "https://eldenring.wiki.fextralife.com/Flail",
+   "Lore": "Weapon consisting of a bludgeoning head attached to a handle by chain. The iron ball is spiked and induces blood loss.  \n\nBlows from this weapon cannot be parried. The charge attack whirls the iron ball around for increased force before striking. "
+ },
+ {
+   "Name": "Troll's Golden Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Troll's+Golden+Sword",
+   "Lore": "Sword given to the lesser giants who fought for the Erdtree \nduring the War against the Giants long ago. \n Though the giants have lost their minds, they stay inseparable from their \nswords that are in sad shape—such that the gold plating had flaked away. "
+ },
+ {
+   "Name": "Clayman's Harpoon",
+   "Link": "https://eldenring.wiki.fextralife.com/Clayman's+Harpoon",
+   "Lore": "Harpoon with a tip made from a sharpened meteorite shard. \n Wielded by the claymen who infest dynastic remains. \n The blade emits a faint light and deals magic damage. "
+ },
+ {
+   "Name": "Rotten Crystal Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Crystal+Sword",
+   "Lore": "Sword fashioned from pure crystal; a deed impossible for a human. \nIt festers with scarlet rot. \n Enwreathed with powerful magic, its attack scales with intelligence. "
+ },
+ {
+   "Name": "Jawbone Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Jawbone+Axe",
+   "Lore": "Axe made from a herbivore's skull. Weapon of the ancestral followers who disdain metal. \n This axe is more of a bludgeon; it forgoes a bladed edge, instead using the beast's molar teeth to buffet foes, dealing strike damage. "
+ },
+ {
+   "Name": "Hand Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Hand+Axe",
+   "Lore": "Commonly known as a hatchet, this smaller variety of axe is an everyday work tool. \n Despite its short reach, it is easy to handle, exceling in successive attacks. "
+ },
+ {
+   "Name": "Lusat's Glintstone Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Lusat's+Glintstone+Staff",
+   "Lore": "Staff of the primeval glintstone sorcerer Lusat. Only those who\nhave glimpsed what lies beyond the wisdom of stone may wield it. \n Enhances power of all sorceries, but consumes additional FP. "
+ },
+ {
+   "Name": "Serpent-Hunter",
+   "Link": "https://eldenring.wiki.fextralife.com/Serpent-Hunter",
+   "Lore": "Weapon that serves as both greatsword and spear. Thought to\nhave been used to hunt an immortal great serpent in the distant\npast, it manifests a long blade of light when facing such a creature. \n When their master's heroic aspirations degenerated into mere\ngreed, his men searched for a weapon with which they might halt\ntheir lord. "
+ },
+ {
+   "Name": "Nox Flowing Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Nox+Flowing+Sword",
+   "Lore": "A grim weapon wielded by swordsmen of the Eternal City, this\nshotel has a blade as fine as a needle. \n Forged from the liquid metal of a Silver Tear, it is thoroughly\ntempered until hardened"
+ },
+ {
+   "Name": "Veteran's Prosthesis",
+   "Link": "https://eldenring.wiki.fextralife.com/Veteran's+Prosthesis",
+   "Lore": "Bladed prosthetic leg enwreathed with the power of lightning,\ninstead attached to the fist. Commander Niall, veteran of Castle\nSol, offered this prosthesis in exchange for the lives of defeated\nknights held prisoner. He went on to lead these men as an army of\nno nation. "
+ },
+ {
+   "Name": "Omen Cleaver",
+   "Link": "https://eldenring.wiki.fextralife.com/Omen+Cleaver",
+   "Lore": "Heavy-bladed curved sword of colossal size awarded to Omen as a tool of war. This weapon is made to take advantage of brute strength.   \n The pattern etched upon the blade is the remnant of a deteriorating malediction. Indeed, when bestowing a weapon, preparations must be made for taking it away. "
+ },
+ {
+   "Name": "Curved Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Curved+Club",
+   "Lore": "Hard, curved club, shaped like a crescent moon. \n Wielded instead of a curved sword by Albinaurics lacking dexterity. The only point of similarity between the two is the shape. "
+ },
+ {
+   "Name": "Celebrant's Cleaver",
+   "Link": "https://eldenring.wiki.fextralife.com/Celebrant's+Cleaver",
+   "Lore": "Cleaver decorated with many-colored fabrics. \nCeremonial tool used by dancers during the festivities of Dominula, Windmill Village. \n Crafted from human bone. \nGrants trace amounts of runes upon landing attacks. "
+ },
+ {
+   "Name": "Great Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Club",
+   "Lore": "An enormous club of hardwood. Wildly hammering foes with this \nstriking weapon requires no dexterity; only brute force. \n While it may seem sacrilegious, this weapon is said to be a withered branch of the Erdtree. \nImbued with holy power, this weapon will never snap. "
+ },
+ {
+   "Name": "Mohgwyn's Sacred Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Mohgwyn's+Sacred+Spear",
+   "Lore": "Trident of Mohg, Lord of Blood. A sacred spear that will come to symbolize his dynasty. \nAs well as serving as a weapon, it is an instrument of communion with an outer god who bestows power upon accursed blood. \n\nThe mother of truth desires a wound. "
+ },
+ {
+   "Name": "Lion Greatbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Lion+Greatbow",
+   "Lore": "Greatbow of black iron wielded by General Radahn. Decorated with a lion mane motif. \n Imbued with gravitational power of the Starscourge, when used along with Radahn's Spear, it becomes a true weapon of a champion. "
+ },
+ {
+   "Name": "Magma Whip Candlestick",
+   "Link": "https://eldenring.wiki.fextralife.com/Magma+Whip+Candlestick",
+   "Lore": "This ritual implement is a three pronged candlestick with solid\nflames formed of the magma of Mt. Gelmir. \n When wielded as a weapon, the flames become supple whips of\nlava. "
+ },
+ {
+   "Name": "Serpentbone Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Serpentbone+Blade",
+   "Lore": "Sinister katana modeled after a serpent bone. \n The densely packed row of spines that jut away from the cutting edge are coated in a lethal poison. "
+ },
+ {
+   "Name": "Parrying Dagger",
+   "Link": "https://eldenring.wiki.fextralife.com/Parrying+Dagger",
+   "Lore": "A knife with curved handguards. Designed to parry, turning foes' attacks against them.  \n \n For master of combat who anticipate every enemy strike and counter accordingly, this weapon is all they need. "
+ },
+ {
+   "Name": "Duelist Greataxe",
+   "Link": "https://eldenring.wiki.fextralife.com/Duelist+Greataxe",
+   "Lore": "Greataxe designed for gladiatorial combat. Used by duelists who were exiled from the colosseum. \n\nA weapon reserved for duelist champions, the charge attack is particularly ferocious. "
+ },
+ {
+   "Name": "Gargoyle's Black Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Black+Halberd",
+   "Lore": "Bronze halberd wielded by Valiant Gargoyles, mended with blackened corpse wax. \nDeals holy damage. \n Such is the mark of those who serve Maliketh, the Black Blade. "
+ },
+ {
+   "Name": "Scythe",
+   "Link": "https://eldenring.wiki.fextralife.com/Scythe",
+   "Lore": "Large scythe featuring a long, slender blade. Designed to reap, this weapon is capable of rapidly inflicting blood loss while also slipping through an enemy's guard.   \n In the hands of a highly dexterous wielder it is capable of striking fear into the heart of any foe. "
+ },
+ {
+   "Name": "Pickaxe",
+   "Link": "https://eldenring.wiki.fextralife.com/Pickaxe",
+   "Lore": "Large pickaxe designed to crack thick bedrock. Tool of sturdy miners. \n Not originally designed as a weapon, but very adept at piercing armor. \n\"Little wretches, do you think your armor harder than stone?\""
+ },
+ {
+   "Name": "Ruins Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Ruins+Greatsword",
+   "Lore": "Originally rubble from a ruin which fell from the sky, this surviving fragment was honed into a weapon. \nOne of the legendary armaments. \n The ruin it came from crumbled when struck by a meteorite, as such this weapon harbors its destructive power. "
+ },
+ {
+   "Name": "Nightrider Flail",
+   "Link": "https://eldenring.wiki.fextralife.com/Nightrider+Flail",
+   "Lore": "A flail with two additional bludgeoning heads.   \nWeapon of the Night's Cavalry who ride funeral steeds. \n The large spikes make it highly effective at inducing blood loss, but also demand higher dexterity to wield. "
+ },
+ {
+   "Name": "Carian Regal Scepter",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Regal+Scepter",
+   "Lore": "Magic scepter of Rennala, Queen of the Full Moon. The glintstone is known as a Carian Blue, enhancing full moon sorceries. \n Only those of the highest intelligence may wield this, the finest of all glintstone staves. "
+ },
+ {
+   "Name": "Lucerne",
+   "Link": "https://eldenring.wiki.fextralife.com/Lucerne",
+   "Lore": "This polearm features a hard, sharpened beak-like spike attached to its head, designed to pierce armor. \n Though designed mainly as a thrusting weapon, its long handle can be utilized to get around an enemy's guard with a sideward sweeping attack. "
+ },
+ {
+   "Name": "Horn Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Horn+Bow",
+   "Lore": "Longbow made from animal horn. Wielded by the master hunters of the ancestral followers.   \n Imbues arrows fired with magic damage. \nReveals its true worth when used with magic-infused arrows. "
+ },
+ {
+   "Name": "Dragon Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragon+Halberd",
+   "Lore": "Halberd shaped like a dragon, enwreathed with both ice and lightning. \n Alas, the Dragonkin Soldiers never attained immortality, and perished as decrepit, pale imitations of their skyborn kin. "
+ },
+ {
+   "Name": "Magma Wyrm's Scalesword",
+   "Link": "https://eldenring.wiki.fextralife.com/Magma+Wyrm's+Scalesword",
+   "Lore": "Curved greatsword wielded by Magma Wyrms. The shape resembles a dragon's jaw and is covered in hard scales. \n It's said these land-bound dragons were once humans heroes who partook in dragon communion, a grave transgression for which they were cursed to crawl the earth upon their bellies, shadows of their former selves. "
+ },
+ {
+   "Name": "Ringed Finger",
+   "Link": "https://eldenring.wiki.fextralife.com/Ringed+Finger",
+   "Lore": "Bludgeon made of an enormous finger sheathed in several heavy rings. Thought to have been cut from an ancestor of the Fingercreeper. \n Some life yet remains in this legacy of an ancient act of blasphemy, as evidenced by the barely perceptible warmth it still exudes. "
+ },
+ {
+   "Name": "Astrologer's Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Astrologer's+Staff",
+   "Lore": "Staff of the astrologers. A glintsone is embedded in the tip, enabling it to be used as a catalyst for sorceries.  \n\nSorceries must be memorized first at a site of lost grace, and a staff must be equipped to cast them. "
+ },
+ {
+   "Name": "Reduvia",
+   "Link": "https://eldenring.wiki.fextralife.com/Reduvia",
+   "Lore": "Jagged dagger with a distinctive curled blade. \nCarried by the noble servants of the Lord of Blood. \n This dagger rips the flesh as it enters, inflicting blood loss with sickening efficacy. A proud testament to the success of its vicious design, this weapon is perpetually coated in blood. "
+ },
+ {
+   "Name": "Ripple Crescent Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Ripple+Crescent+Halberd",
+   "Lore": "Weapon wielded by young Albinaurics. \n The blade is said to resemble a partial image of a ripple, and its attack power scales with one's arcane attribute. "
+ },
+ {
+   "Name": "Fallingstar Beast Jaw",
+   "Link": "https://eldenring.wiki.fextralife.com/Fallingstar+Beast+Jaw",
+   "Lore": "Part of a Falling star Beast's jaw, hard and shining black, fashioned into a weapon.   \n With its sharp point, this colossal weapon can skewer foes. "
+ },
+ {
+   "Name": "Banished Knight's Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Banished+Knight's+Halberd",
+   "Lore": "A finely-crafted halberd intricately engraved with an ancient motif. \n Given to knights who, whether by misfortune or misdeed, were forced to abandon their homes. \n Most of these knights were sent to the fringes, where they were forced to start anew with only despair for company. "
+ },
+ {
+   "Name": "Glintstone Kris",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Kris",
+   "Lore": "Ritual blade once presented to Leyndell by the Academy of Raya Lucaria to celebrate their newfound peace. \n Though the weapon is embedded with precious glintstones and features Erdtree ornamentation, the undulating blade is symbolic of an ancient ritual. "
+ },
+ {
+   "Name": "Warpick",
+   "Link": "https://eldenring.wiki.fextralife.com/Warpick",
+   "Lore": "Great hammer with a hard protruding beak. A pickaxe designed for combat, in essence. \n A simple but highly effective weapon, the weighty piercing attack casually rips through metal armor. "
+ },
+ {
+   "Name": "Executioner's Greataxe",
+   "Link": "https://eldenring.wiki.fextralife.com/Executioner's+Greataxe",
+   "Lore": "Bulky cleaver welded to a long haft. Said to have been used to dispatch the remnants of defeated armies, felling them like timber. \n Perhaps that is the reason it excels at critical hits. "
+ },
+ {
+   "Name": "Longbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Longbow",
+   "Lore": "Longbow made to fire arrows over great distances. Compared to a shortbow, arrows fired reach further and deal more damage. \n To use a bow, arrows must also be equipped. "
+ },
+ {
+   "Name": "Golem's Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Golem's+Halberd",
+   "Lore": "A great halberd of black stone crafted by a civilization now gone to ruin. Wielded by the Guardian Golem. "
+ },
+ {
+   "Name": "Full Moon Crossbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Full+Moon+Crossbow",
+   "Lore": "One-of-a-kind enchanted crossbow of exquisitely detailed\ncraftsmanship. Made to celebrate the matrimonial union, and\nreconciliation, between the houses of the Erdtree and the Full \n Moon, Leyndell and Raya Lucaria. The two rings dance when\nreloading the weapon. Reveals true worth when used with holy-\ninfused bolts. "
+ },
+ {
+   "Name": "Falchion",
+   "Link": "https://eldenring.wiki.fextralife.com/Falchion",
+   "Lore": "A curved sword with a single-sided blade. Delivers slashing attacks with its sharp blade, but is ineffective against thick armor and hides covered in tough scales. \n Wielders of the weapon employ a unique style that enhances attacks with spinning motions. "
+ },
+ {
+   "Name": "Rotten Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Staff",
+   "Lore": "Ceremonial staff depicting the Erdtree in its historic radiance. It festers with scarlet rot. \n \nWielded by the avatars who protect the Minor Erdtrees. "
+ },
+ {
+   "Name": "Rusted Anchor",
+   "Link": "https://eldenring.wiki.fextralife.com/Rusted+Anchor",
+   "Lore": "A rusty anchor wielded as a weapon. Each of its four flukes is thick and sharp, enabling piercing attacks. \n While the Tarnished left the Lands Between with their Lord, one boat alone was said to have been left behind. "
+ },
+ {
+   "Name": "Battle Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Battle+Axe",
+   "Lore": "A thick, heavy blade attached to a handle. A versatile, standard weapon\n\nCapable of powerful attacks thanks to the weighty blade, these weapons are also regarded for their powerful charge attacks. "
+ },
+ {
+   "Name": "Eclipse Shotel",
+   "Link": "https://eldenring.wiki.fextralife.com/Eclipse+Shotel",
+   "Lore": "Storied sword and treasure of Castle Sol that depicts an eclipsed sun drained of color. One of the legendary armaments. \n In Sol, the sight of an eclipse inspires a dreadful awe, preventing an onlooker from averting his gaze. "
+ },
+ {
+   "Name": "Marais Executioner's Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Marais+Executioner's+Sword",
+   "Lore": "Storied sword of House Marais, the family of executioners who presided over the Shaded Castle. One of the legendary armaments. \nElemer of the Briar, the Bell Bearing Hunter, snatched the sword from the site of his looming execution, and furnished it with battle skills from his home of Eochaid. . "
+ },
+ {
+   "Name": "Gargoyle's Twinblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Twinblade",
+   "Lore": "Bronze twinblade wielded by Valiant Gargoyles. \n Just like the wielder, the missing parts have been mended with corpse wax; a patchwork of champions. "
+ },
+ {
+   "Name": "Great Stars",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Stars",
+   "Lore": "Huge bludgeon with three stars at the striking end. Though primarily a striking weapon, the stars' spikes cause blood loss. \n\nA blood-stained star is an ill omen, a fact not lost upon those against whom this weapon is brought to bear. Landing attacks slightly restores HP. "
+ },
+ {
+   "Name": "Family Heads",
+   "Link": "https://eldenring.wiki.fextralife.com/Family+Heads",
+   "Lore": "Three bludgeoning copper heads attached to a handle by chains. Signature weapon of Necromancer Garris, the heretical sage. \n\nThe heads were made to resemble those of his wife and two children. "
+ },
+ {
+   "Name": "Cinquedea",
+   "Link": "https://eldenring.wiki.fextralife.com/Cinquedea",
+   "Lore": "Short sword given to high ranking clergymen of Farum Azula. \nRaises potency of bestial incantations. \n The design celebrates a beast's five fingers, symbolic of the intelligence once granted upon their kind. "
+ },
+ {
+   "Name": "Stone Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Stone+Club",
+   "Lore": "Signature weapon of battlemages, hewn from hard glintstone.  \nThis club is much heavier than its size suggests, but has no magic power. \n So that they not lose sight of the true essence of combat, battlemages prefer to feel the impact of their blows, fighting their opponents hand to hand. "
+ },
+ {
+   "Name": "Onyx Lord's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Onyx+Lord's+Greatsword",
+   "Lore": "Greatsword forged from golden-hued meteoric ore.  \nThe blade conceals gravity-manipulating magic. \n A weapon unique to the Onyx Lords, a race of ancients with skin of stone who were said to have risen to life when a meteor struck long ago. "
+ },
+ {
+   "Name": "Prelate's Inferno Crozier",
+   "Link": "https://eldenring.wiki.fextralife.com/Prelate's+Inferno+Crozier",
+   "Lore": "Colossal hammer with the appearance of roiling flames. Weapon of the Prelates who lead the Fire Monks. \nIts heft represents the weight of their guardianship.   \n The hammer's head is unusually substantial, and strong attacks' will fling foes into the air. "
+ },
+ {
+   "Name": "Flowing Curved Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Flowing+Curved+Sword",
+   "Lore": "Legends speak of a master of the sword garbed in blue, and his curved blade that was patterned after flowing water. \nStrong attack unleashes a series of strikes akin to a dance, offering a glimpse into the legend. \nSkill: Spinning Slash \nSkill favored by dexterous warriors. Slash foes as your body spins. Additional input allows for a follow-up attack. "
+ },
+ {
+   "Name": "Rogier's Rapier",
+   "Link": "https://eldenring.wiki.fextralife.com/Rogier's+Rapier",
+   "Lore": "Piercing sword of superior quality, featuring intricate ornamentation. \nSignature weapon of the sorcerer Rogier. \n High dexterity is required to wield the blade to its full potential, but mastery is a sight to behold, characterized by a flowing style which excels in successive attacks. "
+ },
+ {
+   "Name": "Red Branch Shortbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Red+Branch+Shortbow",
+   "Lore": "Shortbow of polished red wood. Fashioned by a master craftsman and wielded by pages.   \n A bow which requires dexterity rather than strength to master. "
+ },
+ {
+   "Name": "Godslayer's Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Godslayer's+Seal",
+   "Lore": "Sacred seal of the Godskin Apostles, inlaid with obsidian. \n Said to represent the manipulation of black flame, this catalyst enhances godslayer incantations. "
+ },
+ {
+   "Name": "Miséricorde",
+   "Link": "https://eldenring.wiki.fextralife.com/Misericorde",
+   "Lore": "Dagger favored by military physicians in white.  \nThe pointed blade is hard and sharp, making critical hits especially potent.   \n Medicine is mercy. and mercy upon the battlefield is ruthless. Beware the killers clothes as men of compassion"
+ },
+ {
+   "Name": "Blade of Calling",
+   "Link": "https://eldenring.wiki.fextralife.com/Blade+of+Calling",
+   "Lore": "Dagger given to one who set out on a journey to fulfill her duty long ago. The power of its former owner, the kindling maiden, is still apparent. \n The one who walks alongside flame, Shall one day meet the road of Destined Death. "
+ },
+ {
+   "Name": "Glaive",
+   "Link": "https://eldenring.wiki.fextralife.com/Glaive",
+   "Lore": "Weapon comprised of a sharp blade affixed to a long grip. It is in fact a sickle repurposed to be a tool of war. \n This far-reaching weapon excels at slashing attacks. "
+ },
+ {
+   "Name": "Death Ritual Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Death+Ritual+Spear",
+   "Lore": "Ritual spear used by priests of old who were permitted to come among the Deathbirds. \n The priests became guardians of the birds through the rite of Death, which also serves as an oath sworn to their distant resurrection. "
+ },
+ {
+   "Name": "Monk's Flamemace",
+   "Link": "https://eldenring.wiki.fextralife.com/Monk's+Flamemace",
+   "Lore": "Great hammer made to resemble flickering flames. Signature weapon of the Fire Monks, who hail from the Mountaintops of the Giants.   \n The unique strong attack rouses fiery combative spirit. "
+ },
+ {
+   "Name": "Large Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Large+Club",
+   "Lore": "A thick, solid lump of wood. \nWielding this striking weapon requires no skill. \n A simple, primitive weapon that requires only brute strength to swing about. "
+ },
+ {
+   "Name": "Gargoyle's Black Blades",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Black+Blades",
+   "Lore": "Bronze twinblade wielded by Valiant Gargoyles, mended with blackened corpse wax. \nDeals holy damage. \n Such is the mark of those who serve Maliketh, the Black Blade. "
+ },
+ {
+   "Name": "Azur's Glintstone Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Azur's+Glintstone+Staff",
+   "Lore": "Staff of the primeval glintstone sorcerer Azur. \nOnly those who have glimpsed what lies beyond the wisdom of stone may wield it. \n Reduces casting time of all sorceries, but consumes additional FP. "
+ },
+ {
+   "Name": "Shamshir",
+   "Link": "https://eldenring.wiki.fextralife.com/Shamshir",
+   "Lore": "Curved sword with a thin blade of ample length. Light of weight despite its larger size, its slicing attacks come in rapid succession. \n A devastatingly powerful weapon in the hands of a skilled swordsman. "
+ },
+ {
+   "Name": "Spiked Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Spiked+Club",
+   "Lore": "A club with beast fangs wrapped around the striking end. The uneven spread of fangs causes blood loss. \n Given only to the toughest of demi-humans, this weapon is a badge of honor. Or so the demi-humans believe. "
+ },
+ {
+   "Name": "Bolt of Gransax",
+   "Link": "https://eldenring.wiki.fextralife.com/Bolt+of+Gransax",
+   "Lore": "Spear whittled from the weapon wielded by Gransax. \nOne of the legendary armaments. \n \n A great ancient dragon, Gransax once rained calamity upon the Royal Capital - the only time in historical record that Leyndell's walls have fallen. This marked the dawn of the war against dragons. "
+ },
+ {
+   "Name": "Scavenger's Curved Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Scavenger's+Curved+Sword",
+   "Lore": "Unique curved sword, notched like shark's teeth. \nWeapon carried by corpse pillagers who prowl the sites of old battles. \n \nThe blade is tacky with blood and covered in hefty nicks, making it totally uneven. Life can be sinister indeed. "
+ },
+ {
+   "Name": "Banished Knight's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Banished+Knight's+Greatsword",
+   "Lore": "Dex D"
+ },
+ {
+   "Name": "Mantis Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Mantis+Blade",
+   "Lore": "A curved sword with a blade at both ends wielded by the Cemetery Shades, the insect-ridden grave keepers.   \n The blade is thin and sharp, and strong attack unleashes a far-reaching slash. "
+ },
+ {
+   "Name": "Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Club",
+   "Lore": "A thick, solid lump of wood. \nWielding this striking weapon requires no skill. \n A simple, primitive weapon that requires only brute strength and persistence to hammer your foe into the ground. "
+ },
+ {
+   "Name": "Axe of Godrick",
+   "Link": "https://eldenring.wiki.fextralife.com/Axe+of+Godrick",
+   "Lore": "Greataxe wielded by Godrick the Grafted. This golden battleaxe is emblazoned with the figure of a beast, representing the strength of Godfrey, First Elden Lord and patriarch of the golden lineage. \n \"I command thee kneel! For I am the lord of all that is golden!\""
+ },
+ {
+   "Name": "Vyke's War Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Vyke's+War+Spear",
+   "Lore": "War spear singed and blistered by fingers, used by Vyke, Knight of the Roundtable Hold. \n Like Vyke himself, it has been tormented by the yellow flame of frenzy from within. "
+ },
+ {
+   "Name": "Lordsworn's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Lordsworn's+Greatsword",
+   "Lore": "Well-crafted straight sword with an illustrious design, wielded by regulars of a lord's army. \n Through blackened and damaged by years of use, it appears to have otherwise been kept in a serviceable condition, despite the soldiers having long since lost their minds. "
+ },
+ {
+   "Name": "Dagger",
+   "Link": "https://eldenring.wiki.fextralife.com/Dagger",
+   "Lore": "A standard dagger with a straight blade. \n \n Though modest in reach and capacity for harm, this weapon is light enough to jab in rapid succession and delivers devastating critical hits. "
+ },
+ {
+   "Name": "Monk's Flameblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Monk's+Flameblade",
+   "Lore": "Curved sword with a flickering flame motif. \nWielded by the Fire Monks who came from the Mountaintops of the Giants. \n The monks came to the land of Liurnia in pursuit of a fugitive who stole their fire. "
+ },
+ {
+   "Name": "Great Omenkiller Cleaver",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Omenkiller+Cleaver",
+   "Lore": "The blade of this huge, loathsome cleaver comprises a row of amputated Omen horns. Weapon of slaughter wielded by Omen killers. \n The hideous horns cause blood loss, adding vibrant colors to the ongoing mayhem. "
+ },
+ {
+   "Name": "Iron Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Iron+Greatsword",
+   "Lore": "Greatsword with a blade of unusually thick steel. \nA coarse weapon to which polishing is a foreign concept. \n Weighty even among others of its class, the impact of each strike is sure to be felt. "
+ },
+ {
+   "Name": "Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Hammer",
+   "Lore": "Hammer comprised of a large stone affixed to a metal handle. \nOriginally a blacksmith's tool. \n \n The art of smithing is said to have originated among the giants. \nThis weapon's striking attacks boast ample weight behind them. "
+ },
+ {
+   "Name": "Noble's Estoc",
+   "Link": "https://eldenring.wiki.fextralife.com/Noble's+Estoc",
+   "Lore": "Estoc carried by wandering nobles. Made to be easy to wield.   \n Daubed with gold from tip to tail, it should fetch a good sum. "
+ },
+ {
+   "Name": "Troll's Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Troll's+Hammer",
+   "Lore": "Mining tool of stonedigger trolls used to crack bedrock.   \n Trolls are descended from the giants, and these were supposedly once used as ceremonial smithing tools. In the distant past, smithing was considered divine. "
+ },
+ {
+   "Name": "Warhawk's Talon",
+   "Link": "https://eldenring.wiki.fextralife.com/Warhawk's+Talon",
+   "Lore": "Talon-swords are affixed to the legs of the Stormveil's warhawks, but this one has been repurposed for human use. \n The blade is thin and lightweight so as not to obstruct the hawk's mobility. "
+ },
+ {
+   "Name": "Weathered Straight Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Weathered+Straight+Sword",
+   "Lore": "Straight sword with a rather short but wide blade. \n Simple to wield, it was known as the sword of the people. \nThough the Erdtree styling is still visible, time has not been kind\nto this sword, now merely a shadow of its former self. "
+ },
+ {
+   "Name": "Golden Epitaph",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Epitaph",
+   "Lore": "A sword made to commemorate the death of Godwyn the Golden, first of the demigods to die. \n Infused with the humble prayer of a young boy; \"O brother, lord brother, please die a true death. \""
+ },
+ {
+   "Name": "Gelmir Glintstone Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Gelmir+Glintstone+Staff",
+   "Lore": "Staff with a forked tip, embedded with red glintstones. Enhances lava sorceries. \n \n The Man-Serpents of Mt. Gelmir draw from faith in addition to intelligence to enhance the potency of their sorcery. "
+ },
+ {
+   "Name": "Erdtree Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Erdtree+Bow",
+   "Lore": "Longbow featuring Erdtree styling. In times of old, when faith and battle went hand in hand, this weapon was created in tandem with the Golden Arrow. \n Scales all arrow damage with faith, revealing its true worth when used with holy-infused arrows. "
+ },
+ {
+   "Name": "Bandit's Curved Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Bandit's+Curved+Sword",
+   "Lore": "Curved sword with a light, crescent-shaped blade. \nUsed by the bandits who ran rampant in the wake of the Shattering. \n Most of the blade is now darkened and covered in rust, but with enough dexterity this weapon may still stand up to some use. "
+ },
+ {
+   "Name": "Envoy's Horn",
+   "Link": "https://eldenring.wiki.fextralife.com/Envoy's+Horn",
+   "Lore": "Golden horn of the Oracle Envoys. Profoundly weighty, its blows are sure to be felt. \n Originally an instrument, but one that cannot be sounded by a mere human. Or perhaps it is too early to sound the call. "
+ },
+ {
+   "Name": "Golden Order Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Order+Greatsword",
+   "Lore": "Greatsword made of light, modeled after the Elden Ring itself. \nForged by King Consort Radagon to proudly symbolize the tenets of the Golden Order. \nOne of the legendary armaments. \n \nTelltale signs betray that this was once the greatsword bequeathed to him by his first wife, Rennala. "
+ },
+ {
+   "Name": "Godskin Peeler",
+   "Link": "https://eldenring.wiki.fextralife.com/Godskin+Peeler",
+   "Lore": "Unique twinblade wielded by Godskin Apostles characterized by its disturbing design. One end features a sickle for slicing attacks while the other boasts a winding spike for boring into flesh. \n \nMuch skill is required to wield this weapon due to its asymmetric nature. "
+ },
+ {
+   "Name": "Death's Poker",
+   "Link": "https://eldenring.wiki.fextralife.com/Death's+Poker",
+   "Lore": "Barbed rod carried by Deathbirds. \n The birds are graveyard fire keepers; it is said they rake out the ashen remains of the dead from their kilns. "
+ },
+ {
+   "Name": "Dragonscale Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragonscale+Blade",
+   "Lore": "A weapon made by sharpening a Gravel Stone scale, thought to be\nthe source of ancient dragon immortality, into an unclouded\nblade. \n Alas, the Dragonkin Soldiers never attained immortality, and\nperished as decrepit, pale imitations of their skyborn kin. "
+ },
+ {
+   "Name": "Pulley Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Pulley+Bow",
+   "Lore": "Longbow which utilizes a series of pulleys and strings. The complex mechanism, which required advanced mathematical and mechanical understanding to craft, was likely made by a certain genius who learned Golden Order Fundamentalism. \n \n Enhances precision while shooting, enabling arrows to fly much further distances. "
+ },
+ {
+   "Name": "Crystal Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Spear",
+   "Lore": "Spear fashioned from pure crystal; a deed impossible for a human. \nEnwreathed with powerful magic, its attack scales with intelligence. \n The inscrutable Crystalians have but one clear purpose; to safeguard their crystals unto the end. \nOne theory posits that they yearn for the return of their creator who will carve for them new brethren. "
+ },
+ {
+   "Name": "Cleanrot Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Cleanrot+Spear",
+   "Lore": "Spear of the Cleanrot Knights who fought alongside Malenia, Blade of Miquella. \n The winged golden blade deals holy damage. The diminutive shield is blessed with an incantation that wards off rot. "
+ },
+ {
+   "Name": "Scimitar",
+   "Link": "https://eldenring.wiki.fextralife.com/Scimitar",
+   "Lore": "A curved sword with a single-sided blade. \nDelivers slashing attacks with its sharp blade, but is ineffective against armor and hides covered in tough scales. \nSmaller in size than most curved swords, it carves into enemies with quick, sharp cuts. "
+ },
+ {
+   "Name": "Uchigatana",
+   "Link": "https://eldenring.wiki.fextralife.com/Uchigatana",
+   "Lore": "A katana with a long single-edged curved blade.  \nA unique weapon wielded by the samurai from the Land of Reeds. \n The blade, with its undulating design, boasts extraordinary sharpness, and ts slash attacks cause blood loss. "
+ },
+ {
+   "Name": "Sword of Night and Flame",
+   "Link": "https://eldenring.wiki.fextralife.com/Sword+of+Night+and+Flame",
+   "Lore": "Storied sword and treasure of Caria Manor. \nOne of the legendary armaments. \n Astrologers, who preceded the sorcerers, established themselves in mountaintops that nearly touched the sky, and considered the Fire Giants their neighbors. "
+ },
+ {
+   "Name": "Carian Glintblade Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Glintblade+Staff",
+   "Lore": "Staff embedded with a blue glintstone. One of two types of Carian staff. \n Gifted to enchanted knights, it enhances Glintblade sorceries. "
+ },
+ {
+   "Name": "Winged Scythe",
+   "Link": "https://eldenring.wiki.fextralife.com/Winged+Scythe",
+   "Lore": "Sacred scythe resembling a pair of white wings. Deals holy damage. \n According to pagan belief, white-winged maidens are said to be Death's gentle envoys. "
+ },
+ {
+   "Name": "Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Greatsword",
+   "Lore": "A coarse iron lump of an ultra greatsword. \nMows down foes by utilizing its incredible weight. \n Though handling it likely requires the wielder to have surpassed the realm of the merely human, \nit is precisely for this reason the weapon is used to slaughter even inhuman foes. "
+ },
+ {
+   "Name": "Crystal Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Staff",
+   "Lore": "Staff fashioned from pure crystal; a deed impossible for a human. Enhances Crystalian sorceris. \n The Crystalian's faint cognition is know as the \"wisdom of stone. \" This staff can only be weilded by those of intellect high enough to grasp such wisdom. "
+ },
+ {
+   "Name": "Carian Glintstone Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Glintstone+Staff",
+   "Lore": "Staff embedded with a blue glintstone. One of two types of Carian staff. \n Given to sorcerers that they might enact the role of knight. Enhances Carian sword sorceries. "
+ },
+ {
+   "Name": "Gargoyle's Blackblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Blackblade",
+   "Lore": "Bronze greatsword wielded by Valiant Gargoyles mended with blackened corpse wax. Deals holy damage. \n Such is the mark of those who serve Maliketh, the Black Blade. "
+ },
+ {
+   "Name": "Cane Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Cane+Sword",
+   "Lore": "Beloved sword of an aged knight whose last quest was long behind\nhim, repurposed into a walking stick. The tip is rather worn. \n \n Though bent of back and without the brawn required even to\nraise the sword aloft, still he wished to meet his end with weapon\nin hand. "
+ },
+ {
+   "Name": "Caestus",
+   "Link": "https://eldenring.wiki.fextralife.com/Caestus",
+   "Lore": "A weapon built for striking with the fists, made of tough leather inlaid with iron rivets. \n Fist weapons come in pairs, and two-handing this weapon will equip it to both hands. "
+ },
+ {
+   "Name": "Short Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Short+Spear",
+   "Lore": "An exceedingly plain spear of modest weight. \n Simple to wield compared to many of its peers, its strong attack unleashes a series of successive piercing thrusts. "
+ },
+ {
+   "Name": "Beast-Repellent Torch",
+   "Link": "https://eldenring.wiki.fextralife.com/Beast-Repellent+Torch",
+   "Lore": "A torch which burns oil infused with a special incense. The aroma pacifies wild beasts. \n \nTorches such as these were used to keep unwelcome beasts away from treasure troves hidden in caves. "
+ },
+ {
+   "Name": "Nagakiba",
+   "Link": "https://eldenring.wiki.fextralife.com/Nagakiba",
+   "Lore": "Katana with a ferociously long blade. \nSignature weapon of Yura, hunter of Bloody Fingers. \n Reminiscent of a reinforced spear, its imposing length can be put to good use with powerful thrusting attacks. "
+ },
+ {
+   "Name": "Gargoyle's Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Halberd",
+   "Lore": "Bronze halberd wielded by Valiant Gargoyles. \n Just like the wielder, the missing parts have been mended with corpse wax; a patchwork of champions. "
+ },
+ {
+   "Name": "Rotten Crystal Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Crystal+Spear",
+   "Lore": "Spear fashioned from pure crystal; a deed impossible for a human. \nIt festers with scarlet rot. \n\nEnwreathed with powerful magic, its attack scales with intelligence. "
+ },
+ {
+   "Name": "Forked Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Forked+Greatsword",
+   "Lore": "Oddly shaped greatsword wielded by imps. \n The gently undulating forked blade is known as an \"imp's tongue\"     and causes blood loss. "
+ },
+ {
+   "Name": "Dismounter",
+   "Link": "https://eldenring.wiki.fextralife.com/Dismounter",
+   "Lore": "This curved greatsword wielded by the brawny sellswords of Kaiden combines the blades of a scimitar with the heft of a hatchet.   \n A difficult to handle weapon that demands much of the wielder's strength and dexterity, but with practice and ability, it can serve as a versatile weapon even on horseback. "
+ },
+ {
+   "Name": "Dragon Communion Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragon+Communion+Seal",
+   "Lore": "Formless drakeblood seal with a dragon communion crest. \nEnhances Dragon Communion incantations. \n The sacrificial devouring of the heart gives power. \nIndeed, Dragon Communion is too primal in nature for the term\n\"incantation\" to be appropriate. \nThis seal scales incantations with one's arcane attribute. "
+ },
+ {
+   "Name": "Guardian's Swordspear",
+   "Link": "https://eldenring.wiki.fextralife.com/Guardian's+Swordspear",
+   "Lore": "Weapon comprising a long handle and broad blade sharpened from the hard wood of old trees.  \n\nWielded by guardians of the Minor Erdtrees, known as experts in the arts of combat. The power of this weapon scales greatly with dexterity. "
+ },
+ {
+   "Name": "Inquisitor's Girandole",
+   "Link": "https://eldenring.wiki.fextralife.com/Inquisitor's+Girandole",
+   "Lore": "Instrument of torture used on nobles behind the curtain at the \nVolcano Manor of Mt. Gelmir. \n Its numerous spikes pierce the flesh, then singe the wounds with\nflame. The smell of burnt blood induces despair in the victim. A\ncandlestick conveived by a thorough mind. "
+ },
+ {
+   "Name": "Gargoyle's Great Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Great+Axe",
+   "Lore": "Bronze greataxe wielded by Valiant Gargoyles. \n Just like the wielder, the missing parts have been mended with corpse wax; a patchwork of champions. "
+ },
+ {
+   "Name": "Dragon King's Cragblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragon+King's+Cragblade",
+   "Lore": "Piercing Gravel Stone sword containing primeval lightning. \nA portion of the Dragonlord's power, gained from a\nremembrance. \n This weapon commands great power over the paltry, mortal\ndragons of today. "
+ },
+ {
+   "Name": "Vulgar Militia Saw",
+   "Link": "https://eldenring.wiki.fextralife.com/Vulgar+Militia+Saw",
+   "Lore": "A weapon comprised of a saw blade attached to a long grip. Brandished by the vulgar militia, its serrated edge is very effective at inflicting blood loss. The saw is said to also be used to cut up bodies to feed the militia, but there are no firsthand witnesses to confirm the dire rumor. "
+ },
+ {
+   "Name": "Academy Glintstone Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Academy+Glintstone+Staff",
+   "Lore": "Staff of the Academy of Raya Lucaria,\nembedded with a turquoise glintstone. \n Only a recognized sorcerer is permitted to wield this staff. "
+ },
+ {
+   "Name": "Bastard Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Bastard+Sword",
+   "Lore": "A large sword with a straight blade. \nThis heavy sword is normally wielded with two hands, but those with sufficient strength can wield it in one alone. \nThe hefty blade can be swung into multiple foes at once thanks to the broad, sweeping attack, making fending off crowds all the easier. "
+ },
+ {
+   "Name": "Greathorn Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Greathorn+Hammer",
+   "Lore": "Huge thick horn carved with tree ring-like markings adapted into a bludgeoning weapon. Wielded by ancestral follower warriors. \n The ancient horn is imbued with the power of ancestral spirits. A small amount of HP is restored upon defeating an enemy. "
+ },
+ {
+   "Name": "Venomous Fang",
+   "Link": "https://eldenring.wiki.fextralife.com/Venomous+Fang",
+   "Lore": "One of the weapons designed for gladiatorial combat. Used by duelists who were exiled from the colosseum. \n The black fang protruding from the bronze snake head is coated in deadly poison. "
+ },
+ {
+   "Name": "Ghostflame Torch",
+   "Link": "https://eldenring.wiki.fextralife.com/Ghostflame+Torch",
+   "Lore": "Metal torch that burns with cold ghostflame. Tool of the Fallen Hawks who prowl the underground rivers. When the band's last embers were used up in their long search, they began to burn the bones of their fellows, acquiring the cold ghostflame, but sealing their fate as dwellers of the underground for all eternity. "
+ },
+ {
+   "Name": "Pulley Crossbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Pulley+Crossbow",
+   "Lore": "Crossbow made with pulleys and power springs. The complex mechanism, which required advanced mathematical and mechanical understanding to craft, was likely made by a certain genius who learned Golden Order fundamentalism.  \n \n One touch fires a volley of bolts. Be warned; large stores of bolts can be quickly spent. "
+ },
+ {
+   "Name": "Grafted Dragon",
+   "Link": "https://eldenring.wiki.fextralife.com/Grafted+Dragon",
+   "Lore": "The embodiment of the power that still remained in the dragon's head that was granted to Godrick's left arm. \n The wielder's arm will take the form of a small dragon, sprouting sharp dragon fangs at the fist. \nThis weapon cannot be two-handed. "
+ },
+ {
+   "Name": "Erdsteel Dagger",
+   "Link": "https://eldenring.wiki.fextralife.com/Erdsteel+Dagger",
+   "Lore": "An erdsteel dagger with a grass crest engraved upon its blade. Carried by the Erdtree royalty for self-defense in times of peace.   \n Though forged to a high standard, the weapon is difficult to wield.  \nAttack power also scales with faith. "
+ },
+ {
+   "Name": "Sacrificial Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Sacrificial+Axe",
+   "Lore": "Hatchet used in ancient sacrificial rite. A Deathbird is depicted as a malevolent deity. \n The power of the rite yet lingers. A small amount of FP is restored upon slaying a foe. "
+ },
+ {
+   "Name": "Halo Scythe",
+   "Link": "https://eldenring.wiki.fextralife.com/Halo+Scythe",
+   "Lore": "War scythe of the Cleanrot Knights who fought alongside Malenia, Blade of Miquella. \n This was the weapon of commanders in Malenia's army, and the half-halo blade deals holy damage. "
+ },
+ {
+   "Name": "Twinblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Twinblade",
+   "Lore": "A sword with blades on both sides of the hilt. \nThis weapon is difficult to wield, and requires high dexterity. \n Can be wielded with a single hand, but its true strength is enabled \nwith dual-handed spinning attacks. "
+ },
+ {
+   "Name": "Hoslow's Petal Whip",
+   "Link": "https://eldenring.wiki.fextralife.com/Hoslow's+Petal+Whip",
+   "Lore": "Metal whip formed of razor-sharp chain-link blades that have the\nappearance of flower petals. This work of art is handed down\nthough the generations of the illustrious House Hoslow. \nHigh dexterity is required to wield this weapon, \nbut it excels at inflicting devastation"
+ },
+ {
+   "Name": "Godskin Stitcher",
+   "Link": "https://eldenring.wiki.fextralife.com/Godskin+Stitcher",
+   "Lore": "Elegant piercing sword with a celadon colored blade wielded by Godskin Nobles. \n The nobles possess skill with the sword unmatched by any lowborn. Despite its size, successive attacks from this weapon are swifter than the eye can follow. "
+ },
+ {
+   "Name": "Steel-Wire Torch",
+   "Link": "https://eldenring.wiki.fextralife.com/Steel-Wire+Torch",
+   "Lore": "Torch wound with metal wire. The flame can illuminate dark locales, or be used to attack enemies. \n \nHeavier than a normal torch, but the heated filament boosts fire damage dealt. "
+ },
+ {
+   "Name": "Rotten Greataxe",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Greataxe",
+   "Lore": "Greataxe designed for gladiatorial combat, now festering with scarlet rot. \n \nUsed by duelists who were exiled from the colosseum. "
+ },
+ {
+   "Name": "Misbegotten Shortbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Misbegotten+Shortbow",
+   "Lore": "Shortbow wielded by Winged Misbegotten. Fine fur clings to it. \n\nDesigned to inflict additional damage by sacrificing range. "
+ },
+ {
+   "Name": "Albinauric Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Albinauric+Staff",
+   "Lore": "Short staff with a blue glintstone embedded. Wielded by the albinaurics of old. \n The albinaurics harbor a secret; they cast sorcery with their innate arcaneness. "
+ },
+ {
+   "Name": "Lazuli Glintstone Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Lazuli+Glintstone+Sword",
+   "Lore": "A sword with a glintstone in its handguards. Wielded by scholars of the Lazuli Conspectus who seek to master Carian sorcery. Deals magic damage. \n Apparently once used as a staff of sorcery, this sword is made of wood. "
+ },
+ {
+   "Name": "Giant's Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Giant's+Seal",
+   "Lore": "Sacred seal depicting the one eyed god of the Fire Giants, adorned with braids of red hair. \n Sacred seal wielded by Fire Monks and Prelates, this catalyst enhances Giants' Flame incantations. "
+ },
+ {
+   "Name": "Moonveil",
+   "Link": "https://eldenring.wiki.fextralife.com/Moonveil",
+   "Lore": "Katana forged of glintstone. \nMasterpiece of a Sellian swordsmith.   \n Light enwreathes the blade when sheathed, explaining its Moonveil moniker. "
+ },
+ {
+   "Name": "Watchdog's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Watchdog's+Greatsword",
+   "Lore": "Stone greatsword wielded by Erdtree Burial Watchdogs. \n Though decorated with the watchman's eye, the pupil was taken by graverobbers and is now hollow, leaving this sword a mere lump of stone. "
+ },
+ {
+   "Name": "Golden Order Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Order+Seal",
+   "Lore": "A formless sacred seal depicting the ceremonial observation of Order. Enhances Golden Fundamentalist incantations.   \n Fundamentalism is scholarship in all but name. Scales incantation using both intelligence and faith. "
+ },
+ {
+   "Name": "Partisan",
+   "Link": "https://eldenring.wiki.fextralife.com/Partisan",
+   "Lore": "Spear with a wide tip. \n In addition to its thrusting attacks, this highly versatile weapon can be swung to sweep through foes. "
+ },
+ {
+   "Name": "Lance",
+   "Link": "https://eldenring.wiki.fextralife.com/Lance",
+   "Lore": "Considered a type of greatspear, this weapon has no blade, but instead features a long, conical body designed to pierce. \nThough heavy and hard to wield, this weapon displays its worth in horseback combat whether mounted or even on foot. "
+ },
+ {
+   "Name": "Icerind Hatchet",
+   "Link": "https://eldenring.wiki.fextralife.com/Icerind+Hatchet",
+   "Lore": "A hatchet with a frost-coated blade. One of several gifts given by\nCastle Sol in the distant north. \n Known as \"freezing fog,\" the blade is thought to be a dragon's\nscale. Inflicts a powerful frost effect. "
+ },
+ {
+   "Name": "Hand of Malenia",
+   "Link": "https://eldenring.wiki.fextralife.com/Hand+of+Malenia",
+   "Lore": "Blade built into Malenia's prosthetic arm. \nThrough consecration it is resistant to rot. \n Malenia's war prosthesis symbolized her victories. \nSome claim to have seen wings when the weapon was raised aloft;\nwings of fierce determination that have never known defeat. "
+ },
+ {
+   "Name": "Bloody Helice",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloody+Helice",
+   "Lore": "Ominous piercing sword with a winding blade. Carried by the noble servants of the Lord of Blood. \n Designed to bore into flesh, causing severe blood loss at the wound. The extracted blood trickles gracefully down the length of the blade. "
+ },
+ {
+   "Name": "Marika's Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Marika's+Hammer",
+   "Lore": "Stone hammer made in the lands of the Numen, outside the Lands Between. The tool with which Queen Marika shattered the Elden Ring and Radagon attempted to repair it. \n The hammer partially broke upon shattering the Ring, becoming splintered with rune fragments. "
+ },
+ {
+   "Name": "Erdtree Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Erdtree+Seal",
+   "Lore": "A formless sacred seal decorated with an Erdtree crest, once the focus of religion in the Lands Between. \n\nEven though the Elden Ring is shattered, and the Erdtree has dulled from its former radiance, earnest faith continues to hold the answers. "
+ },
+ {
+   "Name": "Axe of Godfrey",
+   "Link": "https://eldenring.wiki.fextralife.com/Axe+of+Godfrey",
+   "Lore": "Weapon of Godfrey, Elden Lord. It was broken in a battle fought as leader of the Tarnished during the Long March. This weapon is symbolic of Godfrey's vow to conduct himself as a lord, later becoming an emblem of the golden lineage. In the days of the past, a crown was warranted with strength. "
+ },
+ {
+   "Name": "Serpent-God's Curved Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Serpent-God's+Curved+Sword",
+   "Lore": "Curved sword fashioned in the image of an ancient serpent deity\nand tool of a forgotten religion practiced on Mt. Gelmir. \n Formerly used to offer up sacrifices, this sword restores HP upon\nslaying an enemy. "
+ },
+ {
+   "Name": "Ripple Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Ripple+Blade",
+   "Lore": "Unique weapon wielded by young Albinaurics, this sword is\nmodelled after the ripples that are thought to be the origin of their\nspecies. \n Its attack power is greatly enhanced with one's arcane attribute. "
+ },
+ {
+   "Name": "Inseparable Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Inseparable+Sword",
+   "Lore": "Sword forged by compounding silver and gold. \nA sacred weapon to hunt Those Who Live in Death. \nDeals holy damage. \n The inseparable twins found solace in the Golden Order,\nthe only institution not to revile them as accursed beings. "
+ },
+ {
+   "Name": "Cleanrot Knight's Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Cleanrot+Knight's+Sword",
+   "Lore": "Piercing sword of the Cleanrot Knights who fought alongside\nMalenia, Blade of Miquella. \n Mainly used as a backup weapon, in combination with a long-\nhandled armament. "
+ },
+ {
+   "Name": "Ordovis's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Ordovis's+Greatsword",
+   "Lore": "Greatsword of Ordovis, one of the two honored as foremost\namong the Crucible Knights. \n This sword is imbued with an ancient holy essence. \nIts red tint exemplifies the nature of primordial gold, said to be\nclose in nature to life itself. "
+ },
+ {
+   "Name": "Battle Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Battle+Hammer",
+   "Lore": "Large iron great hammer designed for gladiatorial combat. Used by duelists who were exiled from the colosseum. \n Weighty enough to crush armor and its wearer alike. "
+ },
+ {
+   "Name": "Brick Hammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Brick+Hammer",
+   "Lore": "Weapon made from an ordinary stone brick. Wielded by a laborer who lead a rebellion, and later become a champion himself. \n Even among other bludgeons of its size, this weapon is especially weighty. The strength of a giant is required to wield it. "
+ },
+ {
+   "Name": "Nightrider Glaive",
+   "Link": "https://eldenring.wiki.fextralife.com/Nightrider+Glaive",
+   "Lore": "A jet-black glaive with a blade as weighty as a bludgeon. Weapon of the Night's Cavalry who ride funeral seeds.   \n This glaive excels at weighty slash attacks that crash into foes, making it a powerful weapon even on horse back. "
+ },
+ {
+   "Name": "Noble's Slender Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Noble's+Slender+Sword",
+   "Lore": "Dex C"
+ },
+ {
+   "Name": "Black Knife",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Knife",
+   "Lore": "Dagger once belonging to one of the assassins who murdered Godwyn the Golden on the Night of the Black Knives.   \n A ritual performed on the oddly misshapen blade imbued it with the power of the stolen Rune of Death. "
+ },
+ {
+   "Name": "Spiked Caestus",
+   "Link": "https://eldenring.wiki.fextralife.com/Spiked+Caestus",
+   "Lore": "A Caestus with the rivets replaced by blood loss-inducing spikes. \n Fists weapons come in pairs, and two-handing this weapon will it to both hands. "
+ },
+ {
+   "Name": "Miquellan Knight's Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Miquellan+Knight's+Sword",
+   "Lore": "Sword forged by servants of Miquella of the Haligtree, with a design modeled after those carried by Carian knights. Instead of glintstone however, amber from the Haligtree is embedded in the blade. \nA sumptuous piece, yet it has never been offered to any knight — an ill-starred sword with no master. Skill: Sacred Blade"
+ },
+ {
+   "Name": "Albinauric Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Albinauric+Bow",
+   "Lore": "Longbow featuring delicate silverwork. Wielded by Albinauric wolfback archers. \n This bow requires dexterity over strength to master. "
+ },
+ {
+   "Name": "Great Mace",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Mace",
+   "Lore": "Huge bludgeon with sharp protrusions. An enlarged version of its smaller cousin. \n Maintains all the advantages of smaller bludgeons, boasting few deficiencies while being very capable at breaking enemy guards and stances. A shrewd choice for simple slugging matches. "
+ },
+ {
+   "Name": "Arbalest",
+   "Link": "https://eldenring.wiki.fextralife.com/Arbalest",
+   "Lore": "Large crossbow made from composite materials. One of the largest of all bolt firing devices. \n Its limbs are more pliable than metallic ones, allowing bolts fired from this weapon to pierce even forged of steel. "
+ },
+ {
+   "Name": "Curved Great Club",
+   "Link": "https://eldenring.wiki.fextralife.com/Curved+Great+Club",
+   "Lore": "Large curved club of hard wood, shaped like a crescent moon. \n Wielded by Albinaurics lacking the dexterity demanded by a curved sword, and who prefer the added weight and destructive force. "
+ },
+ {
+   "Name": "Bastard's Stars",
+   "Link": "https://eldenring.wiki.fextralife.com/Bastard's+Stars",
+   "Lore": "Flail which deals magic damage, having been imbued with power\nby the remembrance of Astel. \n Formed of the same many-colored star debris that comprised the\nform of the Naturalborn of the Void. "
+ },
+ {
+   "Name": "Commander's Standard",
+   "Link": "https://eldenring.wiki.fextralife.com/Commander's+Standard",
+   "Lore": "A beaten red battle standard is furled around this time-worn\nhalberd. \n Even after his lord was fled, Commander O'Neil continued to\nbrandish this flag in the devastation of the rot-eaten field of battle,\nthe sole veteran who remembers this battle with pride. "
+ },
+ {
+   "Name": "Ornamental Straight Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Ornamental+Straight+Sword",
+   "Lore": "Slender straight sword patterned after an antique ornament. \nSuperior swordsmen prefer to wield one in each hand. \n After falling from grace, the dregs of the golden lineage sought power and purpose in the past. "
+ },
+ {
+   "Name": "Longhaft Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Longhaft+Axe",
+   "Lore": "Large iron axe with a long handle. Weapon of the maltreated Misbegotten. \n Making use of the force generated by its length, this weapon's resentment-charged blows are difficult to stop. "
+ },
+ {
+   "Name": "Serpent Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Serpent+Bow",
+   "Lore": "Malformed bow in the shape of a pair of poisonous snakes. Imbues arrows with poison through pagan magic, revealing its true worth when used with poison-infused arrows. \nUsed by assassins known as the Formless Serpents. "
+ },
+ {
+   "Name": "Zweihander",
+   "Link": "https://eldenring.wiki.fextralife.com/Zweihander",
+   "Lore": "Just about the largest sword a mere man is capable of swinging. True to its name, it is designed to be wielded in both hands, but those of merely ordinary strength will still struggle to do so. \n\nThe long blade is heavy and sharp, sending foes reeling back with its broader strokes, while also capable of a devastating piercing thrust. "
+ },
+ {
+   "Name": "Rosus' Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Rosus'+Axe",
+   "Lore": "Usher of Death, Rosus, who shows the path to the catacombs throughout the Lands Between, is depicted on this ritual axe. \n The dead easily lose their way, and have always been in sore need of a guiding hand. "
+ },
+ {
+   "Name": "Beastclaw Greathammer",
+   "Link": "https://eldenring.wiki.fextralife.com/Beastclaw+Greathammer",
+   "Lore": "Greathammer with a striking end modelled to resemble five beastly claws. \n The black nails protruding from golden fur are said to represent Serosh, Lord of Beasts, who went to become King Godfrey's Regent. "
+ },
+ {
+   "Name": "Golden Halberd",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Halberd",
+   "Lore": "Weighty halberd forged of gold. Wielded by the Order of Tree Sentinels, heavily equipped knights.  \nDeals holy damage. \n A masterfully crafted weapon that lives up to its heft, but is difficult for one mere human strength to wield. "
+ },
+ {
+   "Name": "Star Fist",
+   "Link": "https://eldenring.wiki.fextralife.com/Star+Fist",
+   "Lore": "Spherical iron manifer covered in spikes which induce blood loss.   \n Used in brutal games of pugilism. "
+ },
+ {
+   "Name": "Golem Greatbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Golem+Greatbow",
+   "Lore": "Greatbow of black stone crafted by a civilization now gone to\nruin. Weapon of the Guardian Golem. \n\nExtremely heavy, this greatbow requires enormous strength just to\ndraw, suggesting it was not designed for human use. "
+ },
+ {
+   "Name": "Gravel Stone Seal",
+   "Link": "https://eldenring.wiki.fextralife.com/Gravel+Stone+Seal",
+   "Lore": "Sacred seal made from Gravel Stone thought to be an ancient dragon scale. Enhances Dragon Cult incantations of the Royal Capital. \n The worship of the ancient dragons does not conflict with belief in the Erdtree. After all, this seal, and lightning itself, are both imbued with gold. "
+ },
+ {
+   "Name": "Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Spear",
+   "Lore": "Weapon comprised of a blade attached to a long haft. \n A far-reaching piercing weapon, it can be wielded from behind the safety of a raised shield. Very effective against mounted foes. "
+ },
+ {
+   "Name": "Raptor Talons",
+   "Link": "https://eldenring.wiki.fextralife.com/Raptor+Talons",
+   "Lore": "Claw comprised of two sharp, thin blades, wielded by the assassins of Ravenmount, this weapon allows them to imitate the attacks of Deathbirds. \n Besides excelling at airborne attacks, its charge attack mimics the vicious swoop of a bird of prey. "
+ },
+ {
+   "Name": "Soldier's Crossbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Soldier's+Crossbow",
+   "Lore": "A crossbow of simple make, usable by anyone, but lacking in both\npower and accuracy. \n Bolts must be equipped to use a crossbow. "
+ },
+ {
+   "Name": "Troll Knight's Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Troll+Knight's+Sword",
+   "Lore": "Greatsword embedded with a blue glintstone. \nWeapon of the trolls in service to the royal family of Caria. \n Called into service when the Queen invoked an oath they swore, \nthe trolls are treated as true knights of Caria, and fight arm in arm with their human comrades. "
+ },
+ {
+   "Name": "Godslayer's Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Godslayer's+Greatsword",
+   "Lore": "Sacred sword of the Gloam-Eyed Queen who controlled the\nGodskin Apostles before her defeat at the hands of Maliketh. \n The black flames wielded by the apostles are channeled from this\nsword. "
+ },
+ {
+   "Name": "Chainlink Flail",
+   "Link": "https://eldenring.wiki.fextralife.com/Chainlink+Flail",
+   "Lore": "A spiked iron tube attached by a chain wielded by Mad Pumpkin Heads. \n Especially large for a flail, wielding it requires more strength than it does dexterity. "
+ },
+ {
+   "Name": "Carian Knight's Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Knight's+Sword",
+   "Lore": "Straight sword embedded with a blue glintstone.  \nWeapon of knights sworn to Carian royalty. \n These knights' swords could serve as catalysts, letting them wield sorcerous battle skills. Despite numbering fewer than twenty, this power made them a match for even the champions of gold in battle. "
+ },
+ {
+   "Name": "Sacred Relic Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Sacred+Relic+Sword",
+   "Lore": "Sword wrought from the remains of a god who should have lived a life eternal. \n \n Thoughts on what the weapon portends are many and varied. Some consider it the mark of a great sin, or a sign of great devastation. Some think of it as the end of an age, while others; the beginning. "
+ },
+ {
+   "Name": "Rivers of Blood",
+   "Link": "https://eldenring.wiki.fextralife.com/Rivers+of+Blood",
+   "Lore": "Weapon of Okina, swordsman from the Land of Reeds. \nA cursed weapon that has felled countless men. \n \n When Mohg, the Lord of Blood, first felt Okina's sword, and madness, \nupon his flesh, he had a proposal, to offer Okina the life of a demon, whose thirst would never go unsated. "
+ },
+ {
+   "Name": "Torchpole",
+   "Link": "https://eldenring.wiki.fextralife.com/Torchpole",
+   "Lore": "Torch fastened to a long pole. Lights up dark areas, but cannot be\nraised overhead. \n Used by soldiers on watch, its attacks set foes aflame. "
+ },
+ {
+   "Name": "Gargoyle's Black Axe",
+   "Link": "https://eldenring.wiki.fextralife.com/Gargoyle's+Black+Axe",
+   "Lore": "Bronze greataxe wielded by Valiant Gargoyles, mended with blackened corpse wax. \nDeals holy damage. \n Such is the mark of those who serve Maliketh, the Black Blade. "
+ },
+ {
+   "Name": "Grave Scythe",
+   "Link": "https://eldenring.wiki.fextralife.com/Grave+Scythe",
+   "Lore": "Dex D"
+ },
+ {
+   "Name": "Celebrant's Skull",
+   "Link": "https://eldenring.wiki.fextralife.com/Celebrant's+Skull",
+   "Lore": "Large bludgeon ecorated with flowers and many-colored fabrics. \nCeremonial tool used by dancers during the festivities of Dominula, Windmill Village. \n The striking end is a skull too large in size to be human. \nGrants trace amounts of runes on landing attacks. "
+ },
+ {
+   "Name": "Starscourge Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Starscourge+Greatsword",
+   "Lore": "Curved greatswords of black steel wielded by General Radahn. A pair of weapons decorated with a lion mane motif. \n Radahn earned considerable renown as the Starscourge in this youth, and it is said that it was during this time he engraved the gravity crest up these blades. "
+ },
+ {
+   "Name": "Staff of the Guilty",
+   "Link": "https://eldenring.wiki.fextralife.com/Staff+of+the+Guilty",
+   "Lore": "A heretical staff fashioned from a smoldering, withered sapling that turns the blood of sacrifices pierced by it into glintstone. Similar to hex magic. \n Sorceries are scaled with faith rather than intelligence when wielding this staff which enhances Thorn sorceries in particular. "
+ },
+ {
+   "Name": "Longsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Longsword",
+   "Lore": "A straight sword with a double-edged blade. \nIn addition to its easily-inflicted standard damage, this well- \nbalanced weapon can also perform powerful piercing attacks. "
+ },
+ {
+   "Name": "Beastman's Curved Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Beastman's+Curved+Sword",
+   "Lore": "Curved sword forged of dull iron wielded by the beastmen of Farum Azula. \n The blade is heavy but well-balanced. Comparatively easy to wield for the damage it delivers. "
+ },
+ {
+   "Name": "Frozen Needle",
+   "Link": "https://eldenring.wiki.fextralife.com/Frozen+Needle",
+   "Lore": "A razor-thin piercing blade of ice. \nForged by Ijii, the carian Royal Blackmith. \n Can inflict frost upon enemies, and launch its blade with a strong attack.   The blade immediately regenerates. "
+ },
+ {
+   "Name": "Hookclaws",
+   "Link": "https://eldenring.wiki.fextralife.com/Hookclaws",
+   "Lore": "Weapon worn on the fist comprised of sharp parallel blades favored by those who lurk in the dark. Lacerations cause blood loss with great effect.   \n Claw weapons come in pairs, and two-handing this weapon will equip it to both hands. "
+ },
+ {
+   "Name": "Morgott's Cursed Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Morgott's+Cursed+Sword",
+   "Lore": "Warped blade of shifting hue used by Morgott, the Omen King.   \n The accused blood that Morgott recanted and sealed away reformed into this blade. "
+ },
+ {
+   "Name": "Regalia of Eochaid",
+   "Link": "https://eldenring.wiki.fextralife.com/Regalia+of+Eochaid",
+   "Lore": "Treasured sword of Eochaid, a lesser, long-vanished domain. The copper coloration is not to be confused for rust, but is a conduit for its wielder to move it by their will alone.   \n Swords of Eochaid dance through the skies"
+ },
+ {
+   "Name": "Wing of Astel",
+   "Link": "https://eldenring.wiki.fextralife.com/Wing+of+Astel",
+   "Lore": "Sword fashioned from a delicate wing, suffused with the magic of\nthe stars. \nStrong attack unleashes a wave of enchanted light. \n Crafted from a relic of the Naturalborn of the Void who is said to\nhave assailed the Eternal City. "
+ },
+ {
+   "Name": "Beastman's Cleaver",
+   "Link": "https://eldenring.wiki.fextralife.com/Beastman's+Cleaver",
+   "Lore": "Curved greatsword of colossal size forged of dull iron and wielded by the beastmen of Farum Azula. \n\nThe blade is incredibly heavy, but well-balanced. Comparatively easy to wield for the damage it delivers. It's clear the beastmen possess knowledge beyond human ken. "
+ },
+ {
+   "Name": "Great Épée",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+epee",
+   "Lore": "Large rapier featuring a thin, sharp blade.  \nCommonly used in life or death duels. \n\nLike its smaller counterparts, its made for thrusting attacks, and can be used while guarding with a shield. "
+ },
+ {
+   "Name": "Celebrant's Rib-Rake",
+   "Link": "https://eldenring.wiki.fextralife.com/Celebrant's+Rib-Rake",
+   "Lore": "Rake decorated with many-colored fabrics. Ceremonial tool used by dancers during the festivities of Dominula, Windmill Village. \n Crafted from human bone. \nGrants trace amounts of runes upon landing attacks. "
+ },
+ {
+   "Name": "Demi-Human Queen's Staff",
+   "Link": "https://eldenring.wiki.fextralife.com/Demi-Human+Queen's+Staff",
+   "Lore": "Glintstone staff styled as a scepter. A gift once given to the demi-humans to foster peace, it can be wielded even by those of low intelligence. \n \nSneered at by fools in the academy. "
+ },
+ {
+   "Name": "Maliketh's Black Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Maliketh's+Black+Blade",
+   "Lore": "Maliketh's black blade which once harbored the power of the\nRune of Death. A sad shadow of its former glory. \n After a fragment of Death was stolen on that fateful night,\nMaliketh bound the blade within his own flesh, such that none\nmight ever rob Death again. "
+ },
+ {
+   "Name": "Heavy Crossbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Heavy+Crossbow",
+   "Lore": "Heavy crossbow with iron limbs, increasing damage dealt. \n Commonly employed in the Shattering. "
+ },
+ {
+   "Name": "Lordsworn's Straight Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Lordsworn's+Straight+Sword",
+   "Lore": "Well-crafted straight sword with an illustrious design, wielded by regulars of a lord's army. \n Though blackened and damaged by years of use, it appears to have otherwise been kept in a servicable condition, despite the soldiers having long since lost their minds. "
+ },
+ {
+   "Name": "Composite Bow",
+   "Link": "https://eldenring.wiki.fextralife.com/Composite+Bow",
+   "Lore": "Bow composited from a mix of Materials.   \n Demands high attributes, and is tricky to wield, but is a fearsome tool when mastered. "
+ },
+ {
+   "Name": "Scepter of the All-Knowing",
+   "Link": "https://eldenring.wiki.fextralife.com/Scepter+of+the+All-Knowing",
+   "Lore": "Scepter in the form of a hand grasping a pearl. Signature weapon\nof Sir Gideon Ofnir, the All-Knowing. The pearl stands for the\nworld, the heavens, and an eye, representing the many forms of\nknowledge, never fully attainable. Even knowing that, the All-\nKnowing's hand grasps for it. "
+ },
+ {
+   "Name": "Urumi",
+   "Link": "https://eldenring.wiki.fextralife.com/Urumi",
+   "Lore": "This weapon made of extremely thin, flexible blades of metal is wielded like a whip by Nightfolk warriors. \n Though in essence a whip with a cutting edge, it can also be used as a spear to pierce foes. "
+ },
+ {
+   "Name": "Katar",
+   "Link": "https://eldenring.wiki.fextralife.com/Katar",
+   "Lore": "Imported dagger design with a rather unique handle. The blade can be swung about as the extension of one's fist. "
+ },
+ {
+   "Name": "Dark Moon Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword",
+   "Lore": "A Moon Greatsword, bestowed by a Carian queen upon her\nspouse to honor long-standing tradition. \nOne of the legendary armaments. \n Ranni's sigil is a full moon, cold and leaden, and this sword is but a beam of its light. "
+ },
+ {
+   "Name": "Sword of St Trina",
+   "Link": "https://eldenring.wiki.fextralife.com/Sword+of+St.+Trina",
+   "Lore": "Silver sword carried by clerics of St. Trina. Inflicts sleep ailment upon foes. \nSt. Trina is an enigmatic figure. Some say she is a comely young girl, others are sure he is a boy. The only certainty is that their appearance was as sudden as their disappearance. "
+ },
+ {
+   "Name": "Spiked Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Spiked+Spear",
+   "Lore": "Dex D"
+ },
+ {
+   "Name": "Varré's Bouquet",
+   "Link": "https://eldenring.wiki.fextralife.com/Varre's+Bouquet",
+   "Lore": "A steel mace resembling a charming bouquet of roses. Each petal has a sharpened edge, leaving the roses perpetually colored with blood. \n \n This weapon reflects White Mask Varré's manner of speech rather well, enticing in its splendor, but full of deadly consequence. "
+ },
+ {
+   "Name": "Morning Star",
+   "Link": "https://eldenring.wiki.fextralife.com/Morning+Star",
+   "Lore": "Warhammer comprised of a globe attached to a handle. Though a bludgeon dealing strike damage, the appellative star covered. in spikes which cause blood loss. \n\nIronic given its grace name, this weapon often reeks of blood. "
+ },
+ {
+   "Name": "Staff of Loss",
+   "Link": "https://eldenring.wiki.fextralife.com/Staff+of+Loss",
+   "Lore": "Staff missing its glintstone. Wielded by sorcerers who believe that discovery comes through acts of asceticism. \n This staff only distinguishes itself when casting invisibility sorceries, but that is reason enough for some to wield it. "
+ },
+ {
+   "Name": "Devourer's Scepter",
+   "Link": "https://eldenring.wiki.fextralife.com/Devourer's+Scepter",
+   "Lore": "Scepter in the shape of a serpent devouring the world. This\nweapon will one day become the very symbol of the Lord of \nBlasphemy. \nOne of the legendary armaments. \n A vision of the future briefly seen by Rykard in his final moments\nbefore being devoured by the great serpent. "
+ },
+ {
+   "Name": "Torch",
+   "Link": "https://eldenring.wiki.fextralife.com/Torch",
+   "Lore": "This torch's tip is wrapped in oil-soaked rags and set on fire. \nThe flame can illuminate dark locales, or used to attack enemies. \nCan be raised up when equipped in the left hand, illuminating more of the surrounding area. "
+ },
+ {
+   "Name": "Zamor Curved Sword",
+   "Link": "https://eldenring.wiki.fextralife.com/Zamor+Curved+Sword",
+   "Lore": "Weapon wielded by the knights of Zamor who earned great\nrenown during the War against the Giants. \n In apparent devotion to winter, the curved blade is styled after an\nicy wind and imbued with a powerful frost effect. "
+ }
+]
+}
