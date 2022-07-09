@@ -1,23 +1,42 @@
-import logo from './logo.svg';
 import './App.css';
+import lunr from 'lunr'
+import { useState } from 'react'
+
+// JSON Imports
+import ammunitionJSON from './JSON Data/ammunition.json'
+
+// Components Imports
+import SearchBar from './Components/SearchBar'
+import Results from './Components/Results'
 
 function App() {
+
+  const [results, setResults] = useState([])
+  var lunrResult = []
+
+  const performSearch = (term) => {
+    var idx = lunr(function () {
+      this.ref('Name')
+      this.field('Link')
+      this.field('Lore')
+    
+      ammunitionJSON.forEach(function (doc) {
+        this.add(doc)
+      }, this)
+    })
+
+    lunrResult = idx.search(term)
+    setResults(lunrResult)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container'>
+      {<SearchBar onSearch={performSearch}/>}
+      {results === [] ? (
+        'No Results'
+        ) : (
+          <Results results={results}/>
+      )}
     </div>
   );
 }

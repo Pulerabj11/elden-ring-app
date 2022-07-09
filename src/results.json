@@ -1,0 +1,134 @@
+[
+    {
+        "ref": "Sleepbone Bolt",
+        "score": 1.79,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Bloodbone Arrow",
+        "score": 1.735,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Magicbone Arrow",
+        "score": 1.684,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Haligbone Bolt",
+        "score": 1.684,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Haligbone Arrow",
+        "score": 1.684,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Magicbone Bolt",
+        "score": 1.684,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Sleepbone Arrow",
+        "score": 1.635,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Bloodbone Bolt",
+        "score": 1.635,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Bloodbone Arrow (Fletched)",
+        "score": 1.59,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Haligbone Arrow (Fletched)",
+        "score": 1.467,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Magicbone Arrow (Fletched)",
+        "score": 1.467,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Sleepbone Arrow (Fletched)",
+        "score": 1.33,
+        "matchData": {
+            "metadata": {
+                "tinctur": {
+                    "Lore": {}
+                }
+            }
+        }
+    }
+]

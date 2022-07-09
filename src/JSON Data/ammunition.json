@@ -1,5 +1,4 @@
-{
-  "Ammunition": [
+[
  {
    "Name": "Bolt",
    "Link": "https://eldenring.wiki.fextralife.com/Bolt",
@@ -311,4 +310,3 @@
    "Lore": "Bolt carved from animal bone. The tip is daubed with venom. Afflicts targets with poison. \nCraftable item. "
  }
 ]
-}
