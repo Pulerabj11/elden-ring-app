@@ -1,0 +1,46 @@
+[
+    {
+        "ref": "Bloodbone Arrow",
+        "score": 3.806,
+        "matchData": {
+            "metadata": {
+                "blood": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Bloodbone Bolt",
+        "score": 3.656,
+        "matchData": {
+            "metadata": {
+                "blood": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Bloodbone Arrow (Fletched)",
+        "score": 2.594,
+        "matchData": {
+            "metadata": {
+                "blood": {
+                    "Lore": {}
+                }
+            }
+        }
+    },
+    {
+        "ref": "Burred Bolt",
+        "score": 2.276,
+        "matchData": {
+            "metadata": {
+                "blood": {
+                    "Lore": {}
+                }
+            }
+        }
+    }
+]
