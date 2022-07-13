@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+service-key.json
+json-to-firestore.js
+config.js

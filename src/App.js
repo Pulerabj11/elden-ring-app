@@ -15,7 +15,7 @@ function App() {
 
   var lunrResult = []
 
-  var idx = lunr(function () {
+  var index = lunr(function () {
     this.ref('Name')
     this.field('Link')
     this.field('Lore')
@@ -26,7 +26,7 @@ function App() {
   })
 
   const performSearch = (term) => {
-    lunrResult = idx.search(term)
+    lunrResult = index.search(term)
     setResults(lunrResult)
   }
 

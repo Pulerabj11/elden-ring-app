@@ -1,10 +1,12 @@
 const Results = ({results}) => {
-    // var data = results[0]
-    // var data2 = JSON.parse(data)
-    // var data3 = data2.ref
+    var itemNames = []
+    for (var i in results) {
+        itemNames.push(results[i]['ref'])
+    }
+    console.log(itemNames)
     return (
         <div>
-            {JSON.stringify(results)}
+            
         </div>
     )
 }
