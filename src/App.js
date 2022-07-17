@@ -1,5 +1,4 @@
 import './App.css'
-import { useState, useEffect } from 'react';
 // Components Imports
 import SearchBar from './Components/SearchBar'
 

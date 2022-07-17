@@ -8,6 +8,7 @@ import ammunitionJSON from '../JSON Data/ammunition.json'
 import Results from './Results'
 
 const SearchBar = () => {
+
     const [term, setTerm] = useState('')
     // State control to hold search results produced by lunr
     const [results, setResults] = useState([])
@@ -28,6 +29,7 @@ const SearchBar = () => {
             this.field('Link')
             this.field('Lore')
 
+
             ammunitionJSON.forEach(function (doc) {
                 this.add(doc)
             }, this)
@@ -38,12 +40,12 @@ const SearchBar = () => {
     }
 
     return (
-        <div>
+        <div className='search-header'>
             <form className='search-bar' onSubmit={onSubmit}>
                 {/*Search Bar*/}
                 <div className='form-control'>
                     <input
-                        type='search'
+                        type='Search'
                         placeholder='Enter a term'
                         value={term}
                         onChange={(e) => setTerm(e.target.value)}
