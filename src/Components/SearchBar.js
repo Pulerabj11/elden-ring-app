@@ -1,15 +1,18 @@
 import { useState } from 'react'
+import uuid from 'react-uuid'
 import lunr from 'lunr'
 
 // JSON Imports
-import ammunitionJSON from '../JSON Data/ammunition.json'
+import eldenRingDataJSON from '../JSON Data/eldenRingData.json'
 
 // Component Imports
 import Results from './Results'
 
 const SearchBar = () => {
 
+
     const [term, setTerm] = useState('')
+
     // State control to hold search results produced by lunr
     const [results, setResults] = useState([])
 
@@ -23,20 +26,48 @@ const SearchBar = () => {
             return
         }
 
-        // Create lunr index of my JSON data
-        const index = lunr(function () {
-            this.ref('Name')
-            this.field('Link')
-            this.field('Lore')
+        var tempResults = []
+        var tempTypes = []
 
+        // Get keys of data, ie. Ammunition, Armor, ..., Tools
+        var keys = Object.keys(eldenRingDataJSON)
 
-            ammunitionJSON.forEach(function (doc) {
-                this.add(doc)
-            }, this)
-        })
+        for (var i = 0; i < keys.length; i++) {
+            // Create lunr index of my JSON data
+            const index = lunr(function () {
 
-        var lunrResult = index.search(term)
-        setResults(lunrResult)
+                // Set fields for search indexing
+                this.ref('Name')
+                this.field('Link')
+                this.field('Lore')
+
+                // Get JSON object from data
+                var key = eldenRingDataJSON[keys[i]]
+                console.log('Type: ' + keys[i])
+
+                // Loop through JSON data and add items to lunr search index
+                key.forEach(function (doc) {
+                    this.add(doc)
+                }, this)
+            })
+
+            // Find relevant data from lunrResult and build arrays
+            var lunrResult = index.search(term)
+
+            if (lunrResult.length !== 0) {
+                tempResults.push(lunrResult)
+                tempTypes.push(keys[i])
+            }
+        }
+
+        // Add type property to each item in tempResults JSON objects
+        for (var x=0; x<tempResults.length; x++) {
+            for (var y=0; y<tempResults[x].length; y++) {
+                tempResults[x][y].type = tempTypes[x]
+            }
+        }
+
+        setResults(tempResults)
     }
 
     return (
@@ -58,13 +89,16 @@ const SearchBar = () => {
                     />
                 </div>
             </form>
-            {results === [] ? (
-                'No Results'
-            ) : (
-                <Results results={results} />
-            )}
+            <div>
+                {results === [] ? (
+                    'No Results'
+                ) : (
+                    results.map((result) => (
+
+                    <Results key={uuid()} result={result}/>
+                )))}
+            </div>
         </div>
     )
-
 }
 export default SearchBar
