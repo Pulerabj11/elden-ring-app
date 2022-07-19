@@ -6,16 +6,11 @@ import uuid from 'react-uuid'
 import eldenRingDataJSON from '../JSON Data/eldenRingData.json'
 
 // Gets item names from lunr results and checks them against my JSON data. Then call onAdd={addTask}
-const Results = ({ result }) => {
+const Results = ({result}) => {
     var items = []
 
-    console.log(result)
-    console.log(eldenRingDataJSON)
     // Get keys of data, ie. Ammunition, Armor, ..., Tools
     var keys = Object.keys(eldenRingDataJSON)
-
-    console.log(eldenRingDataJSON[keys[0]][0]['Name'])
-    console.log(result[0]['ref'])
 
     for (var x = 0; x < Object.keys(result).length; x++) {
         for (var y = 0; y < keys.length; y++) {
@@ -30,7 +25,7 @@ const Results = ({ result }) => {
 
     console.log(items)
     return (
-        <div>
+        <div className='results-category'>
             {items.map((item) => (
                 <Item key={uuid()} item={item} />
             ))}

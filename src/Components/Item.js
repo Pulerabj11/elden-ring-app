@@ -5,18 +5,17 @@ const Item = ({ item }) => {
 
     const [toggle, setToggle] = useState(true)
 
-    const itemInfo = (<div>{item.Lore}</div>)
+    const itemInfo = (<div><div className='line'></div><div className='item-lore'>{item.Lore}</div></div>)
 
     return (
             <div className='item'>
-                <div>
-                    <a href={item.Link}>{item.Name}</a>
-                    <button onClick={() => setToggle(!toggle)}>
-                        click me
+                <div className='item-header'>
+                    <a className='item-header-title' target='_blank' href={item.Link}>{item.Name}</a>
+                    <button className='toggle-button' onClick={() => setToggle(!toggle)}>
+                        {toggle ? <span>-</span> : <span>+</span>}
                     </button>
                 </div>
                 {toggle && itemInfo}
-                <br></br>
             </div>
     )
 }
