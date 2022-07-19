@@ -10,11 +10,23 @@ import Results from './Results'
 
 const SearchBar = () => {
 
-
+    // Hold the search term
     const [term, setTerm] = useState('')
 
-    // State control to hold search results produced by lunr
+    // Hold search results produced by lunr
     const [results, setResults] = useState([])
+
+    // Clean search input so it searches for the entire input exactly
+    // Lunr expressions: + means the term must be present.  ~0 means it must be the exact word
+    function modifyTerm(searchInput) {
+        var text = searchInput
+        text = text.trim()
+        text = '+' + text
+        text = text + '~0'
+        text = text.replace(/ /g, '~0 +');
+
+        return text
+    }
 
     const onSubmit = (e) => {
 
@@ -43,7 +55,6 @@ const SearchBar = () => {
 
                 // Get JSON object from data
                 var key = eldenRingDataJSON[keys[i]]
-                console.log('Type: ' + keys[i])
 
                 // Loop through JSON data and add items to lunr search index
                 key.forEach(function (doc) {
@@ -51,8 +62,10 @@ const SearchBar = () => {
                 }, this)
             })
 
+            var searchTerm = modifyTerm(term)
+
             // Find relevant data from lunrResult and build arrays
-            var lunrResult = index.search(term)
+            var lunrResult = index.search(searchTerm)
 
             if (lunrResult.length !== 0) {
                 tempResults.push(lunrResult)
@@ -77,6 +90,7 @@ const SearchBar = () => {
                 <div className='form-control'>
                     <input
                         type='Search'
+                        className='search'
                         placeholder='Enter a term'
                         value={term}
                         onChange={(e) => setTerm(e.target.value)}
@@ -91,7 +105,7 @@ const SearchBar = () => {
             </form>
             <div>
                 {results === [] ? (
-                    'No Results'
+                    <div>No Results</div>
                 ) : (
                     results.map((result) => (
 

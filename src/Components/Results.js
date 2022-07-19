@@ -23,7 +23,6 @@ const Results = ({result}) => {
         }
     }
 
-    console.log(items)
     return (
         <div className='results-category'>
             {items.map((item) => (
