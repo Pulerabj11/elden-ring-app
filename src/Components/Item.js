@@ -7,7 +7,6 @@ const Item = ({item}) => {
 
     const itemInfo = (<div><div className='line'></div><div className='item-lore'>{item.Lore}</div></div>)
 
-
     return (
             <div className='item'>
                 <div className='item-header'>

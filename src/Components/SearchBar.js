@@ -1,6 +1,8 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import uuid from 'react-uuid'
 import lunr from 'lunr'
+import $ from 'jquery'
+import jq from 'jquery'
 
 // JSON Imports
 import eldenRingDataJSON from '../JSON Data/eldenRingData.json'
@@ -82,6 +84,34 @@ const SearchBar = () => {
 
         setResults(tempResults)
     }
+
+    const highlight = () => {
+        var text = $('.item-lore').html()
+        if (text != undefined) {
+            // var itemLore = $('.item-lore')[0]
+            console.log(typeof $('.item-lore').html())
+            const regex = new RegExp('blood', 'gi')
+            var innerHTML = text.replace(regex,"<mark className='highlight'>$&</mark>")
+            $('.item-lore').html(innerHTML)
+        }
+
+    //     for (var i=0; i<itemLore.length; i++) {
+    //         // g flag looks for all matches, not just first
+    //         // i flag is case-insensitive
+    //         const regex = new RegExp('blood', 'gi')
+
+    //         var elementHTML = itemLore[i].html()
+
+    //         // $& is a replacement patter that tells the replacer method to insert the matched substring there
+    //         const newInnerHTML = elementHTML.replace(regex, "<mark className='highlight'>$&</mark>")
+    //         itemLore[i].html(newInnerHTML)
+    //     }
+    //     console.log(itemLore)
+    }
+    
+    useEffect(() => {
+        highlight()
+    })
 
     return (
         <div className='search-header'>
