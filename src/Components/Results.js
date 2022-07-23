@@ -25,6 +25,7 @@ const Results = ({result}) => {
 
     return (
         <div className='results-category'>
+            {/* <div>Category name will go here.</div> */}
             {items.map((item) => (
                 <Item key={uuid()} item={item} />
             ))}
