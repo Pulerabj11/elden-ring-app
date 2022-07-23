@@ -1,0 +1,849 @@
+{
+  "Spells": [
+ {
+   "Name": "Litany of Proper Death",
+   "Link": "https://eldenring.wiki.fextralife.com/Litany+of+Proper+Death",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \nUsed by hunters of Those Who Live in Death. \n Creates an image of Order, dealing holy damage to nearby foes. \nThis incantation is especially damaging to Those Who Live in Death. Any felled by this incantation cannot be revived. \n The role of the hunters is to stamp out defiled reason — all for the perfection of the Golden Order. "
+ },
+ {
+   "Name": "Lord's Divine Fortification",
+   "Link": "https://eldenring.wiki.fextralife.com/Lord's+Divine+Fortification",
+   "Lore": "Incantation taught to Gideon the All-Knowing by the Two Fingers. \n Greatly increases holy damage negation for the caster and nearby allies. \nHold to continue praying and delay activation. \n Gideon gained true knowledge after his long exchange with the Two Fingers - discovering all had been broken long ago; that the trembling fingers, bent with age, and the Erdtree itself, were no exception. "
+ },
+ {
+   "Name": "Ranni's Dark Moon",
+   "Link": "https://eldenring.wiki.fextralife.com/Ranni's+Dark+Moon",
+   "Lore": "Legendary sorcery associated with the Carian queen.   \n Uses the caster as a vessel to incarnate a cold, dark moon, then sends it floating toward foes. The dark moon dispels all sorcery that touches it, and temporarily reduces magic damage negation for those it strikes. \n This moon was encountered by a young Ranni, led by the hand of her mother, Rennala. What she beheld was cold, dark and veiled in occult mystery. "
+ },
+ {
+   "Name": "Rennala's Full Moon",
+   "Link": "https://eldenring.wiki.fextralife.com/Rennala's+Full+Moon",
+   "Lore": "Sorcery associated with the Carian queen. \n \n Uses the caster as a vessel to incarnate a full moon, then sends it floating toward foes. The full moon dispels all sorcery that touches it, and temporarily reduces magic damage negation for those it strikes. \n \n Queen Rennala encountered this enchanting moon when she was young, and later, it would bewitch the academy. "
+ },
+ {
+   "Name": "Comet Azur",
+   "Link": "https://eldenring.wiki.fextralife.com/Comet+Azur",
+   "Lore": "Legendary sorcery devised by Azur, primeval sorcerer. \n\nFires a tremendous comet in a torrent akin to the distant starry expanse, the place said to be the origin of glintstone. \nHold to continue releasing the sorcery's power. \n\nWhen Azur glimpsed into the primeval current, he saw darkness. He was left both bewitched and fearful of the abyss. "
+ },
+ {
+   "Name": "Protection of the Erdtree",
+   "Link": "https://eldenring.wiki.fextralife.com/Protection+of+the+Erdtree",
+   "Lore": "A superior incantation of Erdtree Worship. \n \n Increase damage negation for all affinities except physical, for both the caster and nearby allies. \nHold to continue praying and delay activation. \n \n In the beginning, everything was in opposition to the Erdtree. But through countless victories in war, it became the embodiment of Order. "
+ },
+ {
+   "Name": "Bloodflame Talons",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodflame+Talons",
+   "Lore": "A Blood Oath incantation, granted by the Lord of Blood. \n\nCreates bloodflame lacerations before the caster, which explode in an instant. \nThis incantation can be cast repeatedly. \n\nAfter dealing damage, bloodflame continues to build up onset of blood loss for a very short time. "
+ },
+ {
+   "Name": "Placidusax's Ruin",
+   "Link": "https://eldenring.wiki.fextralife.com/Placidusax's+Ruin",
+   "Lore": "Power gleaned form the remembrance of Dragonlord Placidusax.    \n Transforms caster into the Dragonlord to spew golden breath from above. This incantation can be cast while jumping. \n These are the dying wails of the Dragonlord who once dwelled eternal beyond time. "
+ },
+ {
+   "Name": "Collapsing Stars",
+   "Link": "https://eldenring.wiki.fextralife.com/Collapsing+Stars",
+   "Lore": "One of the glintstone sorceries that manipulates gravitational forces. \n Fires numerous gravitational projectiles. Any foes struck will be pulled toward the caster. Charging enhances potency. \n A gravitational technique mastered by the young Radahn. \"I thank you for your tutelage, for now I can challenge the stars. \""
+ },
+ {
+   "Name": "Cannon of Haima",
+   "Link": "https://eldenring.wiki.fextralife.com/Cannon+of+Haima",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nLobs an explosive magic projectile that flies in an arc. \nCharging enhances potency. \n\nDrawn from the conspectus of Haima, the adjudicator of the academy, this sorcery employs might as a means to quell conflict. "
+ },
+ {
+   "Name": "Noble Presence",
+   "Link": "https://eldenring.wiki.fextralife.com/Noble+Presence",
+   "Lore": "Ancient power of the Godskin Nobles. \n\nThrust out belly with gusto to produce a shockwave that knocks\nback nearby foes. \nCharging enhances potency, knocking enemies into the air. \n\nOnce a sign of the gods' wrath, this incantation became a trophy\nof the Nobles' god hunt. "
+ },
+ {
+   "Name": "Glintstone Breath",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Breath",
+   "Lore": "One of the incantations of Dragon Communion. \n Transforms caster into a dragon to spew magic breath. \nCharging extends duration. \n Those extraordinary individuals who perpetuate Dragon\nCommunion are called the dragon-hearted. "
+ },
+ {
+   "Name": "Great Oracular Bubble",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Oracular+Bubble",
+   "Lore": "Sorcery of the claymen who served as priests in the ancient dynasty. \n Produces a gigantic magical bubble that drifts towards foes before it naturally ruptures.  Charging increases the delay before the bubble pops. \n The claymen search for lost oracles within their bubbles. "
+ },
+ {
+   "Name": "Rancorcall",
+   "Link": "https://eldenring.wiki.fextralife.com/Rancorcall",
+   "Lore": "Sorcery of the servants of Death. \n Summons vengeful spirits that chase down foes. Charging enhances potency.   \n Once though lost, this ancient death hex was rediscovered by the necromancer Garris. "
+ },
+ {
+   "Name": "O, Flame!",
+   "Link": "https://eldenring.wiki.fextralife.com/O+Flame!",
+   "Lore": "Incantation of the Fire Monks. \n Momentarily sparks roaring flame from the caster's hand. \nCharging enhances potency. \n The Giants' Flame still smolders upon the distant northern\nmountaintop, and the Fire Monks are its guardians. "
+ },
+ {
+   "Name": "Barrier of Gold",
+   "Link": "https://eldenring.wiki.fextralife.com/Barrier+of+Gold",
+   "Lore": "One of the incantations of Erdtree Worship.   \n Greatly increases magic damage negation for the caster and nearby allies. \n Hold to continue praying and delay activation. \n This incantation was used by the champions of the Erdtree in the First and the Second Liurnian Wars, during which the red-haired Radagon joined the heroes' ranks"
+ },
+ {
+   "Name": "Erdtree Heal",
+   "Link": "https://eldenring.wiki.fextralife.com/Erdtree+Heal",
+   "Lore": "One of the ancient Erdtree incantations. \n Heals a vast amount of HP for the caster and nearby allies. \n Hold to continue praying and delay activation. \n The Erdtree once flourished with abundance - yet it was only for\na fleeting moment. Such is the course of all life. "
+ },
+ {
+   "Name": "Oracle Bubbles",
+   "Link": "https://eldenring.wiki.fextralife.com/Oracle+Bubbles",
+   "Lore": "Sorcery of the claymen who served as priests in the ancient\ndynasty. \n\nProduces several small magical bubbles that drift towards foes\nbefore they naturally pop. \nCharging increases the delay before the bubbles pop. \n\nThe claymen search for lost oracles within their bubbles. "
+ },
+ {
+   "Name": "Night Maiden's Mist",
+   "Link": "https://eldenring.wiki.fextralife.com/Night+Maiden's+Mist",
+   "Lore": "One of the night sorceries of Sellia, Town of Sorcery. \n Releases a life-sapping silver mist before the caster, dealing\ndamage to all caught within, including the caster. \nThis sorcery can be cast while in motion. \n Below Sellia, the Eternal City of Nokron sleeps. This sorcery\noriginates from the maiden of that place. "
+ },
+ {
+   "Name": "Bloodboon",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodboon",
+   "Lore": "Sacred incantation of Mohg, Lord of Blood. \n Thrust arm into the body of the Formless Mother, then scatter the\nbloodflame to set the area ablaze. \n This incantation can be cast while in motion. \n The mother of truth craves wounds. When Mohg stood before\nher, deep underground, his accursed blood erupted with fire, and\nbesotted with the defilement that he was born into. "
+ },
+ {
+   "Name": "Dragonfire",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragonfire",
+   "Lore": "One of the incantations of Dragon Communion. \n Transforms caster into a dragon to spew flaming breath. Charging extends duration. \n Incantation of those who have hunted dragons and feasted upon their hearts. Theirs is a pure and overwhelming power. "
+ },
+ {
+   "Name": "Lightning Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightning+Spear",
+   "Lore": "One of the incantations of the capital's ancient dragon cult. Summons a lightning spear and hurls it before the caster. \n\nCharging causes a lightning bolt to strike the point of impact. \n\nLong ago, Godwyn the Golden defeated the ancient dragon Fortissax, and befriended his fallen foe — an event that gave rise to the ancient dragon cult in the capital. "
+ },
+ {
+   "Name": "Carian Retaliation",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Retaliation",
+   "Lore": "One of the sorceries of the Carian royal family. \n Swing your staff to dispel incoming sorceries and incantations, using their power to retaliate with glintblades. \n This was the Carian royal family's secret means to prepare against the disloyalty of the academy. The moon and stars would one day go their separate ways. "
+ },
+ {
+   "Name": "Lucidity",
+   "Link": "https://eldenring.wiki.fextralife.com/Lucidity",
+   "Lore": "One of the sorceries of the Carian royal family. \nAlleviates buildup of sleep and madness. \n This sorcery can be cast while in motion. \n The Carian knights never waver. "
+ },
+ {
+   "Name": "Death Lightning",
+   "Link": "https://eldenring.wiki.fextralife.com/Death+Lightning",
+   "Lore": "Incantation that channels the power of the ancient dragon\nFortissax, now corrupted by Death. \n\nStrikes surroundings with a storm of Death lightning. \nInflicts Death blight upon foes. \nCharging extends duration of the storm. \n\nIt said that this golden lightning was wielded by Godwyn, who\nbefriended Fortissax. "
+ },
+ {
+   "Name": "Burn O Flame!",
+   "Link": "https://eldenring.wiki.fextralife.com/Burn+O+Flame!",
+   "Lore": "One of the incantations that draws directly from the power of the Fire Giants. \n Raises a series of flame pillars around the caster. \n Charging further increases the number of flame pillars. \n The Fire Giants borrowed from the power of a fell god, and still they were defeated. Yet their failure released them from their solitary curse: to serve as keepers of the Flame for eternity. "
+ },
+ {
+   "Name": "Smarag's Glintstone Breath",
+   "Link": "https://eldenring.wiki.fextralife.com/Smarag's+Glintstone+Breath",
+   "Lore": "Superior incantation of Dragon Communion. \nChannels the power of Smarag, the Glintstone Dragon. \n Transforms caster into a dragon to spew magic breath from above. \nCharging extends duration. This incantation can be used while jumping. \n Smarag was a devourer of sorcerers, and over time, his body became corrupted by their glintstones. "
+ },
+ {
+   "Name": "Flame of the Fell God",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+of+the+Fell+God",
+   "Lore": "This legendary incantation is one of several that draws directly\nfrom the power of the Fire Giants. \n\nReleases a ball of raging fire said to be inhabited by a fell god. The\nfireball floats toward enemies and explodes, setting the area\nablaze. \n\nArghanthy, the chief guardian of the Flame, had kept this incantation a well-kept secret until it was stolen by Adan. The fell god still lurks within the Fire Giants. "
+ },
+ {
+   "Name": "Terra Magica",
+   "Link": "https://eldenring.wiki.fextralife.com/Terra+Magica",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n \n Draws an academy sigil upon the ground, raising the magic strength of those within. \n \n Once, the sigil would be cast from the highest belfry of the academy, covering the entire institution's grounds. This spell allows such vivid experience of spell—casting success, it turns many a fledgling into a true sorcerer in a flash of newfound understanding. "
+ },
+ {
+   "Name": "Radagon's Rings of Light",
+   "Link": "https://eldenring.wiki.fextralife.com/Radagon's+Rings+of+Light",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \nA gift of gratitude to the young Miquella from his father,\nRadagon. \n\nProduces a golden ring of light and fires it across a wide area. \nCharging enhances range. \n\nAnd yet, the young Miquella abandoned fundamentalism, for it\ncould do nothing to treat Malenia's accursed rot. This was the\nbeginning of unalloyed gold. "
+ },
+ {
+   "Name": "Rotten Breath",
+   "Link": "https://eldenring.wiki.fextralife.com/Rotten+Breath",
+   "Lore": "One of the incantations of Dragon Communion. \n Transforms caster into a dragon to spew scarlet rot breath. \nCharging extends duration. \n \n Those extraordinary individuals who perpetuate Dragon\nCommunion are called the dragon-hearted. "
+ },
+ {
+   "Name": "Briars of Punishment",
+   "Link": "https://eldenring.wiki.fextralife.com/Briars+of+Punishment",
+   "Lore": "An aberrant sorcery discovered by exiled criminals. \nTheirs are the sorceries most reviled by the academy. \nWounds the caster with thorns of sin, sending a trail of bloodthorns running over the ground to impale enemies from below. \nThis sorcery can be cast repeatedly. \nThe guilty, their eyes gouged by thorns, lived in eternal darkness. There, they discovered the blood star. "
+ },
+ {
+   "Name": "Gavel of Haima",
+   "Link": "https://eldenring.wiki.fextralife.com/Gavel+of+Haima",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nCreates a magical greathammer and slams it down. \nAllows one follow-up attack. \n\nDrawn from the scholarly conspectus of Haima, the adjudicator of the academy, this sorcery employs might as a means to quell conflict. "
+ },
+ {
+   "Name": "Glintstone Pebble",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Pebble",
+   "Lore": "The most basic glintstone sorcery of the Academy of Raya Lucaria. \n The glintstone serves as a conduit, launching magical projectiles at foes. \nThis sorcery can be cast repeatedly and while in motion. \n \n This is a universal first step on the journey to true knowledge of sorcery. "
+ },
+ {
+   "Name": "Magic Fortification",
+   "Link": "https://eldenring.wiki.fextralife.com/Magic+Fortification",
+   "Lore": "Incantation of the Two Fingers' faithful. \n \n Increases magic damage negation. \nThis incantation can be cast while in motion. \n \n Follow the path that has been set for you, and you will make enemies of all others: the monks, the sorcerers, the ancient dragon knights, and the scions of gold. Heed me – the Lands Between offers no welcome to the Tarnished. "
+ },
+ {
+   "Name": "Lightning Strike",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightning+Strike",
+   "Lore": "One of the incantations of the capital's ancient dragon cult. \n Summons a bolt of lightning that scatters and spreads around the surrounding area. \nThis incantation can be cast repeatedly. \n Ancestors of the modern dragons, the ancient dragons had scales of Gravel Stone and wielded lightning as their weapon. It is said that they once attacked Leyndell, the Royal Capital. "
+ },
+ {
+   "Name": "Blessing of the Erdtree",
+   "Link": "https://eldenring.wiki.fextralife.com/Blessing+of+the+Erdtree",
+   "Lore": "One of the ancient Erdtree incantations \n Grants a greater blessing to the caster and nearby allies, gradually restoring a large amount of HP. \nHold to continue praying and delay activation. \n The Erdtree once flourished with abundance- yet it was only for a. fleeting moment. Such is c course of all life. "
+ },
+ {
+   "Name": "Golden Lightning Fortification",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Lightning+Fortification",
+   "Lore": "An incantation of Erdtree Worship. \n Greatly increases lightning damage negation for the caster and nearby allies. \nHold to continue praying, delaying the effect. \n This incantation was used by the knights of the Erdtree during the assault by the great ancient dragon Gransax, and the bitter War of the Ancient Dragons that followed. "
+ },
+ {
+   "Name": "Great Heal",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Heal",
+   "Lore": "Superior incantation of the Two Fingers' faithful. \n Greatly heals HP for the caster and nearby allies. Hold to continue praying and delay activation. \n The Two Fingers has high hopes for the Tarnished; that even if they should be wounded, even should they fall, they will continue to fight for their duty. "
+ },
+ {
+   "Name": "Pest Threads",
+   "Link": "https://eldenring.wiki.fextralife.com/Pest+Threads",
+   "Lore": "Incantation of the servants of rot. \n Secretes countless sticky threads, launching them forwards. \n A technique of the pale pests who crawl through the lands afflicted by scarlet rot; the abandoned children of the goddess. \n\"Do you have an interest in rot incantations?\""
+ },
+ {
+   "Name": "Scholar's Armament",
+   "Link": "https://eldenring.wiki.fextralife.com/Scholar's+Armament",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Enchants armaments held in the right hand with magic-affinity attacks. \nThis sorcery can be cast while in motion. \n \n Taught to the Knights of the Cuckoo by the academy as payment for their contract. "
+ },
+ {
+   "Name": "Glintstone Cometshard",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Cometshard",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nFires a magical comet with a trailing tail. \nThis sorcery can be cast repeatedly and while in motion. Charging enhances potency. \n\nA sorcery of the Karolos Conspectus, the most venerable of the academy. "
+ },
+ {
+   "Name": "Rock Blaster",
+   "Link": "https://eldenring.wiki.fextralife.com/Rock+Blaster",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Imbues the ferrule of the caster's staff with magic, then thrusts it\ninto the ground to create a massive magical shockwave. \n Hold to continue moving without striking the ground, and then\npush the end of the staff into enemies. \n \n An enhanced version of the glintstone miners' Stonedigger\nsorcery. "
+ },
+ {
+   "Name": "Frozen Lightning Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Frozen+Lightning+Spear",
+   "Lore": "Incantation that channels the power of the Dragonkin Soldiers. \n\nCreates a spear of ice lightning and stabs it into the ground from\nabove. On impact, the spear will burst into trails of lightning advancing forwards. \n\nThe Dragonkin were born in the Eternal City, where they knew\nno true sky, nor true lightning. Instead, ice lightning was their\nweapon. "
+ },
+ {
+   "Name": "Briars of Sin",
+   "Link": "https://eldenring.wiki.fextralife.com/Briars+of+Sin",
+   "Lore": "An aberrant sorcery, discovered along with red glintstone by those exiled to the north for their crimes. \nSummons large thorns from a whorl of blood shed by one's own hand in penance for sins. \nThis sorcery can be cast repeatedly. \nThe Academy reviles this sorcery, which draws its power from faith. "
+ },
+ {
+   "Name": "Star Shower",
+   "Link": "https://eldenring.wiki.fextralife.com/Star+Shower",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nFires six magic shooting stars that pursue the target. \nThis sorcery can be cast while in motion. Charging enhances potency. \n\nThe most difficult to master of the Olivinus Conspectus sorceries. "
+ },
+ {
+   "Name": "Shard Spiral",
+   "Link": "https://eldenring.wiki.fextralife.com/Shard+Spiral",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Fires twin projectiles that form a spiral as they travel. This sorcery can be cast repeatedly and while in motion. \nCharging enhances potency. \n A sorcery of the Karolos Conspectus, the most venerable of the academy. This was the product of a failed attempt to create a new comet. "
+ },
+ {
+   "Name": "Black Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Blade",
+   "Lore": "Power gleaned from the remembrance of Maliketh. \n Caster creates an illusory black blade, then leaps forward to deliver a spinning slash that emits a wave of light.  This can be followed up with one additional attack. \n This blade was once imbued with Destined Death. In addition to dealing damage, it reduces foes' maximum HP and continues to sap their current HP for a very short time. "
+ },
+ {
+   "Name": "Glintblade Phalanx",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintblade+Phalanx",
+   "Lore": "One of the sorceries of the Carian royal family. \n Creates a defensive arch of magic glintblades overhead, which\nautomatically attack nearby foes. \nThis sorcery can be cast while in motion. \n Bestowed upon the enchanted Carian knights, who combined this\nart with their swordsmanship to maintain pressure upon their\nfoes, striking in waves of steel and sorcery. "
+ },
+ {
+   "Name": "Flame, Grant Me Strength",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Grant+me+Strength",
+   "Lore": "Superior incantation of the Fire Monks. \n Creates an invigorating fire within that enhances physical and fire-affinity attack power. \n This incantation does not burn the caster, and so it is considered forbidden by the guardians of the Flame. "
+ },
+ {
+   "Name": "Fia's Mist",
+   "Link": "https://eldenring.wiki.fextralife.com/Fia's+Mist",
+   "Lore": "Sorcery of Fia, the Deathbed Companion. \n \nCreates a deathly mist before the caster, which inflicts Death blight upon those who enter. This sorcery can be cast while in motion. Charging enhances range of the mist. \n \nThis sorcery was developed to oppose the Roundtable Hold, and is effective only against the Tarnished. "
+ },
+ {
+   "Name": "Unseen Form",
+   "Link": "https://eldenring.wiki.fextralife.com/Unseen+Form",
+   "Lore": "One of the night sorceries of Sellia, Town of Sorcery. Makes the caster semi-invisible. While on horseback, effect extends to cover the mount. This sorcery can be cast while in motion. \n\nThe Sellian assassins considered every option that aided their dirty work. "
+ },
+ {
+   "Name": "Surge, O Flame!",
+   "Link": "https://eldenring.wiki.fextralife.com/Surge+O+Flame!",
+   "Lore": "Superior incantation of the Fire Monks. \n Creates a stream of fire to burn the area before the caster. \nThis incantation can be cast while in motion. Hold to maintain\nthe effect. \n The Giants' Flame is the flame of ruin, capable of burning the\nErdtree. And so, following the War against the Giants, its ruinous\nblaze was sealed, and guardians were appointed to watch over it. "
+ },
+ {
+   "Name": "Wrath of Gold",
+   "Link": "https://eldenring.wiki.fextralife.com/Wrath+of+Gold",
+   "Lore": "Superior Erdtree Worship incantation. \n\nProduces a golden shockwave that knocks back nearby foes. \nCharging increases the size of the shockwave. \n\nThis incantation was discovered when the Elden Ring was shattered, and it was feared as a sign of the Erdtree's wrath. "
+ },
+ {
+   "Name": "Adula's Moonblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Adula's+Moonblade",
+   "Lore": "Sorcery of Adula, the Glintstone Dragon. \n Conjures a cold magic greatsword, then delivers a sweeping blow\nthat launches a blade-like projectile of frost. \n This sorcery can be cast repeatedly. \n Adula, a devourer of sorcerers, was bested by Ranni and\nsubsequently swore a knightly oath to her Dark Moon. "
+ },
+ {
+   "Name": "Bestial Vitality",
+   "Link": "https://eldenring.wiki.fextralife.com/Bestial+Vitality",
+   "Lore": "Incantation taught by Gurranq, the Beast Clergyman. \n Fills the body with bestial vigor, restoring HP over a period of time. \n Having gained intelligence, the beasts must have felt how their wildness slipped away as civilization took hold. "
+ },
+ {
+   "Name": "Greyoll's Roar",
+   "Link": "https://eldenring.wiki.fextralife.com/Greyoll's+Roar",
+   "Lore": "Superior incantation of Dragon Communion. \nChannels the power of Greyoll, the Elder Dragon. \nAn incantation of legendary status. \n Transforms caster into a dragon to emit a terrible roar, reducing the attack power and defense of nearby enemies. \n Greyoll was the mother of all dragons, dwarfing all who stood before her like a looming mountain. "
+ },
+ {
+   "Name": "Bloodflame Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Bloodflame+Blade",
+   "Lore": "A Blood Oath incantation, granted by the Lord of Blood. \n \n Engulfs armament held in the right hand with bloodflame. \nThis incantation can be cast while in motion. \n \n After dealing damage, bloodflame continues to build up onset of blood loss for a very short time. "
+ },
+ {
+   "Name": "Howl of Shabriri",
+   "Link": "https://eldenring.wiki.fextralife.com/Howl+of+Shabriri",
+   "Lore": "Incantation originating from the maddening Three Fingers. \n \n Releases a maddening shriek that causes madness buildup in foes nearby. \nThis incantation also causes madness buildup in the caster and makes enemies more likely to target them. \n It is said that the sickness of the flame of frenzy began with Shabriri, the most reviled man in all history. "
+ },
+ {
+   "Name": "Ekzykes's Decay",
+   "Link": "https://eldenring.wiki.fextralife.com/Ekzykes's+Decay",
+   "Lore": "Superior incantation of Dragon Communion. \nChannels the power of Ekzykes, the Decaying. \n Transforms caster into a dragon to spew scarlet rot breath from\nabove. \nCharging extends duration. This incantation can be cast while jumping. \n Ekzykes, Dragon Communion Revenger, did not forget his hatred even as he succumbed to the scarlet rot. "
+ },
+ {
+   "Name": "Gelmir's Fury",
+   "Link": "https://eldenring.wiki.fextralife.com/Gelmir's+Fury",
+   "Lore": "One of the sorceries developed from the magma of Mt. Gelmir. \nConjures a surge of magma from the earth, covering the area. \nCharging extends the surge of magma. \n This sorcery is held to represent the fury of the volcano, but the\narrogance of attempting to harness it is solely that of men and\nserpents. "
+ },
+ {
+   "Name": "Carian Phalanx",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Phalanx",
+   "Lore": "One of the sorceries of the Carian royal family. \n Creates a defensive arch of numerous magic glintblades overhead, which automatically attack nearby foes. \nThis sorcery can be used cast while in motion. \n An enhanced version of the glintblade sorcery used by enchanted knights. "
+ },
+ {
+   "Name": "Eternal Darkness",
+   "Link": "https://eldenring.wiki.fextralife.com/Eternal+Darkness",
+   "Lore": "Forbidden sorcery of Sellia, Town of Sorcery. \n\nCreates a space of darkness that draws in sorceries and\nincantations. \nThis sorcery can be cast while in motion. \n\nOriginally a lost sorcery of the Eternal City; the despair that\nbrought about its ruin made manifest. "
+ },
+ {
+   "Name": "Triple Rings of Light",
+   "Link": "https://eldenring.wiki.fextralife.com/Triple+Rings+of+Light",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \n \nProduces three rings of light and fires them forwards. The rings of light return to a position close to the caster before disappearing. This incantation can be cast repeatedly. \n \nA gift from the young Miquella to his father, Radagon. "
+ },
+ {
+   "Name": "Urgent Heal",
+   "Link": "https://eldenring.wiki.fextralife.com/Urgent+Heal",
+   "Lore": "Incantation of the Two Fingers' faithful. \n Heals a small amount of HP. \nThis incantation can be cast while in motion. \n The Two Fingers has high hopes for the Tarnished; that even if they should be wounded, even should they fall, they will continue to fight for their duty. "
+ },
+ {
+   "Name": "Swarm of Flies",
+   "Link": "https://eldenring.wiki.fextralife.com/Swarm+of+Flies",
+   "Lore": "A Blood Oath incantation, shared from the Lord of Blood's power. \n \nReleases a swarm of bloodflies before the caster to assault foes. The vile swarm deals damage and builds up onset of blood loss. This incantation can be cast while in motion. \n \nThe new palace of the Lord of Blood lies in a swamp of festering blood, and these flies are said to spawn from excrement in that land. "
+ },
+ {
+   "Name": "Rykard's Rancor",
+   "Link": "https://eldenring.wiki.fextralife.com/Rykard's+Rancor",
+   "Lore": "The terrible power of Rykard, Lord of Blasphemy.   \n Summons searing spirits that leave a trail of delayed explosions in their wake. \n These spirits manifest from the rancor of heroes who met a violent end. The lord granted them an audience, whereupon they were welcomed by the maw of the great serpent -- and within the serpent's bowels, they became the lord's kin. "
+ },
+ {
+   "Name": "Rock Sling",
+   "Link": "https://eldenring.wiki.fextralife.com/Rock+Sling",
+   "Lore": "One of the glintstone sorceries that manipulates gravitational forces.   \n Pulls a clump of rocks from the earth and sends them flying. This sorcery can be cast while in motion. \n A gravitational technique studied by the young Radahn. His master was an Alabaster Lord with skin of stone. "
+ },
+ {
+   "Name": "Ancient Dragons' Lightning Strike",
+   "Link": "https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike",
+   "Lore": "A secret incantation of the capital's ancient dragon cult. \nSummons a red bolt of lightning that scatters and spreads around\nthe surrounding area. \n Charging enhances the range of the lightning bolt. \n Spoken of in legend, red lightning is the weapon wielded by the\nancient dragons. "
+ },
+ {
+   "Name": "Divine Fortification",
+   "Link": "https://eldenring.wiki.fextralife.com/Divine+Fortification",
+   "Lore": "Incantation of the Two Fingers' faithful. \n Increases holy damage negation. \nThis incantation can be cast while in motion. \n Follow the path that has been set for you, and you will make enemies of all others: the monks, the sorcerers, the ancient dragon knights and the scions of gold. Heed me — the Lands Between offers no welcome to the Tarnished. "
+ },
+ {
+   "Name": "Glintstone Icecrag",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Icecrag",
+   "Lore": "Sorcery said to have been used by the old snow witch. \n The glintstone serves as a conduit, launching a mass ofcold magic. \nThis sorcery can be cast repeatedly and while in motion. \n The snowy crone taught the young Ranni to fear the dark moon\nas she imparted her cold sorcery. "
+ },
+ {
+   "Name": "Meteorite of Astel",
+   "Link": "https://eldenring.wiki.fextralife.com/Meteorite+of+Astel",
+   "Lore": "One of the glintstone sorceries that manipulates gravitational forces. \n \nSummons a void that emits a hail of meteorites. \nHold to continue the effect. \n \nA manifestation of the power with which Astel leveled the Eternal City. "
+ },
+ {
+   "Name": "Flame, Cleanse Me",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Cleanse+Me",
+   "Lore": "One of the incantations of the Fire Monks. \n\nCreates a fire within that burns away toxins. \n\nAlleviates poison and scarlet rot buildup and cures these ailments. \nThis incantation leaves the caster with subtle burns - a reminder\nthat they must fear the flame. "
+ },
+ {
+   "Name": "Rejection",
+   "Link": "https://eldenring.wiki.fextralife.com/Rejection",
+   "Lore": "Incantation of the Two Fingers' faithful. \n Produces a shockwave that knocks back nearby foes. \nCharging increases the size of the shockwave. \n Hark, Tarnished! If you truly walk in faith, you must be prepared to reject all else. "
+ },
+ {
+   "Name": "Flame Fortification",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Fortification",
+   "Lore": "Incantation of the Two Fingers' faithful. \n \n Increases fire damage negation. \nThis incantation can be cast while in motion. \n \n Follow the path that has been set for you, and you will make enemies of all others: the monks, the sorcerers, the ancient dragon knights, and the scions of gold. Heed me – the Lands Between offers no welcome to the Tarnished. "
+ },
+ {
+   "Name": "Fire's Deadly Sin",
+   "Link": "https://eldenring.wiki.fextralife.com/Fire's+Deadly+Sin",
+   "Lore": "Incantation originating from a deeply ominous prophecy. \n Sets both the caster and the surrounding area ablaze with raging flames. The caster's body will remain engulfed in flame for a while, burning them and any who draw near. Charging enhances potency. \n The prophet despaired, looking up at the Erdtree, for soon the kindling would burst into flame, bringing ruin. \n \"The burning of the Erdtree is the first cardinal sin. That is not the domain of mere men. \""
+ },
+ {
+   "Name": "Founding Rain of Stars",
+   "Link": "https://eldenring.wiki.fextralife.com/Founding+Rain+of+Stars",
+   "Lore": "The eldest primeval sorcery, said to have been discovered by an\nancient astrologer. A sorcery of legendary status. \n Summons a dark cloud of stars overhead. Shortly after, the cloud\nwill release a violent deluge of star rain. This sorcery can be cast\nwhile in motion. Charging increases potency. \n Thought to be the founding glintstone sorcery. The glimpse of the\nprimeval current that the astrologer saw became real, and the\nstars' amber rained down on this land. "
+ },
+ {
+   "Name": "Assassin's Approach",
+   "Link": "https://eldenring.wiki.fextralife.com/Assassin's+Approach",
+   "Lore": "Incantation of the Two Fingers' servants, who once served as the assassins of the Roundtable Hold. \n Completely silences the footsteps of the caster. Additionally reduces fall damage and the sound produced by falling. \nThis sorcery can be cast while in motion or crouching. \n \n The assassins were charged with eliminating Tarnished who had strayed from guidance. "
+ },
+ {
+   "Name": "Thops's Barrier",
+   "Link": "https://eldenring.wiki.fextralife.com/Thops's+Barrier+(Spell)",
+   "Lore": "The lifelong pursuit of Thops the Bluntstone. \n Creates a magic forcefield that deflects sorceries and incantations. \nHold to continuously create barriers. \n Future generations will learn. They will know the foolishness of\nthe sneering sorcerers who ridiculed this theory, little realizing\nthat it was in fact a discovery worthy of a new conspectus of the \nacademy. "
+ },
+ {
+   "Name": "Aspect of the Crucible: Breath",
+   "Link": "https://eldenring.wiki.fextralife.com/Aspect+of+the+Crucible:+Breath",
+   "Lore": "One of the ancient Erdtree incantations. \n\nCreates a throat pouch on the caster's neck, allowing them to spew\nfiery breath while walking. \nCharging increases duration of the breath. \n\nThis is a manifestation of the Erdtree's primal vital energies - an\naspect of the primordial crucible, where all life was once blended\ntogether. "
+ },
+ {
+   "Name": "Cure Poison",
+   "Link": "https://eldenring.wiki.fextralife.com/Cure+Poison",
+   "Lore": "Incantation of the Two Fingers' faithful. \n Alleviates poison buildup and cures poison. \nThis incantation can be cast while in motion. \n The Two Fingers has high hopes for the Tarnished; that even if they should be wounded, even should they fall, they will continue to fight for their duty. "
+ },
+ {
+   "Name": "Crystal Torrent",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Torrent",
+   "Lore": "Sorcery of the mysterious Crystalians. \n Creates a mass of crystal, then fires off shards in rapid succession. Hold to continue firing shards. \n The wrath of the Crystalians encapsulated in sorcery. Each shard is of substantial size, making even a stray blow capable of inflicting a severe wound. "
+ },
+ {
+   "Name": "Whirl, O Flame!",
+   "Link": "https://eldenring.wiki.fextralife.com/Whirl+O+Flame!",
+   "Lore": "Superior Incantation of the Fire Monks. \n \n Creates a spiraling stream of fire that burns the area before the caster. Charging enhances potency and reach. \n Fire beguiles those who gaze into it. And so the guardians of the flame are also its worshippers. "
+ },
+ {
+   "Name": "Unendurable Frenzy",
+   "Link": "https://eldenring.wiki.fextralife.com/Unendurable+Frenzy",
+   "Lore": "Incantation originating from the maddening Three Fingers. \n \nCauses the yellow flame of frenzy to violently burst forth from the caster's eyes. \nHold to continue channeling the flame. This incantation can be used while in motion. \n \nIt is the maddening pain and unstoppable tears of those afflicted with the flame of frenzy brought into being. "
+ },
+ {
+   "Name": "Night Comet",
+   "Link": "https://eldenring.wiki.fextralife.com/Night+Comet",
+   "Lore": "One of the night sorceries of Sellia, Town of Sorcery. \n Fires a semi-invisible magic comet. \nThis sorcery can be cast repeatedly and while in motion. Charging enhances potency. \n The Sellian sorcerers were assassins, and it is said that they often hunted their fellows. "
+ },
+ {
+   "Name": "Borealis's Mist",
+   "Link": "https://eldenring.wiki.fextralife.com/Borealis's+Mist",
+   "Lore": "Superior incantation of Dragon Communion. \n Channels the power of Borealis, the Freezing Fog. \n Transforms caster into a dragon to spew icy breath from above. \nCharging extends duration. This incantation can be cast while\njumping. \n The ice dragons were once lords of the mountaintops long ago,\nuntil they were defeated by the Fire Giants and chased from the\npeak. "
+ },
+ {
+   "Name": "Bestial Constitution",
+   "Link": "https://eldenring.wiki.fextralife.com/Bestial+Constitution",
+   "Lore": "Incantation taught by Gurranq, the Beast Clergyman. \n Fills the body with bestial vigor, alleviating buildup of frost and blood loss. \n Having gained intelligence, the beasts must have felt how their wildness slipped away as civilization took hold. "
+ },
+ {
+   "Name": "Elden Stars",
+   "Link": "https://eldenring.wiki.fextralife.com/Elden+Stars",
+   "Lore": "This legendary incantation is the most ancient of those that derive from the Erdtree. \n Creates a stream of golden shooting stars that assail the area. \n It is said that long ago, the Greater Will sent a golden star bearing a beast into the Lands Between, which would later become the Elden Ring. "
+ },
+ {
+   "Name": "Discus of Light",
+   "Link": "https://eldenring.wiki.fextralife.com/Discus+of+Light",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \n \n Produces a ring of light and fires it forwards. The ring of light returns to a position close to the caster before disappearing. This incantation can be cast repeatedly. \n A gift from the young Miquella to his father, Radagon. "
+ },
+ {
+   "Name": "Flame, Protect Me",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Protect+Me",
+   "Lore": "The most ancient of the Fire Monks' incantations. \n Creates a fire within that greatly increases fire damage negation. \n It is said that this incantation was used during the War against the Giants long ago, during which it protected the champions of the Erdtree. "
+ },
+ {
+   "Name": "Vyke's Dragonbolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Vyke's+Dragonbolt",
+   "Lore": "Incantation of Vyke, knight of the Roundtable Hold. \n Summons red lightning to bolster both the caster's body and their armament held in the right hand. Enchants armaments with lightning-affinity attacks and increases maximum equipment load. However, lightning damage negation will be reduced. \n Of all the knights, Vyke the Dragonspear was the one Lansseax loved the most. "
+ },
+ {
+   "Name": "Electrify Armament",
+   "Link": "https://eldenring.wiki.fextralife.com/Electrify+Armament",
+   "Lore": "One of the incantations of the capital's ancient dragon cult. \n\nEnchants armament held in the right hand with lightning-affinity attacks. \n Long ago, Godwyn the Golden defeated the ancient dragon Fortissax, and befriended his fallen foe — an event that gave rise to the ancient dragon cult in the capital. "
+ },
+ {
+   "Name": "Agheel's Flame",
+   "Link": "https://eldenring.wiki.fextralife.com/Agheel's+Flame",
+   "Lore": "Superior incantation of Dragon Communion. \nChannels the power of the flying dragon Agheel. \n Transforms caster into a dragon to spew flaming breath from\nabove. \nCharging extends duration. This incantation can be used while jumping. \n The dead gazed at the skies over the lakes of Limgrave, praying that the dragons' flames would burn them to ash. "
+ },
+ {
+   "Name": "Dragonbolt Blessing",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragonbolt+Blessing",
+   "Lore": "Superior incantation of the capital's ancient dragon cult. \n \n Summons lightning to bolster the caster's body. Attacks become easier to deflect and resistance to all ailments is increased. \nHowever, lightning damage negation will be reduced. \n \n Only those loved by dragons can survive the ordeal of cladding their bodies in lightning. "
+ },
+ {
+   "Name": "Order's Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Order's+Blade",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. Used by hunters of Those Who Live in Death. \n \n Enchants armament held in the right hand with holy-affinity attacks. This incantation is especially damaging to Those Who Live in Death. Any felled by this incantation cannot be revived. \n \n The role of the hunters is to stamp out defiled reason - all for the perfection of the Golden Order. "
+ },
+ {
+   "Name": "Magma Shot",
+   "Link": "https://eldenring.wiki.fextralife.com/Magma+Shot",
+   "Lore": "One of the sorceries developed from the magma of Mt. Gelmir. \n Fires a lump of magma that explodes on contact.  Charging enhances potency. \n After discovering the ancient hexes of Gelmir, Rykard, son of Queen Rennala, brought them back into practical use as new forms of sorcery. "
+ },
+ {
+   "Name": "Theodorix's Magma",
+   "Link": "https://eldenring.wiki.fextralife.com/Theodorix's+Magma",
+   "Lore": "Superior incantation of Dragon Communion. Channels the power of the great wyrm Theodorix. \n \nTransforms caster into a great wyrm to spew a large volume of magma breath. Allows one follow-up attack. \n \nThe name of the ancient troll warrior Theodorix lives on — as a hero of the War against the Giants. "
+ },
+ {
+   "Name": "Magic Glintblade",
+   "Link": "https://eldenring.wiki.fextralife.com/Magic+Glintblade",
+   "Lore": "An old sorcery of the Carian Royal Family. \n Creates a sigil overhead, from which an enemy-seeking glintblade appears after a brief delay.  This sorcery can be used while in motion.  Charging increases the delay.  \n\nSaid to be the prototype of the sword-phalanx soerceries wielded by royal enchanted knights"
+ },
+ {
+   "Name": "The Flame of Frenzy",
+   "Link": "https://eldenring.wiki.fextralife.com/The+Flame+of+Frenzy",
+   "Lore": "Incantation originating from the maddening Three Fingers. \n Causes the yellow flame of frenzy to burst forth from the caster's eyes. \nCharging increases the range of the burst. \n The flame of frenzy deals damage and causes buildup of madness. This incantation also causes buildup of madness in the caster, and is only effective against Tarnished. "
+ },
+ {
+   "Name": "Ancient Dragons' Lightning Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Spear",
+   "Lore": "A secret incantation of the capital's ancient dragon cult. \n Creates a spear of red lightning and stabs it into the ground from\nabove. On impact, the spear will burst into trails of lightning\ncovering the area. \n Spoken of in legend, red lightning is the weapon wielded by the\nancient dragons. "
+ },
+ {
+   "Name": "Catch Flame",
+   "Link": "https://eldenring.wiki.fextralife.com/Catch+Flame",
+   "Lore": "Incantation originating from a sinister prophecy. \n Momentarily sparks flame from the caster's hand.  \nThis incantation can be cast without delay after performing another action.  \n \n The flame of ruin is anathema to the Erdtree. But prophets sometimes glimpse it within the faith all the same. Sadly when this occurs their sole reward is banishment. "
+ },
+ {
+   "Name": "Dragonmaw",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragonmaw",
+   "Lore": "One of the incantations of Dragon Communion. \n Transforms caster into a dragon to bite enemies before them. \n Incantations of those who have hunted dragons and feasted upon their hearts. Theirs is a pure and overwhelming power. "
+ },
+ {
+   "Name": "Magic Downpour",
+   "Link": "https://eldenring.wiki.fextralife.com/Magic+Downpour",
+   "Lore": "One of the sorceries of the Carian royal family. \n Summons a mass of magic that fires projectiles over a wide area. \nThis sorcery can be cast while in motion. Charging extends\nduration. \n \n Said to have been taught by the Crystalians to mark the swearing\nof the old concord. "
+ },
+ {
+   "Name": "Carian Greatsword",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Greatsword",
+   "Lore": "One of the sorceries of the Carian royal family. \n\nConjures a magic greatsword and then delivers a sweeping blow. \nThis sorcery can be cast repeatedly. \n\nArmed with this spell, sorcerers gain the strength of knights, their loyalty sworn to the moon. "
+ },
+ {
+   "Name": "Frozen Armament",
+   "Link": "https://eldenring.wiki.fextralife.com/Frozen+Armament",
+   "Lore": "Sorcery said to have been used by the old snow witch. \n\nEnchants armament held in the right hand with frost. \nThis sorcery can be cast while in motion. \n\nThe snowy crone taught the young Ranni to fear the dark moon as she imparted her cold sorcery. "
+ },
+ {
+   "Name": "Golden Vow (Spell)",
+   "Link": "https://eldenring.wiki.fextralife.com/Golden+Vow+(Spell)",
+   "Lore": "An incantation of Erdtree Worship. \n Increases attack power and defense for the caster and nearby allies. \nHold to continue praying and delay activation. \n This incantation has been taught to knights of the royal capital for generations, and knights sent on distant expeditions lean on it as a source of courage. "
+ },
+ {
+   "Name": "Lansseax's Glaive",
+   "Link": "https://eldenring.wiki.fextralife.com/Lansseax's+Glaive",
+   "Lore": "Incantation that channels the power of the ancient dragon Lansseax. \n Creates a red-lightning glaive and sweeps the area from above. \nThis attack unleashes trails of lightning. \n Lansseax was the sister of Fortissax. It is said that she took the form of a human to commune with the knights as a priestess of the ancient dragon cult. "
+ },
+ {
+   "Name": "Bestial Sling",
+   "Link": "https://eldenring.wiki.fextralife.com/Bestial+Sling",
+   "Lore": "Incantation taught by Gurranq, the Beast Clergyman. \n\nSwiftly flings a number of sharp rock shards. \nThis incantation can be cast without delay after performing another action. \n\nIt is said that in the time before the Erdtree, stones were the first\nweapons of the beasts who had gained intelligence. "
+ },
+ {
+   "Name": "Carian Slicer",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Slicer",
+   "Lore": "One of the sorceries of the Carian royal family. \n Conjures a magic sword and delivers a swift sweeping slash. \nThis sorcery can be used without delay after performing another\naction. \n \n Even among the Carian sword sorceries, this is a notably effective technique. "
+ },
+ {
+   "Name": "Law of Regression",
+   "Link": "https://eldenring.wiki.fextralife.com/Law+of+Regression",
+   "Lore": "Incantation of the Golden Order fundamentalists. \nOne of the key fundamentals. \n \n Heals all negative statuses, dispels special effects, and reveals mimicry in all its forms. \n \n The fundamentalists describe the Golden Order through the powers of regression and causality. Regression is the pull of meaning; that all things yearn eternally to converge. "
+ },
+ {
+   "Name": "Glintstone Arc",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Arc",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Fires a horizontal arc of magic that spreads outward. \nThis sorcery can be cast repeteadly and while in motion. \n Granted to sorcererers who depart from the academy to embark on\njourneys, in order to fend off large groups of would-be adversaries. \nFools often roam in packs. "
+ },
+ {
+   "Name": "Beast Claw",
+   "Link": "https://eldenring.wiki.fextralife.com/Beast+Claw",
+   "Lore": "Incantation taught by Gurranq, the Beast Clergyman. \n Creates beast claws that rend the land with shockwaves. \nCharging enhances potency. \n This incantation represents the fury of Gurranq, his bestial nature returned, as much as it does his restless agitation. "
+ },
+ {
+   "Name": "Gurranq's Beast Claw",
+   "Link": "https://eldenring.wiki.fextralife.com/Gurrang's+Beast+Claw",
+   "Lore": "Superior incantation taught by Gurranq, the Beast Clergyman. \n\nCreates beast claws that rend surroundings with shockwaves. \n\nLong ago, Gurranq was a beast of such terrifying ferocity that his\nformer name meant \"Death of the Demigods. \""
+ },
+ {
+   "Name": "Unseen Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Unseen+Blade",
+   "Lore": "One of the night sorceries of Sellia, Town of Sorcery. \n\nEnchants armament held in right hand, making it completely invisible. \nThis sorcery can be cast while in motion. \n\nUsed by Sellian assassins to present themselves as unarmed sorcerers. "
+ },
+ {
+   "Name": "Scarlet Aeonia",
+   "Link": "https://eldenring.wiki.fextralife.com/Scarlet+Aeonia",
+   "Lore": "Technique of Malenia, the Goddess of Rot. \n\nCreates a gigantic flower that blooms into an explosion of scarlet\nrot. \n\nEach time the scarlet flower blooms, Malenia's rot advances. It has\nbloomed twice already. With the third bloom, she will become a\ntrue goddess. "
+ },
+ {
+   "Name": "Gravity Well",
+   "Link": "https://eldenring.wiki.fextralife.com/Gravity+Well",
+   "Lore": "One of the glintstone sorceries that manipulates gravitational forces. \n\nFires a projectile of condensed gravitational force. Those struck by it will be pulled toward the caster. \nCharging enhances potency. \n\nA gravitational technique studied by the young Radahn. His master was an Alabaster Lord with skin of stone. "
+ },
+ {
+   "Name": "Black Flame Blade",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Flame+Blade",
+   "Lore": "A black flame incantation of the Godskin Apostles. \n \n Engulfs armament held in the right hand with black flame. This incantation can be cast without delay after performing another action. \n Black flame is weighty. After dealing damage it continues to sap foes' HP for a very short time. "
+ },
+ {
+   "Name": "Loretta's Greatbow",
+   "Link": "https://eldenring.wiki.fextralife.com/Loretta's+Greatbow",
+   "Lore": "Sorcery used by Royal Knight Loretta. \n\nCreates a magic greatbow and fires a great arrow. \nCharging enhances potency. Hold to keep the great arrow nocked. \n\nIt is said that the bow was Loretta's favored weapon. "
+ },
+ {
+   "Name": "Black Flame's Protection",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Flame's+Protection",
+   "Lore": "A black flame incantation of the Godskin Apostles. \n Summons black fire within, increasing physical damage negation.  However, sacred flasks and other such forms of HP restoration are impaired. \n The Apostles were all embraced by the Gloam-Eyed Queen, and the black flame was their armor within. "
+ },
+ {
+   "Name": "Aspects of the Crucible: Tail",
+   "Link": "https://eldenring.wiki.fextralife.com/Aspects+of+the+Crucible:+Tail",
+   "Lore": "One of the ancient Erdtree incantations. \n Creates a supple tail that sweeps through foes before the caster. \nCharging enhances potency. \n This is a manifestation of the Erdtree's primal vital energies - an\naspect of the primordial crucible, where all life was once  blended\ntogether. "
+ },
+ {
+   "Name": "Inescapable Frenzy",
+   "Link": "https://eldenring.wiki.fextralife.com/Inescapable+Frenzy",
+   "Lore": "Incantation originating from the maddening Three Fingers. \n\nCauses the yellow flame of frenzy to blaze from the caster's eyes. \nThe caster then latches onto foes, spreading the madness. \nThis incantation also causes buildup of madness in the caster, and\nis only effective against Tarnished. \n\nTo gaze into one another's eyes is truly the most intimate form of\nhuman contact. "
+ },
+ {
+   "Name": "Glintstone Stars",
+   "Link": "https://eldenring.wiki.fextralife.com/Glintstone+Stars",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Fires three magic shooting stars that pursue the target. \nThis sorcery can be cast while in motion. Charging enhances\npotency. \n A sorcery of the Olivinus Conspectus, which attracts sorcerers from Sellia, Town of Sorcery. "
+ },
+ {
+   "Name": "Crystal Barrage",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Barrage",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Fires a volley of glintstone crystal shards. \nCharging increases potency. \n A sorcery of the Crystal Cadre, a group of sorcerers who pursue the wisdom of stone - the secrets locked in the faint cogitation of the Crystalians. "
+ },
+ {
+   "Name": "Explosive Ghostflame",
+   "Link": "https://eldenring.wiki.fextralife.com/Explosive+Ghostflame",
+   "Lore": "Sorcery of the servants of Death. \n Strike the ground with the staff, triggering an explosion of ghostflame that burns the surrounding area. \n In the time when there was no Erdtree, death was burned in ghostflame. Deathbirds were the keepers of that fire. "
+ },
+ {
+   "Name": "Comet",
+   "Link": "https://eldenring.wiki.fextralife.com/Comet",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \nFires a great magical comet. \n This sorcery can be cast repeatedly and while in motion. Charging\nenhances potency. \n The greatest of the Karolos Conspectus's sorceries, that only a\nvery few sorcerers have ever mastered. "
+ },
+ {
+   "Name": "Crystal Burst",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Burst",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nFires a burst of glintstone crystal shards. \nThis sorcery can be cast repeatedly and while in motion. Charging increases potency. \n\nA sorcery of the Crystal Cadre, a group of sorcerers who pursued the wisdom of stone - the secrets locked in the faint cogitation of the Crystalians. "
+ },
+ {
+   "Name": "Shattering Crystal",
+   "Link": "https://eldenring.wiki.fextralife.com/Shatterlng+Crystal",
+   "Lore": "Sorcery of the mysterious Crystalians. \n\nCreates a mass of crystal, then shatters it in a forward burst. \nCharging enhances potency. \n\nThe Crystalians are inorganic beings, yet they live. They cleave close to the ideals of the primeval current, and as such, they are revered guests of the sorcerers. "
+ },
+ {
+   "Name": "Heal",
+   "Link": "https://eldenring.wiki.fextralife.com/Heal",
+   "Lore": "Incantation of the Two Fingers' faithful. \n Heals HP for the caster and nearby allies. \nHold to continue praying and delay activation. \n The Two Fingers has high hopes for the Tarnished; that even if they should be wounded, even should they fall, they will continue to fight for their duty. "
+ },
+ {
+   "Name": "Ambush Shard",
+   "Link": "https://eldenring.wiki.fextralife.com/Ambush+Shard",
+   "Lore": "One of the night sorceries of Sellia, Town of Sorcery. \n\nLaunches a projectile from a distance removed from the caster, so as to strike the enemy from behind. \nThis sorcery can be cast repeatedly. \n\nThe Sellian sorcerers were assassins, and it is said that they often hunted their fellows. "
+ },
+ {
+   "Name": "Stars of Ruin",
+   "Link": "https://eldenring.wiki.fextralife.com/Stars+of+Ruin",
+   "Lore": "Legendary sorcery devised by Lusat, primeval sorcerers.   \n Fires twelve dark shooting stars that pursue the target. This sorcery can be cast while in motion. Charging increases potency. \n When Lusat glimpsed into the primeval current, he beheld the final moments of a great star cluster, and upon seeing it, he too was broken. "
+ },
+ {
+   "Name": "Darkness",
+   "Link": "https://eldenring.wiki.fextralife.com/Darkness",
+   "Lore": "Incantation of the Two Fingers' servants, who once served as the assassins of the Roundtable Hold. \n Creates a veil of darkness that conceals the caster. \nThis incantation can be cast while in motion or crouching. \n The assassins were themselves once Tarnished who had strayed from guidance, and they pursued their duty in the darkness that is without grace. "
+ },
+ {
+   "Name": "Meteorite",
+   "Link": "https://eldenring.wiki.fextralife.com/Meteorite",
+   "Lore": "One of the glintstone sorceries that manipulates gravitational forces. \n Summons a void that emits a rain of small meteorites. \nHold to continue the effect. \n The sorcery originates from the Onyx Lords, who had skin of stone, and were called lords in reverential fear of their destructive power. "
+ },
+ {
+   "Name": "Poison Mist",
+   "Link": "https://eldenring.wiki.fextralife.com/Poison+Mist",
+   "Lore": "Incantation of the servants of rot. \n Releases a poisonous mist before the caster. \nThis incantation can be cast while in motion. \n Those who dwell within poison know rot all too well. The death that begets life, that comes to all equally. That is to say: it is the cycle of rebirth put into practice. "
+ },
+ {
+   "Name": "Frenzied Burst",
+   "Link": "https://eldenring.wiki.fextralife.com/Frenzied+Burst",
+   "Lore": "Incantations originating from the maddening Three Fingers. \n Releases concentrated blasts of the yellow flame of frenzy from the caster's eyes. \nCharging enhances potency, enabling the blasts to penetrate the enemy's guard. \n In times past, every single person who attempted to control the flame of frenzy succumbed to madness after a desperate internal struggle. This incantation is testament to a meager victory. "
+ },
+ {
+   "Name": "Dragonice",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragonice",
+   "Lore": "One of the incantations of Dragon Communion. \n Transforms caster into a dragon to spew icy breath. \nCharging extends duration. \n Those extraordinary individuals who perpetuate Dragon\nCommunion are called the dragon-hearted. "
+ },
+ {
+   "Name": "Immutable Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Immutable+Shield",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \n Enchants shield held in the left hand with the light of regression, increasing all forms of non-physical damage negation and ailment resistance. \n Two concepts form the basis for Golden Order fundamentalism. \nOne is the law of regression, to which this incantation relates. "
+ },
+ {
+   "Name": "Carian Piercer",
+   "Link": "https://eldenring.wiki.fextralife.com/Carian+Piercer",
+   "Lore": "One of the sorceries of the Carian royal family. \n\nConjures a magic greatsword to impale foes. \nCharging lengthens the initial step in. \n This sorcery forms a counterpart to Carian Greatsword. \nHighly lethal when used against single foes riding alone. "
+ },
+ {
+   "Name": "Ancient Death Rancor",
+   "Link": "https://eldenring.wiki.fextralife.com/Ancient+Death+of+Rancor",
+   "Lore": "Sorcery of the servants of Death. \n Summons a horde of vengeful spirits that chase down foes. Charging enhances potency. \n They are cinders of the ancient death hex, raked from the fires of ghostflame by Deathbirds. "
+ },
+ {
+   "Name": "Shatter Earth",
+   "Link": "https://eldenring.wiki.fextralife.com/Shatter+Earth",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nImbues the ferrule of the caster's staff with magic, then thrusts it into the ground to create a magical shockwave. \nAllows one follow-up attack. \n\nA Stonedigger sorcery used by the glintstone miners of the crystal tunnel. At the academy, use of this sorcery was a stigma that marked out failed scholars. "
+ },
+ {
+   "Name": "Poison Armament",
+   "Link": "https://eldenring.wiki.fextralife.com/Poison+Armament",
+   "Lore": "Incantation of the servants of rot. \n \n \n \n \n Enchants armament held in the right hand with poison. \n \n \n This incantation can be cast while in motion. \n \n \n \n \n Those who dwell within poison know rot all too well. The death that begets life, that comes to all equally. That is to say: it is the cycle of rebirth put into practice. "
+ },
+ {
+   "Name": "Lord's Aid",
+   "Link": "https://eldenring.wiki.fextralife.com/Lord's+Aid",
+   "Lore": "Incantation bestowed by the Two Fingers upon the Tarnished\ndeemed worthy of becoming a lord. \n Alleviates buildup of poison, blood loss, and sleep for the caster\nand nearby allies. Additionally, cures poison. \n Hold to continue praying and delay activation. "
+ },
+ {
+   "Name": "Lord's Heal",
+   "Link": "https://eldenring.wiki.fextralife.com/Lord's+Heal",
+   "Lore": "Incantation bestowed by the Two Fingers upon the Tarnished\ndeemed worthy of becoming a lord. \n Heals a massive amount of HP for the caster and nearby allies. \nHold to continue praying and delay activation. \n Tarnished - O, Tarnished! Seek the Erdtree and stand before\nMarika, its Queen. Become the Elden Lord!"
+ },
+ {
+   "Name": "Greatblade Phalanx",
+   "Link": "https://eldenring.wiki.fextralife.com/Greatblade+Phalanx",
+   "Lore": "One of the sorceries of the Carian royal family. \n\nCreates a defensive arch of larger magic glintblades overhead, which automatically attack nearby foes. \n\nUsed by the enchanted troll knights. \nThey were the comrades of the young Rennala, bound by oath. "
+ },
+ {
+   "Name": "Zamor Ice Storm",
+   "Link": "https://eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)",
+   "Lore": "Ice sorcery of the Town of Zamor. \n Strike the ground with the staff to create a freezing tornado. \nCharging enhances potency. \n Cloaked in icy tempests, the knights of Zamor have challenged\nthe Fire Giants since ancient times. "
+ },
+ {
+   "Name": "Great Glintstone Shard",
+   "Link": "https://eldenring.wiki.fextralife.com/Great+Glintstone+Shard",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nThe glintstone serves as a conduit, launching large magical projectiles at foes. \nThis sorcery can be cast repeatedly and while in motion. \n\nThose unworthy of the stone crown typically end their brief journey into sorcery here. "
+ },
+ {
+   "Name": "Scholar's Shield",
+   "Link": "https://eldenring.wiki.fextralife.com/Scholar's+Shield",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Enchants shield held in the left hand with additional damage negation. \nThis sorcery can be cast while in motion. \n \n Taught to the Knights of the Cuckoo by the academy as payment for their contract. "
+ },
+ {
+   "Name": "Honed Bolt",
+   "Link": "https://eldenring.wiki.fextralife.com/Honed+Bolt",
+   "Lore": "One of the incantations of the capital's ancient dragon cult. \n\nSummons a bolt of lightning to strike foes from above. \nThis incantation can be cast repeatedly. \n Long ago, Godwyn the Golden defeated the ancient dragon Fortissax, and befriended his fallen foe — an event that gave rise to the ancient dragon cult in the capital. "
+ },
+ {
+   "Name": "Lightning Fortification",
+   "Link": "https://eldenring.wiki.fextralife.com/Lightning+Fortification",
+   "Lore": "Incantation of the Two Fingers' faithful. \n \n Increases lightning damage negation. \nThis incantation can be cast while in motion. \n Follow the path that has been set for you, and you will make enemies of all others: the monks, the sorcerers, the ancient dragon knights, and the scions of gold. Heed me – the Lands Between offers no welcome to the Tarnished. "
+ },
+ {
+   "Name": "Swift Glintstone Shard",
+   "Link": "https://eldenring.wiki.fextralife.com/Swift+Glintstone+Shard",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n\nThe glintstone serves as a conduit, launching swift magical projectiles at foes. \nThis sorcery can be used without delay after performing another action. \n\nThose unworthy of the stone crown typically end their brief journey into sorcery here. "
+ },
+ {
+   "Name": "Law of Causality",
+   "Link": "https://eldenring.wiki.fextralife.com/Law+of+Causality",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \nOne of the key fundamentals. \n Manifests a small ring of causality within that allows the caster to\nautomatically retaliate upon receiving a certain number of blows. \n\nThe fundamentalists describe the Golden Order through the\npowers of regression and causality. Causality is the pull between\nmeanings; that which links all things in a chain of relation. "
+ },
+ {
+   "Name": "Flame, Fall Upon Them",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Fall+Upon+Them",
+   "Lore": "One of the incantations that draws directly from the power of the\nFire Giants. \n Hurls several balls of fire at once. \n Charging enhances potency and causes the balls offire to explode. \nThere is no record of this incantation in common prayerbooks. \nOnly a select few prelates know of its existence. "
+ },
+ {
+   "Name": "Magma Breath",
+   "Link": "https://eldenring.wiki.fextralife.com/Magma+Breath",
+   "Lore": "One of the incantations of Dragon Communion. \n\nTransforms caster into a wyrm to spew magma breath. \nAllows one follow-up attack. \n\nThose who have performed the Dragon Communion will find\ntheir humanity slowly slipping away. Once they fully succumb to\ntheir fate, they are left no more than wyrms that crawl the earth. "
+ },
+ {
+   "Name": "Order Healing",
+   "Link": "https://eldenring.wiki.fextralife.com/Order+Healing",
+   "Lore": "One of the incantations of the Golden Order fundamentalists. \nUsed by hunters of Those Who Live in Death. \n Alleviates death blight buildup. \n The noble Goldmask lamented what had become of the hunters. \nHow easy it is for learning and learnedness to be reduced to the\nravings of fanatics; all the good and the great wanted, in their\nfoolishness, was an absolute evil to contend with. \n Does such a notion exist in the fundamentals of Order?"
+ },
+ {
+   "Name": "Starlight",
+   "Link": "https://eldenring.wiki.fextralife.com/Starlight",
+   "Lore": "One of the glintstone sorceries of the Academy of Raya Lucaria. \n Creates a small, floating star light that illuminates surroundings. \nThis sorcery can be cast while in motion. \n Granted to sorcerers who depart from the academy to embark on journeys. Even during the blackest nights, sojourns underground, or imprisonment in gaol, the stars are never far from a sorcerer's side. "
+ },
+ {
+   "Name": "Aspects of the Crucible: Horns",
+   "Link": "https://eldenring.wiki.fextralife.com/Aspect+of+the+Crucible:+Horns",
+   "Lore": "One of the ancient Erdtree incantations. \n Creates a mighty horn on the caster's shoulder to gore foes from a low stance. \nCharging allows the caster to barrel into foes before delivering the final attack. \n This is a manifestation of the Erdtree's primal vital energies - an aspect of the primordial crucible, where all life was once blended together. "
+ },
+ {
+   "Name": "Dragonclaw",
+   "Link": "https://eldenring.wiki.fextralife.com/Dragonclaw",
+   "Lore": "One of the incantations of Dragon Communion. \n Transforms caster into a dragon to tear through foes with dragon claws. Allows one follow-up attack. \n Incantation of those who have hunted dragons and feasted upon their hearts. This is a pure and overwhelming power. "
+ },
+ {
+   "Name": "Stone of Gurranq",
+   "Link": "https://eldenring.wiki.fextralife.com/Stone+of+Gurranq",
+   "Lore": "Superior incantation taught by Gurranq, the Beast Clergyman. \n\nHurls a boulder before the caster. \nThis incantation can be cast repeatedly. \n\nLong ago, Gurranq was a beast of such terrifying ferocity that his\nformer name meant \"Death of the Demigods. \""
+ },
+ {
+   "Name": "Scouring Black Flame",
+   "Link": "https://eldenring.wiki.fextralife.com/Scouring+Black+Flame",
+   "Lore": "A black flame incantation of the Godskin Apostles. \n\nSweeps a wide area before the caster with black flame. \nCharging enhances range. \n\nThe black flame could once slay gods. But when Maliketh sealed Destined Death, the true power of the black flame was lost. "
+ },
+ {
+   "Name": "Crystal Release",
+   "Link": "https://eldenring.wiki.fextralife.com/Crystal+Release",
+   "Lore": "Sorcery of the mysterious Crystalians. \n\nCreates a mass of crystal, then shatters it to scour a wide area with a violent rain of crystal shards. \n\nThis sorcery is used by high-ranking adepts among the Crystalians. Some also call this sorcery \"the Crystal Sun. \""
+ },
+ {
+   "Name": "Night Shard",
+   "Link": "https://eldenring.wiki.fextralife.com/Night+Shard",
+   "Lore": "One of the night sorceries of Sellia, Town of Sorcery. \n \n Swiftly fires a semi-invisible projectile. This sorcery can be used without delay after performing another action. \n The Sellian sorcerers were assassins, and it is said that they often hunted their fellows. "
+ },
+ {
+   "Name": "Fortissax's Lightning Spear",
+   "Link": "https://eldenring.wiki.fextralife.com/Fortissax's+Lightning+Spear",
+   "Lore": "Incantation that channels the power of the ancient dragon Fortissax.   \n creates two spears of red lightning and stabs them into the ground from above, one after another. On impact, each spear will burst into trails of lightning covering the area. \n During the War of the Anicent Dragons, these twin red lightning stakes were the hallmark of the once ancient dragon who was called the mightiest boulderstone. "
+ },
+ {
+   "Name": "Black Flame",
+   "Link": "https://eldenring.wiki.fextralife.com/Black+Flame",
+   "Lore": "A black flame incantation of the Godskin Apostles. \n \nThrows a ball of raging black fire. \nCharging enhances potency and causes the fireball to explode. \n\nBlack flame is weighty. After dealing damage it continues to sap\nfoes' HP for a very short time. "
+ },
+ {
+   "Name": "Roiling Magma",
+   "Link": "https://eldenring.wiki.fextralife.com/Roiling+Magma",
+   "Lore": "One of the sorceries developed from the magma of Mt. Gelmir. \n\nFires a lump of condensed magma that explodes a short delay after hitting the target. \nCharging enhances potency and further delays the explosion. \n\nAfter discovering the ancient hexes of Gelmir, Rykard, son of Queen Rennala, brought them back into practical use as new forms of sorcery. "
+ },
+ {
+   "Name": "Loretta's Mastery",
+   "Link": "https://eldenring.wiki.fextralife.com/Loretta's+Mastery",
+   "Lore": "Sorcery used by Loretta, Knight of the Haligtree. \n \nCreates a magic greatbow and fires four great arrows simultaneously. \nCharging enhances potency. Hold to keep the great arrows nocked. \n \nDeveloped by Loretta after her long, bloody journey to seek out a place where the Albinaurics could live in peace. "
+ },
+ {
+   "Name": "Freezing Mist",
+   "Link": "https://eldenring.wiki.fextralife.com/Freezing+Mist",
+   "Lore": "Sorcery said to have been used by the old snow witch. \n Releases a cold mist before the caster. \nThis sorcery can be cast while in motion. Charging enhances range of the mist. \n The snowy crone taught the young Ranni to fear the dark moon as she imparted her cold sorcery. "
+ },
+ {
+   "Name": "Blessing's Boon",
+   "Link": "https://eldenring.wiki.fextralife.com/Blessing's+Boon",
+   "Lore": "One of the ancient Erdtree incantations. \n Grants a blessing to the caster and nearby allies, gradually restoring HP. \nHold to continue praying and delay activation. \n \n Blessings once fell like tears from the Erdtree, and this incantation is but a lingering remnant of their power. "
+ },
+ {
+   "Name": "Shadow Bait",
+   "Link": "https://eldenring.wiki.fextralife.com/Shadow+Bait",
+   "Lore": "Incantation of the Two Fingers' servants, who once served as the\nassassins of the Roundtable Hold. \n Creates a pale gold shadow before the caster, luring foes of human\nbuild and attracting their aggression. \n This incantation can be cast while in motion or crouching, and\nwill still affect foes that are already in a combat state. \n It is said that those beguiled by the shadow see within it a hated\nfoe. "
+ },
+ {
+   "Name": "Tibia's Summons",
+   "Link": "https://eldenring.wiki.fextralife.com/Tibia's+Summons",
+   "Lore": "Sorcery of the servants of Death. \n\nSummons a group of Those Lost in Death. \nThree skeletons will appear some distance from the caster and attack foes before disappearing. \n\nThe dead have long been left to wander; what they need is leadership. "
+ },
+ {
+   "Name": "Flame Sling",
+   "Link": "https://eldenring.wiki.fextralife.com/Flame+Sling",
+   "Lore": "An incantation from the Fire Monks, guardians of the giants' flame of ruin. \nProduces and throws a ball of raging fire. \nCharging up this incantation makes it more powerful and cases the ball to explode. \nFire beguiles those who look upon it. \nThose who would guard the flame would also come to worship it. "
+ }
+]
+}
