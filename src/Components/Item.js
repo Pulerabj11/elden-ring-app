@@ -1,41 +1,48 @@
-import { useState, useEffect } from 'react'
-import $ from 'jquery'
+import { useState, useEffect, useRef } from 'react'
 
 // Takes item data as JSON string and displays each item as a togglable component
 const Item = ({item, term}) => {
 
     const [toggle, setToggle] = useState(true)
 
-    const itemInfo = (<div><div className='line'></div><div className='item-lore'>{item.Lore}</div></div>)
+    // React hook to reference this element
+    const loreElement = useRef()
 
-    // // Highlights the search term
-    // // Called from useEffect after component is rendered.
-    // function highlight() {
-    //     // // Get JQuery collection of element objects
-    //     // var itemLore = $(this).find('.item-lore').get()
-    //     // var loreInnerHTML = itemLore.innerHTML
-    //     // console.log(loreInnerHTML)
+    const itemInfo = (<div>
+            <div className='line'></div>
+            <div className='item-lore' ref={loreElement}>{item.Lore}</div>
+        </div>)
 
-    //     // g flag looks for all matches, not just first
-    //     // i flag is case-insensitive
-    //     const regex = new RegExp(term, 'gi')
+    // Highlights the search term
+    // Called from useEffect after component is rendered.
+    function highlight() {
+        // If element exists, get the inner html and highlight the search term within
+        if (loreElement.current !== undefined && loreElement.current !== null) {
 
-    //     // // Replace and set new inner HTML
-    //     // // $& is a replacement patter that tells the replacer method to insert the matched substring there
-    //     var newInnerHTML = item.Lore.replace(regex, "<mark className='highlight'>$&</mark>")
-    //     loreInnerHTML.innerHTML = newInnerHTML
-    // }
+            //get inner html of the lore element
+            var loreInnerHTML = loreElement.current.innerHTML
 
-    // useEffect(() => {
-    //     highlight()
-    // })
+            // g flag looks for all matches, not just first
+            // i flag is case-insensitive
+            const regex = new RegExp(term, 'gi')
+
+            // Replace and set new inner HTML of lore element
+            // $& is a replacement patter that tells the replacer method to insert the matched substring
+            var newInnerHTML = loreInnerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
+            loreElement.current.innerHTML = newInnerHTML
+        }
+    }
+
+    useEffect(() => {
+        highlight()
+    })
 
     return (
             <div className='item'>
                 <div className='item-header'>
                     <a className='item-header-title' target='_blank' rel="noreferrer" href={item.Link}>{item.Name}</a>
-                    <button className='toggle-button' onClick={() => setToggle(!toggle)}>
-                        {toggle ? <span className='minus-symbol'>-</span> : <span className='plus-symbol'>+</span>}
+                    <button className='item-toggle-button' onClick={() => setToggle(!toggle)}>
+                        {toggle ? <span className='item-minus-symbol'>-</span> : <span className='item-plus-symbol'>+</span>}
                     </button>
                 </div>
                 {toggle && itemInfo}

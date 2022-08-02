@@ -9,6 +9,16 @@ body {
     margin: 5px auto;
 }
 
+.button {
+    width: 80px;
+    height: 24px;
+    background-color: #555555;
+    border: 1px solid #000000;
+    color: white;
+    margin-left: 2px;
+    cursor: pointer;
+}
+
 .search-bar {
     width: 100%;
     margin: 5px auto;
@@ -24,7 +34,13 @@ body {
     align-items: left;
 }
 
-.type-header {
+.category-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.category {
     font-size: 38px;
 }
 
@@ -64,11 +80,25 @@ a {
 
 a:hover {
     color: #00a2ff;
+    cursor: pointer;
   }
 
+.category-toggle-button {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    border: 2px solid rgb(30, 30, 30);
+    position: relative;
+    right: -15px;
+    top: -5px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
 
-
-.toggle-button {
+.item-toggle-button {
     width: 20px;
     height: 20px;
     background-color: rgb(53, 53, 53);
@@ -79,12 +109,21 @@ a:hover {
     font-size: 15px;
     display: flex;
     justify-content: center;
+    cursor: pointer;
 }
 
-.minus-symbol {
-    line-height: 13px;
+.category-minus-symbol {
+    line-height: 20px;
 }
 
-.plus-symbol {
+.category-plus-symbol {
+    line-height: 25px;
+}
+
+.item-minus-symbol {
+    line-height: 12px;
+}
+
+.item-plus-symbol {
     line-height: 15px;
 }

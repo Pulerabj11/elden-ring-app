@@ -24,7 +24,7 @@ const SearchBar = () => {
         text = text.trim()
         text = '+' + text
         text = text + '~0'
-        text = text.replace(/ /g, '~0 +');
+        text = text.replace(/ /g, '~0 +')
 
         return text
     }
@@ -51,6 +51,7 @@ const SearchBar = () => {
 
                 // Set fields for search indexing
                 this.ref('Name')
+                this.field('Name')
                 this.field('Link')
                 this.field('Lore')
 
@@ -78,34 +79,38 @@ const SearchBar = () => {
         setResults(tempResults)
     }
 
-    // Highlights the search term
-    // Called from useEffect after component is rendered.
-    function highlight() {
-        // Get JQuery collection of element objects
-        var itemLore = $('.item-lore')
-        if (itemLore.length) {
-            // Turns the collection into an array
-            var itemLoreArray = $('.item-lore').get()
+    //
+    // OLD HIGHLIGHTING FUNCTION
+    // LEAVES INNERHTML UNHIGHLIGHTED AFTER RENDER
+    //
+    // // Highlights the search term
+    // // Called from useEffect after component is rendered.
+    // function highlight() {
+    //     // Get JQuery collection of element objects
+    //     var itemLore = $('.item-lore')
+    //     if (itemLore.length) {
+    //         // Turns the collection into an array
+    //         var itemLoreArray = $('.item-lore').get()
 
-            // Iterate through the array to highlight the term in each '.item-lore' element
-            for (var i=0; i<itemLoreArray.length; i++) {
-                var innerHTML = itemLoreArray[i].innerHTML
+    //         // Iterate through the array to highlight the term in each '.item-lore' element
+    //         for (var i=0; i<itemLoreArray.length; i++) {
+    //             var innerHTML = itemLoreArray[i].innerHTML
 
-                // g flag looks for all matches, not just first
-                // i flag is case-insensitive
-                const regex = new RegExp(term, 'gi')
+    //             // g flag looks for all matches, not just first
+    //             // i flag is case-insensitive
+    //             const regex = new RegExp(term, 'gi')
 
-                // Replace and set new inner HTML
-                // $& is a replacement pattern that tells the replacer method to insert the matched substring there
-                var newInnerHTML = innerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
-                itemLoreArray[i].innerHTML = newInnerHTML
-            }
-        }
-    }
+    //             // Replace and set new inner HTML
+    //             // $& is a replacement pattern that tells the replacer method to insert the matched substring there
+    //             var newInnerHTML = innerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
+    //             itemLoreArray[i].innerHTML = newInnerHTML
+    //         }
+    //     }
+    // }
 
-    useEffect(() => {
-        highlight()
-    })
+    // useEffect(() => {
+    //     highlight()
+    // })
 
     return (
         <div className='search-header'>
@@ -123,7 +128,7 @@ const SearchBar = () => {
                     <input
                         type='submit'
                         value='Search'
-                        className='btn btn-block'
+                        className='button'
                     />
                 </div>
             </form>

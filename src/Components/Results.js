@@ -2,11 +2,16 @@
 import Item from './Item'
 import uuid from 'react-uuid'
 
+import { useState } from 'react'
+
 // JSON Imports
 import eldenRingDataJSON from '../JSON Data/eldenRingData.json'
 
 // Gets item names from lunr results and checks them against my JSON data. Then call onAdd={addTask}
 const Results = ({result, type, term}) => {
+
+    const [toggle, setToggle] = useState(true)
+
     var items = []
 
     // Get keys of data, ie. Ammunition, Armor, ..., Tools
@@ -25,9 +30,14 @@ const Results = ({result, type, term}) => {
 
     return (
         <div className='results-category'>
-            <div className='type-header'>{type}</div>
+            <div className='category-header'>
+                <div className='category'>{type}</div>
+                <button className='category-toggle-button' onClick={() => setToggle(!toggle)}>
+                        {toggle ? <span className='category-minus-symbol'>-</span> : <span className='category-plus-symbol'>+</span>}
+                </button>
+            </div>
             {items.map((item) => (
-                <Item key={uuid()} item={item} term={term}/>
+                toggle && <Item key={uuid()} item={item} term={term}/>
             ))}
         </div>
     )
