@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import uuid from 'react-uuid'
 import lunr from 'lunr'
 import $ from 'jquery'
-import jq from 'jquery'
 
 // JSON Imports
 import eldenRingDataJSON from '../JSON Data/eldenRingData.json'
@@ -16,7 +15,7 @@ const SearchBar = () => {
     const [term, setTerm] = useState('')
 
     // Hold search results produced by lunr
-    const [results, setResults] = useState([])
+    const [results, setResults] = useState({})
 
     // Clean search input so it searches for the entire input exactly
     // Lunr expressions: + means the term must be present.  ~0 means it must be the exact word
@@ -40,12 +39,12 @@ const SearchBar = () => {
             return
         }
 
-        var tempResults = []
-        var tempTypes = []
+        var tempResults = {}
 
         // Get keys of data, ie. Ammunition, Armor, ..., Tools
         var keys = Object.keys(eldenRingDataJSON)
 
+        // For each key in eldenRingDataJSON, search for the term
         for (var i = 0; i < keys.length; i++) {
             // Create lunr index of my JSON data
             const index = lunr(function () {
@@ -64,21 +63,15 @@ const SearchBar = () => {
                 }, this)
             })
 
+            // Modify the term to utilize lunr regex expressions
             var searchTerm = modifyTerm(term)
 
             // Find relevant data from lunrResult and build arrays
             var lunrResult = index.search(searchTerm)
 
+            // Build a JSON object with the lunr results
             if (lunrResult.length !== 0) {
-                tempResults.push(lunrResult)
-                tempTypes.push(keys[i])
-            }
-        }
-
-        // Add type property to each item in tempResults JSON objects
-        for (var x = 0; x < tempResults.length; x++) {
-            for (var y = 0; y < tempResults[x].length; y++) {
-                tempResults[x][y].type = tempTypes[x]
+                tempResults[keys[i]] = lunrResult
             }
         }
 
@@ -103,7 +96,7 @@ const SearchBar = () => {
                 const regex = new RegExp(term, 'gi')
 
                 // Replace and set new inner HTML
-                // $& is a replacement patter that tells the replacer method to insert the matched substring there
+                // $& is a replacement pattern that tells the replacer method to insert the matched substring there
                 var newInnerHTML = innerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
                 itemLoreArray[i].innerHTML = newInnerHTML
             }
@@ -138,9 +131,9 @@ const SearchBar = () => {
                 {results === [] ? (
                     <div>No Results</div>
                 ) : (
-                    results.map((result) => (
-
-                        <Results key={uuid()} result={result} />
+                    {/* For each key in results, get build a Results component with the data and key pair*/},
+                    Object.keys(results).map((JSONkey) => (
+                        <Results key={uuid()} result={results[JSONkey]} type={JSONkey} term={term}/>
                     )))}
             </div>
         </div>
