@@ -76,6 +76,7 @@ const SearchBar = () => {
             }
         }
 
+        console.log(tempResults)
         setResults(tempResults)
     }
 

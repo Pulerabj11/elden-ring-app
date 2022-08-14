@@ -7,6 +7,7 @@ const Item = ({item, term}) => {
 
     // React hook to reference this element
     const loreElement = useRef()
+    const nameElement = useRef()
 
     const itemInfo = (<div>
             <div className='line'></div>
@@ -31,6 +32,22 @@ const Item = ({item, term}) => {
             var newInnerHTML = loreInnerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
             loreElement.current.innerHTML = newInnerHTML
         }
+
+        // If element exists, get the inner html and highlight the search term within
+        if (nameElement.current !== undefined && nameElement.current !== null) {
+
+            //get inner html of the name element
+            var nameInnerHTML = nameElement.current.innerHTML
+
+            // g flag looks for all matches, not just first
+            // i flag is case-insensitive
+            const regex = new RegExp(term, 'gi')
+
+            // Replace and set new inner HTML of name element
+            // $& is a replacement patter that tells the replacer method to insert the matched substring
+            var newInnerHTML = nameInnerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
+            nameElement.current.innerHTML = newInnerHTML
+        }
     }
 
     useEffect(() => {
@@ -40,7 +57,7 @@ const Item = ({item, term}) => {
     return (
             <div className='item'>
                 <div className='item-header'>
-                    <a className='item-header-title' target='_blank' rel="noreferrer" href={item.Link}>{item.Name}</a>
+                    <a className='item-header-title' target='_blank' rel="noreferrer" ref={nameElement} href={item.Link}>{item.Name}</a>
                     <button className='item-toggle-button' onClick={() => setToggle(!toggle)}>
                         {toggle ? <span className='item-minus-symbol'>-</span> : <span className='item-plus-symbol'>+</span>}
                     </button>
