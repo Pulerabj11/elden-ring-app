@@ -11,6 +11,8 @@ import Results from './Results'
 
 const SearchBar = () => {
 
+    const [tempTerm, setTempTerm] = useState('')
+
     // Hold the search term
     const [term, setTerm] = useState('')
 
@@ -30,11 +32,14 @@ const SearchBar = () => {
     }
 
     const onSubmit = (e) => {
+        console.log(tempTerm)
+        setTerm(tempTerm)
+        console.log(term)
 
         e.preventDefault()
 
         //Check if there is text added to the task input
-        if (!term) {
+        if (!tempTerm) {
             alert('Please add a search term.')
             return
         }
@@ -65,7 +70,9 @@ const SearchBar = () => {
             })
 
             // Modify the term to utilize lunr regex expressions
-            var searchTerm = modifyTerm(term)
+            var searchTerm = modifyTerm(tempTerm)
+
+            console.log(searchTerm)
 
             // Find relevant data from lunrResult and build arrays
             var lunrResult = index.search(searchTerm)
@@ -80,39 +87,6 @@ const SearchBar = () => {
         setResults(tempResults)
     }
 
-    //
-    // OLD HIGHLIGHTING FUNCTION
-    // LEAVES INNERHTML UNHIGHLIGHTED AFTER RENDER
-    //
-    // // Highlights the search term
-    // // Called from useEffect after component is rendered.
-    // function highlight() {
-    //     // Get JQuery collection of element objects
-    //     var itemLore = $('.item-lore')
-    //     if (itemLore.length) {
-    //         // Turns the collection into an array
-    //         var itemLoreArray = $('.item-lore').get()
-
-    //         // Iterate through the array to highlight the term in each '.item-lore' element
-    //         for (var i=0; i<itemLoreArray.length; i++) {
-    //             var innerHTML = itemLoreArray[i].innerHTML
-
-    //             // g flag looks for all matches, not just first
-    //             // i flag is case-insensitive
-    //             const regex = new RegExp(term, 'gi')
-
-    //             // Replace and set new inner HTML
-    //             // $& is a replacement pattern that tells the replacer method to insert the matched substring there
-    //             var newInnerHTML = innerHTML.replace(regex, "<mark className='highlight'>$&</mark>")
-    //             itemLoreArray[i].innerHTML = newInnerHTML
-    //         }
-    //     }
-    // }
-
-    // useEffect(() => {
-    //     highlight()
-    // })
-
     return (
         <div className='search-header'>
             <form className='search-bar' onSubmit={onSubmit}>
@@ -122,8 +96,8 @@ const SearchBar = () => {
                         type='Search'
                         className='search'
                         placeholder='Enter a term'
-                        value={term}
-                        onChange={(e) => setTerm(e.target.value)}
+                        value={tempTerm}
+                        onChange={(e) => setTempTerm(e.target.value)}
                     />
                     {/*submit button*/}
                     <input
