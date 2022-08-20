@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useRef } from 'react'
 import uuid from 'react-uuid'
 import lunr from 'lunr'
 import $ from 'jquery'
@@ -11,7 +11,7 @@ import Results from './Results'
 
 const SearchBar = () => {
 
-    const [tempTerm, setTempTerm] = useState('')
+    const tempTerm = useRef('')
 
     // Hold the search term
     const [term, setTerm] = useState('')
@@ -32,59 +32,55 @@ const SearchBar = () => {
     }
 
     const onSubmit = (e) => {
-        console.log(tempTerm)
-        setTerm(tempTerm)
-        console.log(term)
-
-        e.preventDefault()
-
-        //Check if there is text added to the task input
-        if (!tempTerm) {
-            alert('Please add a search term.')
-            return
-        }
-
-        var tempResults = {}
-
-        // Get keys of data, ie. Ammunition, Armor, ..., Tools
-        var keys = Object.keys(eldenRingDataJSON)
-
-        // For each key in eldenRingDataJSON, search for the term
-        for (var i = 0; i < keys.length; i++) {
-            // Create lunr index of my JSON data
-            const index = lunr(function () {
-
-                // Set fields for search indexing
-                this.ref('Name')
-                this.field('Name')
-                this.field('Link')
-                this.field('Lore')
-
-                // Get JSON object from data
-                var key = eldenRingDataJSON[keys[i]]
-
-                // Loop through JSON data and add items to lunr search index
-                key.forEach(function (doc) {
-                    this.add(doc)
-                }, this)
-            })
-
-            // Modify the term to utilize lunr regex expressions
-            var searchTerm = modifyTerm(tempTerm)
-
-            console.log(searchTerm)
-
-            // Find relevant data from lunrResult and build arrays
-            var lunrResult = index.search(searchTerm)
-
-            // Build a JSON object with the lunr results
-            if (lunrResult.length !== 0) {
-                tempResults[keys[i]] = lunrResult
+        if (tempTerm.current != '') {
+            console.log(tempTerm.current)
+            setTerm(tempTerm.current)
+            console.log(term)
+    
+            e.preventDefault()
+            
+            var tempResults = {}
+    
+            // Get keys of data, ie. Ammunition, Armor, ..., Tools
+            var keys = Object.keys(eldenRingDataJSON)
+    
+            // For each key in eldenRingDataJSON, search for the term
+            for (var i = 0; i < keys.length; i++) {
+                // Create lunr index of my JSON data
+                const index = lunr(function () {
+    
+                    // Set fields for search indexing
+                    this.ref('Name')
+                    this.field('Name')
+                    this.field('Link')
+                    this.field('Lore')
+    
+                    // Get JSON object from data
+                    var key = eldenRingDataJSON[keys[i]]
+    
+                    // Loop through JSON data and add items to lunr search index
+                    key.forEach(function (doc) {
+                        this.add(doc)
+                    }, this)
+                })
+    
+                // Modify the term to utilize lunr regex expressions
+                var searchTerm = modifyTerm(tempTerm.current)
+    
+                console.log(searchTerm)
+    
+                // Find relevant data from lunrResult and build arrays
+                var lunrResult = index.search(searchTerm)
+    
+                // Build a JSON object with the lunr results
+                if (lunrResult.length !== 0) {
+                    tempResults[keys[i]] = lunrResult
+                }
             }
+    
+            console.log(tempResults)
+            setResults(tempResults)
         }
-
-        console.log(tempResults)
-        setResults(tempResults)
     }
 
     return (
@@ -96,8 +92,7 @@ const SearchBar = () => {
                         type='Search'
                         className='search'
                         placeholder='Enter a term'
-                        value={tempTerm}
-                        onChange={(e) => setTempTerm(e.target.value)}
+                        onChange={(e) => (tempTerm.current = e.target.value)}
                     />
                     {/*submit button*/}
                     <input
@@ -111,7 +106,7 @@ const SearchBar = () => {
                 {results === [] ? (
                     <div>No Results</div>
                 ) : (
-                    {/* For each key in results, get build a Results component with the data and key pair*/},
+                    {/* For each key in results, build a Results component with the data and key pair*/},
                     Object.keys(results).map((JSONkey) => (
                         <Results key={uuid()} result={results[JSONkey]} type={JSONkey} term={term}/>
                     )))}
